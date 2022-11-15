@@ -1,0 +1,38 @@
+等 u Dn08 热 a Dn01 米饭 n Br04 面包 n Bo21 ATT COO FEAT
+饭 n Br04 一 m Ka16 都 d Cb25 来之不易 i Ed07 COO ATT eCOO MEAS EXP
+多 v Ih05 一个 m Dn08 也 d Kd03 不 d Ie01 ATT VOB CONT
+多 v Ih05 一个 m Dn08 也 d Kd03 不 d Ie01 ATT MEAS VOB
+几 m Bp26 个 q Dn08 就 d Kb04 好 a Je10 PAT ATT MEAS VOB
+的 u Bo29 好 a Je10 了 y Ig01 吃 v Je13 ATT FEAT VOB
+终于 d Ka13 把 p Hc10 端 v Bc01 上来 v Hj62 PAT mRELA POB
+川 j Be05 味 Ng Bg06 ATT MEAS FEAT CONT VOB
+元 q Ah08 三 m Dn04 一 m Ka16 汤 n Bg01 ATT MEAS
+等 u Dn08 热 a Dn01 米饭 n Br04 面包 n Bo21 ATT COO FEAT
+饭 n Br04 一 m Ka16 都 d Cb25 来之不易 i Ed07 COO ATT eCOO MEAS EXP
+多 v Ih05 一个 m Dn08 也 d Kd03 不 d Ie01 ATT VOB CONT
+多 v Ih05 一个 m Dn08 也 d Kd03 不 d Ie01 ATT MEAS VOB
+几 m Bp26 个 q Dn08 就 d Kb04 好 a Je10 PAT ATT MEAS VOB
+的 u Bo29 好 a Je10 了 y Ig01 吃 v Je13 ATT FEAT VOB
+终于 d Ka13 把 p Hc10 端 v Bc01 上来 v Hj62 PAT mRELA POB
+川 j Be05 味 Ng Bg06 ATT MEAS FEAT CONT VOB
+元 q Ah08 三 m Dn04 一 m Ka16 汤 n Bg01 ATT MEAS
+钱 n Dj03 买 v He03 她 r Aa04 时常 d Ka10 PAT VOB
+好 a Je10 买 v He03 做饭 v Hj44 干 v Je01 PAT VOB
+占 v Jd04 城市 n Cb25 基地 n Cb08 的 u Bo29 ATT FEAT
+猪 n Bi07 摘 v He07 包 v Jd05 饺子 n Br09 PAT VOB
+青椒 n Bh06 豆腐 n Br06 芹菜 n Bh06 长势 n Da20 COO eCOO
+全区 n Cb08 产 v Hd29 万 m Dn04 公斤 q Dn10 VOB CONT
+里 f Dn10 洗 v Jd10 为 p Ih01 孩子 n Ah14 PAT VOB
+此 r Cb30 主要 d Ed28 生长 v Ib01 ATT SCO EXP SBV
+储粮 v -1 储 Vg Hj40 储 Vg Hj40 水 n Bg01 PAT VOB
+粮 n Br01 油 n Hd03 蛋 n Bl05 奶 n Bl01 COO eCOO FEAT
+钱 n Dj03 买 v He03 她 r Aa04 时常 d Ka10 PAT VOB
+好 a Je10 买 v He03 做饭 v Hj44 干 v Je01 PAT VOB
+占 v Jd04 城市 n Cb25 基地 n Cb08 的 u Bo29 ATT FEAT
+猪 n Bi07 摘 v He07 包 v Jd05 饺子 n Br09 PAT VOB
+青椒 n Bh06 豆腐 n Br06 芹菜 n Bh06 长势 n Da20 COO eCOO
+全区 n Cb08 产 v Hd29 万 m Dn04 公斤 q Dn10 VOB CONT
+里 f Dn10 洗 v Jd10 为 p Ih01 孩子 n Ah14 PAT VOB
+此 r Cb30 主要 d Ed28 生长 v Ib01 ATT SCO EXP SBV
+储粮 v -1 储 Vg Hj40 储 Vg Hj40 水 n Bg01 PAT VOB
+粮 n Br01 油 n Hd03 蛋 n Bl05 奶 n Bl01 COO eCOO FEAT

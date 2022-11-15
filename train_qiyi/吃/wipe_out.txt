@@ -1,0 +1,7 @@
+能,v,Gc02,走,v,Hi01,车,n,Hd05,进,v,He03,红,a,If03,车,n,Hd05,否则,c,Kc07,红,a,If03
+能,v,Gc02,走,v,Hi01,车,n,Hd05,进,v,He03,红,a,If03,六,m,Dn04,路,n,Dn08,车,n,Hd05
+车,n,Hd05,五,m,Dn04,平,v,Jb01,七,m,Dn04,马,n,Bi19,以,p,Di02,下,v,Ia03,象,Ng,Bi02
+马,n,Bi19,进行,v,Ig03,交换,vn,Hi27,红方,n,-1
+导致,v,Je04,颗,q,Dn08,黑子,n,Bd02,被,p,Je13,全局,n,Da20,形势,n,Dc01,顿时,d,Ka08,逆转,v,Ih11
+昊,nr,-1,的,u,Bo29,黑棋,n,-1,通,v,Al02,形势,n,Dc01,便,d,Bl04,急转直下,i,Ih01
+车,n,Hd05,四,m,Dn04,平,v,Jb01,三,m,Dn04,炮,n,Bo27,否则,c,Kc07,黑马,n,Bi06,进,v,He03

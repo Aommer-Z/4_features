@@ -1,0 +1,13 @@
+乡里,n,Ad03,的,u,Bo29,数字,n,Dn03,即可,v,Ka08,如果,c,Kc08,超出,v,Jb04,这个,r,Ed61,数,n,Hi13
+上,f,Hj63,这个,r,Ed61,逻辑,n,Db06,可以,v,Gc02
+热,a,Dn01,的,u,Bo29,效果,n,Ae17,完全,ad,Ka06
+说法,n,Dk12,根本,d,Ka10,不,d,Ie01,能,v,Gc02
+最后,f,Da06,裁定,v,Hc14,上述,b,Cb03,罪名,n,Di26,谢里夫,nr,-1,将,d,Ae10,有,v,Jd07,可能,n,Gc02
+的,u,Bo29,罪名,n,Di26,就,d,Kb04,能够,v,Gc02
+侵占,vn,Hb11,罪,n,Hi33,不,d,Ie01,能,v,Gc02,宣告,v,Hc11,曾,nr,Ka12,无罪,v,Ka18
+等,u,Dn08,罪行,n,Di26,如果,c,Kc08,罪名,n,Di26,谢里夫,nr,-1,等,u,Dn08,人,n,Ab02,可能,v,Gc02
+保险,n,Ka15,合同,n,Dk20,一经,d,Kb06,即,d,Ja01,在,p,Jd02,双方,n,Dd05,当事人,n,Aa01
+保险,vn,Ka15,合同,n,Dk20,后,f,Ai03,投保人,n,-1,应,v,Kb07,按,p,Hc18
+保险,vn,Ka15,合同,n,Dk20,即,d,Ja01,告,v,Hi25,投保人,n,-1,有权,v,Jd01,从,p,Hi39,保险人,n,-1
+有,v,Jd07,难度,n,Dn01,说,v,Hi34,能,v,Gc02,吗,y,Kd05,清单,n,Bp19,意识,n,Df14,说明,v,Ja04
+是,v,Jd01,根本,d,Ka10,不,d,Ie01,能,v,Gc02,的,u,Bo29,也,d,Kd03,绝对,d,Ka32,不,d,Ie01

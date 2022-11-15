@@ -1,0 +1,91 @@
+水面 n Bc02 北京 ns Di03 千呼万唤 i -1 CMP LOC VOB mDEPD
+此举 r -1 一 d Ka16 活力 n Dd14 大增 v -1 COO ADV MEAS SBV EXP SCO HED
+消息 n Da19 一 d Ka16 股市 n Cb28 应声 v Fc09 COO ADV SBV EXP Root ePREC HED eSUCC mRELA
+有 v Jd07 才人 n Af07 各 r Ed61 领 v Je14 CMP COO eCOO EXP CONT TIME dCONT eSUCC
+窘态 n Dc01 百 m Dn04 时 Ng Ca30 纳粹 n Di10 CMP ADV MEAS SBV eSUCC
+喷射 v Id10 而 c Aa03 COO ADV AGT eSUCC mRELA
+选择 v Hj25 早 a L01 早 a L01 回 v Hi18 COO ADV FEAT eCOO EXP VOB
+选择 v Hj25 早 a L01 早 a L01 回 v Hi18 COO ADV FEAT eCOO EXP VOB 或 c Kc01 晚 a Ai03 晚 a Ai03 归 v Ja06 COO ADV FEAT eCOO EXP VOB
+这 r Ca31 朵 q Dn08 墙 n Bn07 红 a If03 ATT FEAT rEXP VOB LOC
+家 n Al02 而 c Aa03 前往 v Hj63 江南 s Cb08 COO ADV AGT eSUCC mRELA
+春雪 nr -1 为 p Ih01 川 j Be05 民工 n Ae02 rAGT ATT VOB LOC
+西进 v -1 机遇 n Ca04 东 f Aj05 COO ADV LOC
+在 p Jd02 中间 f Cb04 不 d Ie01 去 v Ca11 CMP COO RAD eSUCC mDEPD
+品种 n Dd06 快要 d Ka13 圃 Ng Bn12 了 y Ig01 COO ADV LOC SBV EXP TIME VOB RAD HED mDEPD
+食者 n -1 乃是 v Ja01 锅 n Bp05 新 a Ka12 PAT ATT VOB dFEAT
+片刻 m Eb25 的 u Bo29 尘 Ng Bg08 之 u Kd01 ATT FEAT CONT VOB RAD mDEPD
+了 y Ig01 之 r Kd01 即 d Ja01 COO ADV EXP RAD mDEPD
+的 u Bo29 老大哥 n Ah09 了 u Ig01 身 q Aa02 EXP CONT LINK VOB RAD eSUCC mDEPD
+上海 ns Cb25 女排 na Dd15 了 u Ig01 身 q Aa02 EXP CONT LINK VOB RAD eSUCC mDEPD
+大家 r Al02 脸红 v Ic02 汗 n Bl01 但 c Kc03 CMP LINK eSUCC VOB
+马 nr Bi19 晓春 nr -1 了 u Ig01 身 q Aa02 EXP LINK VOB RAD eSUCC mDEPD
+每 r Ed61 国 n Di02 名 q Ja02 委员 n Aj07 ATT FEAT VOB CONT
+主意 n Df14 让 v Je04 我 r Aa05 LINK eSUCC VOB EXP
+没 d Jd08 少 v He15 近 v Ca02 万 m Dn04 COO ADV SBV mNEG Root TIME AGT VOB PAT HED eSUCC mDEPD
+给 p Je05 博士生 n Ae13 过 u Je09 一 m Ka16 ADV SBV Root AGT VOB RAD DATV HED mDEPD
+只好 d Ka22 答应 v Hi32 两 m Dd05 倍 q Ih05 CMP eSUCC
+进 v He03 快 d Ga01 与 c Je05 大肆 d Ed15 COO ADV mDEPD eCOO
+的 u Bo29 固然 c Ka29 得 u Ib10 起 v Kd02 CMP COO ADV EXP RAD eSUCC mDEPD
+由 p Hf06 北京 ns Di03 教师 n Ae13 的 u Bo29 ATT ADV SBV CONT dFEAT VOB RAD LOC mRELA mDEPD
+由 p Hf06 北京 ns Di03 教师 n Ae13 的 u Bo29 ATT ADV SBV CONT dFEAT VOB RAD LOC mRELA mDEPD 由 p Hf06 北京 ns Di03 ATT ADV SBV CONT dFEAT VOB RAD LOC mRELA mDEPD
+财政 n Da01 各 r Ed61 但 c Kc03 不少 m Eb01 ADV SBV MANN dLINK EXP VOB eSUCC
+经济 n Di02 援助 vn Hi36 人 n Ab02 出钱 v Hj31 PAT COO VOB
+经济 n Di02 援助 vn Hi36 人 n Ab02 出钱 v Hj31 PAT COO VOB 人 n Ab02 出钱 v Hj31 物 Ng Ba01 救助 v Hi36 PAT COO VOB
+德国 ns Di02 政坛 n Dd05 丑闻 n Da01 公众 n Aa01 COO SBV EXP CONT Root VOB dCONT HED
+小 a Ah08 妹妹 n Ah10 了 u Ig01 许多 m Eb01 CMP AGT VOB RAD eSUCC mDEPD
+自己 r Aa05 判断力 n De04 了 u Ig01 错 n Id19 SBV CONT VOB RAD POB LOC mDEPD
+问题 n Dd09 到底 d Ka31 在 p Jd02 什么 r Ba10 CMP ADV SBV EXP VOB mDEPD
+认识 n Df14 上 f Hj63 了 u Ig01 偏差 n Da15 ADV EXP VOB RAD DATV LOC eSUCC mDEPD
+价值观 n Df01 上 f Hj63 了 u Ig01 毛病 n Di20 ADV dLINK CONT VOB RAD LOC mDEPD
+柴油 n Bm10 发电机 n Bo01 故障 n Da15 了 y Ig01 SBV EXP CONT dCONT VOB RAD mDEPD
+此事 r Da01 一 d Ka16 造成 v Je04 该 r He08 ADV SBV EXP Root dEXP mRELA
+借款 n Dj08 事 n Hi37 何 r Ba10 因 Ng Kc09 COO ADV MANN CONT VOB
+政治 n Di08 体制 n Di09 了 u Ig01 什么 r Ba10 SBV EXP CONT Root VOB RAD HED mDEPD
+快速 d Eb23 搜索 v Hj40 所 u Di09 要 v Ag04 CMP mDEPD POB
+中 f Di02 游 v Hh06 秒 q Ca30 的 u Bo29 CMP mDEPD
+投票 v Hc23 评选 v Hc23 优秀 a Ed03 作品 n Dk19 CMP mDEPD
+可以 v Gc02 造就 v Hg07 全新 b Eb28 的 u Bo29 CMP mDEPD
+进一步 d Ka04 提 v Hi27 必须 d Gc03 以 p Di02 CMP mDEPD
+进一步 d Ka04 提 v Hi27 必须 d Gc03 以 p Di02 CMP mDEPD 产业化 v -1 走 v Hi01 一 m Ka16 条 q Bh10 CMP mDEPD
+还 d Hi27 评 v Hc20 编剧 n Ae17 导演 n Ae17 CMP mDEPD
+居民 n Ad01 焕发 v Ic05 前所未有 i Ed04 的 u Bo29 CMP mDEPD
+为了 p Kb05 多 v Ih05 优秀 a Ed03 成果 n Da14 ADV EXP VOB POB mDEPD
+能 v Gc02 生产 v Dn07 高 a Eb04 技术 n De04 CMP mDEPD
+氧气 n Bg05 并且 c Kc02 释放 v Jd07 CMP mDEPD
+突出 a Id02 减 v Ih10 了 u Ig01 实效 n Da25 CMP mDEPD RAD
+摧 Vg -1 陈 a Hi13 新 a Ka12 要不得 l Ed03 COO eCOO CONT EXP VOB
+摧 Vg -1 陈 a Hi13 新 a Ka12 更 d Ca30 COO eCOO VOB
+严格 v Ee36 管理 v Hc02 成绩 n Da14 连续 a Ig03 CMP mDEPD
+商品 n Ba04 送检 v -1 新 a Ka12 规 Ng Hi34 CMP eSUCC VOB CONT
+才 c If03 能 v Gc02 大 a Ah05 的 u Bo29 COO ADV LOC SBV EXP Root VOB HED mRELA mDEPD
+人员 n Aa01 多 d Ih05 成果 n Da14 出 v Jd07 COO ADV EXP LINK VOB dCONT eSUCC mDEPD
+人员 n Aa01 多 d Ih05 成果 n Da14 出 v Jd07 COO ADV EXP LINK VOB dCONT eSUCC mDEPD 出 v Jd07 成果 n Da14 好 a Je10 成果 n Da14 COO ADV EXP LINK VOB dCONT eSUCC mDEPD
+改革 v Ha04 多 d Ih05 精品 n Ba04 迎接 v Hi05 ADV VOB mDEPD eSUCC
+改革 v Ha04 多 d Ih05 精品 n Ba04 迎接 v Hi05 ADV VOB mDEPD eSUCC 任务 n Di22 创作 v Hg16 一 m Ka16 大 a Ah05 ADV VOB mDEPD eSUCC
+能 v Gc02 多 d Ih05 些 q Dn05 老舍 nr -1 COO ADV SBV CONT AGT VOB dCONT eSUCC mDEPD
+能 v Gc02 多 d Ih05 些 q Dn05 老舍 nr -1 COO ADV SBV CONT AGT VOB dCONT eSUCC mDEPD 也 d Kd03 多 d Ih05 些 q Dn05 焦 nr Bm08 COO ADV SBV CONT AGT VOB dCONT eSUCC mDEPD
+导向 n Cb01 多 d Ih05 思想性 n Dd01 和 p Hh04 ADV EXP CONT VOB eSUCC mDEPD
+建设 vn Ie12 既 c Kc04 优质 b Ed06 产品 n Dj06 COO ADV eCOO SBV EXP CONT VOB mRELA
+建设 vn Ie12 既 c Kc04 优质 b Ed06 产品 n Dj06 COO ADV eCOO SBV EXP CONT VOB mRELA 产品 n Dj06 也 d Kd03 优秀 a Ed03 人才 n Al03 COO ADV eCOO SBV EXP CONT VOB mRELA
+人 n Ab02 但 c Kc03 不再 d Ka14 COO ADV mNEG EXP Root VOB eSUCC mRELA
+发展 vn Ie12 多 d Ih05 人才 n Al03 出 v Jd07 COO ADV EXP VOB DATV eSUCC mDEPD
+发展 vn Ie12 多 d Ih05 人才 n Al03 出 v Jd07 COO ADV EXP VOB DATV eSUCC mDEPD 出 v Jd07 人才 n Al03 好 a Je10 人才 n Al03 COO ADV EXP VOB DATV eSUCC mDEPD
+曾经 d Ka12 为 p Ih01 了 u Ig01 女 b Ah14 CONT LINK VOB RAD POB dREAS mRELA mDEPD
+投料 n -1 到 p Hf08 成品 n Ba04 全 a Ka07 FEAT VOB CONT POB
+以来 f Ca11 镇上 n -1 的 u Bo29 状元 n Al03 ATT SBV RAD LOC mDEPD
+德国 ns Di02 不仅 c Kc05 过 u Je09 莫扎特 nr -1 COO ADV SBV EXP CONT VOB RAD eSUCC mRELA mDEPD
+德国 ns Di02 不仅 c Kc05 过 u Je09 莫扎特 nr -1 COO ADV SBV EXP CONT VOB RAD eSUCC mRELA mDEPD 就 d Kb04 生产 v Dn07 世界 n Di14 上 f Hj63 COO ADV SBV EXP CONT VOB RAD eSUCC mRELA mDEPD
+辞海 n Dk20 即 d Ja01 COO ADV EXP FOB eSUCC mDEPD
+几乎 d Ka27 是 v Jd01 一 m Ka16 盘 q Dn08 ADV EXP VOB eSUCC mDEPD
+遗产 n Dj03 还 d Hi27 了 u Ig01 小册子 n Bp18 COO ADV CONT VOB RAD eSUCC mDEPD
+遗产 n Dj03 还 d Hi27 了 u Ig01 小册子 n Bp18 COO ADV CONT VOB RAD eSUCC mDEPD 巡回 v Hb05 借阅 v -1 黑板报 n Dk21 搞 v Hj12 COO ADV CONT VOB RAD eSUCC mDEPD
+七 m Dn04 年 q Ca18 满 v Ga06 六十 m -1 CMP COO ADV MEAS SBV EXP Root VOB HED eSUCC
+七 m Dn04 年 q Ca18 满 v Ga06 六十 m -1 CMP COO ADV MEAS SBV EXP Root VOB HED eSUCC 丛书 n Dk20 已 d Ig02 至 p Hf08 第六十 m -1 CMP COO ADV MEAS SBV EXP Root VOB HED eSUCC
+英文 nz Dk06 译著 n Dk19 了 u Ig01 中文 nz Dk06 ADV SBV EXP CONT LINK VOB RAD mDEPD
+书 n Hg11 制作 v Hd04 迅速 ad Eb23 COO ADV MANN CONT VOB
+做 v Hh01 广告 n Dk14 画册 n Bp18 出 v Jd07 COO EXP CONT VOB DATV eSUCC
+做 v Hh01 广告 n Dk14 画册 n Bp18 出 v Jd07 COO EXP CONT VOB DATV eSUCC 出 v Jd07 画册 n Bp18 书 n Hg11 拍 v Dn08 COO EXP CONT VOB DATV eSUCC
+做 v Hh01 广告 n Dk14 画册 n Bp18 出 v Jd07 COO EXP CONT VOB DATV eSUCC 出 v Jd07 画册 n Bp18 书 n Hg11 拍 v Dn08 COO EXP CONT VOB DATV eSUCC 电视 n Ba05 专题片 n -1 企业 n Dm03 名人录 n -1 COO EXP CONT VOB DATV eSUCC
+出版社 n Dm07 所 u Di09 而是 c Kc06 另外 r Kc11 SBV AGT VOB dCONT LAD mDEPD
+出版社 n Dm07 所 u Di09 的 u Bo29 萧伯纳 nr -1 ATT SBV AGT rCONT RAD LAD mDEPD
+名人 n Af11 书 n Hg11 成为 v Ih01 SBV AGT VOB PAT dEXP

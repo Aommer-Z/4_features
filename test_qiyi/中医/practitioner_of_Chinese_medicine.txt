@@ -1,0 +1,9 @@
+紧急,a,Ed29,措施,n,Db09,做好,v,Hj12,老,a,Ab02,专家,n,Al02,学术,n,Dk02,经验,n,Da16,继承,vn,Ig03
+画册,n,Bp18,当代,t,Ca02,名,Ng,Ja02,老,a,Ab02,风采,n,Dc03,为,p,Ih01,现代,t,Ca02,医史,n,-1
+远,a,Ed32,就,d,Kb04,遇到,v,Id18,老,a,Ab02,的,u,Bo29,孙女,n,Ah17,说,v,Hi34,爷爷,n,Ah02
+痔瘘舒丸,nz,-1,是,v,Jd01,河南,ns,Di02,老,a,Ab02,马,nr,Bi19,寿仁,nr,-1,凭借,p,Kb06,自己,r,Aa05
+膏,Ng,Bk10,是,v,Jd01,浙江,ns,Di02,老,a,Ab02,郑,nr,Dd15,元叨,nr,-1,的,u,Bo29,发明,vn,Hi14
+如今,t,Ca10,丽江,ns,-1,纳西族,nz,Di04,老,a,Ab02,和士秀,nr,-1,与,c,Je05,他,r,Aa04,的,u,Bo29
+由,p,Hf06,几,m,Bp26,名,q,Ja02,当地,s,Cb15,和,c,Hh04,一,m,Ka16,位,q,Dn08,兼,v,Hj24
+中西医,j,-1,的,u,Bo29,洋人,n,Ad02,从,p,Hi39,教课,vn,Hg05,书,n,Hg11,中,f,Di02,编译,v,Hg16
+经,p,Je14,中国,ns,Di02,权威,a,Da26,的,u,Bo29,院校,n,Dm05,审定,v,Hc18

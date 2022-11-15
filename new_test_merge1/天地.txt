@@ -1,0 +1,25 @@
+片 q Bb04 新 a Ka12 ATT MEAS FEAT VOB LOC
+广阔 a Ed38 的 u Bo29 ATT FEAT VOB CONT
+的 u Bo29 新 a Ka12 ATT FEAT VOB CONT
+哩 y Kd04 的 u Bo29 个性 n De01 ATT FEAT VOB CONT
+经济 n Di02 新 a Ka12 ATT MEAS FEAT CONT VOB
+广阔 a Ed38 的 u Bo29 ATT FEAT VOB CONT
+新 a Ka12 的 u Bo29 同时 c Ca03 也 d Kd03 ATT FEAT VOB CONT
+片 q Bb04 新 a Ka12 ATT MEAS FEAT VOB PAT
+广阔 a Ed38 的 u Bo29 提高 v Ih10 了 u Ig01 ATT FEAT VOB CONT
+的 u Bo29 广阔 a Ed38 ATT FEAT rEXP CONT VOB DATV
+永葆 v Jd01 于 p Kb05 间 f Bn03 至为 d -1 ATT mRELA mDEPD
+旭日 n Bd02 出于 v Kc09 之 u Kd01 交 Ng Hi27 ATT FEAT CONT RAD mDEPD
+九 m Ca20 秋 Tg Ca19 入 v Jc01 吟 Vg Hg10 EXP SBV
+九 m Ca20 秋 Tg Ca19 入吟 v -1 魂 n Dh01 ATT ADV FEAT
+色 n Bg06 为 p Ih01 之间 f Cb04 点缀 v Hd03 ATT mRELA mDEPD
+来 v Ca03 养 v Jd01 正 v Bc02 气 n Bg06 PAT VOB
+人 n Ab02 涵 Vg -1 阴阳 b Da17 之 u Kd01 VOB
+种 q Hd20 被 p Je13 涵养 v Jd01 的 u Bo29 AGT mRELA POB
+的 u Bo29 摧残 vn Je10 不 d Ie01 仁 Ag Bh13 PAT VOB
+正气 n Dk28 养 v Jd01 ATT FEAT
+在 p Jd02 儿童 n Ab04 屏幕 n Bp14 还 d Hi27 ATT FEAT mRELA LOC
+北京 ns Di03 南北 f Cb02 软件 n Ba05 技术 n De04 ATT FEAT
+场所 n Cb28 儿童 n Ab04 餐饮 n -1 等 u Dn08 ATT FEAT
+人物 n Aa01 期货 n Ba04 财经 n Da01 短波 n Bg04 ATT FEAT
+世界 n Di14 读书 v Hg10 作家 n Al01 文苑 n Dd05 ATT FEAT dFEAT

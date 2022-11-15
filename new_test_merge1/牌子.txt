@@ -1,0 +1,17 @@
+自己 r Aa05 的 u Bo29 宏基 nz -1 以外 f Cb05 ATT FEAT
+质量 n Dd12 是 v Jd01 有 v Jd07 质量 n Dd12 LINK VOB EXP
+红旗 n Bp20 县 n Di02 ATT FEAT HED
+县 n Di02 的 u Bo29 PAT ATT FEAT VOB
+县 n Di02 的 u Bo29 大 a Ah05 牵扯 v Je01 ATT FEAT EXP SBV
+保留 v Hj40 呼号 n Ic01 但 c Kc03 调整 v Hc03 PAT ATT FEAT VOB
+黄山 ns Be04 的 u Bo29 打 v Gb05 出去 v Hj64 ATT FEAT POB PAT mRELA
+旅游 v Hj48 的 u Bo29 打 v Gb05 出去 v Hj64 ATT FEAT POB PAT mRELA
+自己 r Aa05 的 u Bo29 导致 v Je04 大量 m Ee35 ATT FEAT VOB CONT
+两 m Dd05 块 q Dj05 一 m Ka16 套 q Hg08 ATT MEAS
+两 m Dd05 块 q Dj05 ATT MEAS CONT VOB DATV
+一个 m Dn08 小 a Ah08 上面 f Aj08 写 v Hi13 ATT MEAS FEAT EXP VOB
+因为 p Kc09 这个 r Ed61 的 u Bo29 神奇 a Ed43 ATT FEAT SCO RAD mDEPD
+写 v Hi13 个 q Dn08 当 v Jb01 街 n Bn11 ATT MEAS VOB CONT
+县 n Di02 的 u Bo29 PAT ATT FEAT VOB
+食杂店 n -1 的 u Bo29 租 v He04 来 v Ca03 ATT MEAS FEAT CONT VOB
+畜牧局 n -1 的 u Bo29 挂 v Dn08 在 p Jd02 ATT FEAT POB PAT mRELA

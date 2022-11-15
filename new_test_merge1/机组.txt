@@ -1,0 +1,17 @@
+包括 v Jd05 乘客 n Ag10 人员 n Aa01 和 c Hh04 ATT FEAT
+还有 v Jd04 乘客 n Ag10 人员 n Aa01 和 c Hh04 ATT FEAT DATV
+人员 n Aa01 乘客 n Ag10 和 c Hh04 ATT FEAT
+上 f Hj63 的 u Bo29 人员 n Aa01 也 d Kd03 ATT FEAT
+大亚湾 ns -1 号 n Hg13 按计划 d -1 停机 v -1 ATT FEAT SBV rEXP AGT
+大亚湾 ns -1 号 n Hg13 按计划 d -1 停机 v -1 ATT FEAT SBV rEXP AGT 的 u Bo29 号 n Hg13 大亚湾 ns -1 核电站 n Bn17 ATT FEAT SBV rEXP AGT
+大亚湾 ns -1 号 n Hg13 按计划 d -1 停机 v -1 ATT FEAT SBV rEXP AGT 的 u Bo29 号 n Hg13 大亚湾 ns -1 核电站 n Bn17 ATT FEAT SBV rEXP AGT 两 m Dd05 台 q Bp26 既 c Kc04 不 d Ie01 ATT FEAT SBV rEXP AGT
+级 n Bn10 核电 n Bg04 仿佛 d Jb03 是 v Jd01 ATT FEAT MEAS SBV EXP
+级 n Bn10 核电 n Bg04 仿佛 d Jb03 是 v Jd01 ATT FEAT MEAS SBV EXP 每 r Ed61 台 q Bp26 每天 r Ca23 创造 v Hc05 ATT FEAT MEAS SBV EXP
+采购 vn He03 核电 n Bg04 的 u Bo29 停机 vn -1 ATT FEAT CONT VOB RAD mDEPD
+和 c Hh04 发电 vn Jd07 的 u Bo29 非 h Hi21 COO ATT FEAT eCOO
+压水堆 n -1 核电 n Bg04 不 d Ie01 是 v Jd01 ATT FEAT MEAS SBV EXP
+两 m Dd05 台 q Bp26 没有 d Jd08 发生 v Jd07 ATT MEAS LOC SBV
+第一 m Ka09 台 q Bp26 将 d Ae10 于 p Kb05 ATT MEAS SBV EXP AGT
+大中型 j Dd06 发电 vn Jd07 容量 n Dn03 万 m Dn04 ATT FEAT
+蓄 v Jd06 能 Ng Gc02 总装机 n -1 容量 n Dn03 ATT FEAT
+核电站 n Bn17 个 q Dn08 建设 vn Ie12 进展 v Ig03 ATT MEAS FEAT FOB CONT

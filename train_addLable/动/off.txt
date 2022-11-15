@@ -1,0 +1,7 @@
+开场,vn,Ig01,一下子,m,Eb25,就,d,Kb04,扣,v,Bp24,了,u,Ig01,观众,n,Aj06,的,u,Bo29,心弦,n,Df02,1
+大,a,Ah05,钞,Ng,Dj05,买,v,He03,不,d,Ie01,区区,z,Aa02,一,m,Ka16,块,q,Dj05,小,a,Ah08,1
+改,v,Hg18,都,d,Cb25,改,v,Hg18,不,d,Ie01,1
+一些,m,Eb02,商品,n,Ba04,销售,v,Dj02,不,d,Ie01,1
+得,u,Ib10,出,v,Jd07,开,v,Hg11,得,u,Ib10,1
+产品,n,Dj06,积压,v,Ie02,卖,v,He03,不,d,Ie01,每年,r,Ca18,还,d,Hi27,得,v,Ib10,花,v,Ag04,1
+不好,a,If03,桃子,n,Bh07,卖,v,He03,不,d,Ie01,1

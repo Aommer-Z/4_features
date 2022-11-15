@@ -1,0 +1,9 @@
+绘画,n,Hg19,实践,v,Hi04,看作,v,Ja01,求,v,Hi25,门途,n,-1,所有,b,Jd04,的,u,Bo29,线条,n,Cb23
+都,d,Cb25,无不,d,Ka07,是,v,Jd01,求,v,Hi25,途中,s,Cb27,的,u,Bo29,积累,vn,He13,和,c,Hh04
+艺术,n,Db09,在,p,Jd02,求,v,Hi25,途中,s,Cb27,生长,v,Ib01,磨难,n,If03,在,p,Jd02
+立,v,Hi31,始,d,Ig01,求,v,Hi25,四,m,Dn04,勿,d,Ka18
+罗密欧,nr,-1,式,k,Di13,的,u,Bo29,殉,Vg,Ib03,精神,n,Dk01,的,u,Bo29,保尔,nr,-1,这,r,Ca31
+有,v,Jd07,是,v,Jd01
+的,u,Bo29,遮拦,v,Hi53,而,c,Aa03,得,v,Ib10,的,u,Bo29
+求得,v,Gb04,个人,n,Aa02,的,u,Bo29,得,v,Ib10,和,c,Hh04,成,v,Ih01,佛,n,Am01,第三,m,Dn04
+第三,m,Dn04,步,q,Dn08,是,v,Jd01,得,v,Ib10,和,c,Hh04,成,v,Ih01,佛,n,Am01,的,u,Bo29

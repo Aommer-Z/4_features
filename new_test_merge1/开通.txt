@@ -1,0 +1,20 @@
+站点 n Cb08 试 v Hi24 个 q Dn08 多 m Ih05 CMP ATT ADV SBV EXP TIME dTIME mDEPD
+的 u Bo29 正式 ad Ed53 运营 v Hc02 实际上 d Ka30 COO ATT ADV eCOO SBV MANN eSUCC
+公开 a Ed55 电话 n Bp15 后 f Ai03 朱 nr Ec01 COO AGT mDEPD
+已 d Ig02 全部 m Eb02 ADV EXP FOB Root TIME HED mDEPD
+线路 n Cb27 全部 m Eb02 但 c Kc03 边远 b Cb11 COO ADV FOB EXP Root TIME HED eSUCC mDEPD
+旅游 vn Hj48 线 n Bp04 EXP FOB dCONT VOB PAT
+包机 n -1 航线 n Cb27 Root HED EXP SBV
+口岸 n Cb26 正式 ad Ed53 ADV SBV MANN EXP Root HED
+上网 vn -1 业务 n Di19 北京地区 ns -1 全球通 nz -1 dCONT VOB SBV
+交换 vn Hi27 中心 n Dm04 Root HED CONT FOB
+还 d Hi27 将 d Ae10 英文 nz Dk06 版 n Bo17 ADV SBV CONT Root AGT VOB HED mDEPD
+日前 t Ca11 正式 ad Ed53 大型 b Dc01 中文 nz Dk06 ADV SBV MANN Root AGT TIME VOB PAT
+网 n Hd26 首先 d Ka09 的 u Bo29 是 v Jd01 ADV MEAS SBV AGT RAD rPAT
+全天 t -1 的 u Bo29 这 r Ca31 ATT ADV rEXP RAD LOC mDEPD
+一度 d Ka12 把 p Hc10 的 u Bo29 市长 n Af10 mDEPD ATT rEXP RAD
+慈善 a Ee01 总会 ne Di23 募捐 vn Hi26 网站 n -1 SBV CONT Root AGT VOB HED
+新 ad Ka12 的 u Bo29 中华 nz Di02 ATT ADV rEXP RAD mDEPD
+探险队 n -1 坚信 v Gb14 于 p Kb05 汉代 t -1 CMP dCONT VOB RAD
+三都县 ns -1 不仅 c Kc05 了 u Ig01 程控 b Dd06 COO ADV SBV CONT Root AGT VOB RAD HED mRELA mDEPD
+热线 n Bg03 设 v Hc05 COO HED VOB

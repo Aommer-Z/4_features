@@ -1,0 +1,10 @@
+王,nr,Af05,英杰,nr,Ak01,是,v,Jd01,年,t,Ca18,厂,n,Bn01,的,u,Bo29,老,a,Ab02,职工,n,Ae01
+其中,r,Da05,新疆,ns,Di02,摘,v,He07,棉花,n,Bh09,项目,n,Dd06
+好,a,Je10,的,u,Bo29,办法,n,Db09,是,v,Jd01,监狱,n,Dm02,免得,v,Je11,带,v,Jd04,坏,a,If03
+专家,n,Al02,花棚,n,-1,莱州,ns,-1,花,n,Ag04,飘香,v,Ec07
+股东,n,Af04,代表,n,Dd11,都,d,Cb25,未,d,Ka18,董事会,n,Di10
+年,t,Ca18,一,d,Ka16,腊月,t,Ca21,他们,r,Aa04,就,d,Kb04,跟,p,Bk08
+江苏省,ns,Di02,开发区,n,Cb08,新,d,Ka12,批,v,Hi21,企业,n,Dm03,家,q,Al02,比,p,Hh07,上年,t,Ca18
+并,d,Kc06,不,d,Ie01,气馁,a,Ga05,就,d,Kb04,了,u,Ig01,且末,ns,-1,地界,n,Cb14,果然,c,Ka30
+自己,r,Aa05,动手,v,Ig01,养猪,v,Hd27,猪粪,n,-1,池,Ng,Be06,发酵,v,Da25,既,c,Kc04,造,v,Hg07
+车,n,Hd05,收费口,n,-1,栏杆,n,Bn10,敞开,v,Ga06,收费,vn,He10

@@ -1,0 +1,49 @@
+由于 c Kc09 销 v He03 成本 n Dj04 COO ATT eCOO FEAT
+的 u Bo29 快 d Ga01 快 d Ga01 出 v Jd07 COO ATT ADV eCOO MANN POB mRELA
+黑白 b Da15 电视 n Ba05 门 n Dn08 后 f Ai03 ATT SBV EXP VOB LOC dTIME mDEPD
+系统 n Ed11 商务 n Da01 销 v He03 存 v Jd06 COO ATT FEAT eCOO
+是 v Jd01 年 t Ca18 厂 n Bn01 的 u Bo29 ATT ADV rEXP AGT VOB RAD LOC mDEPD
+其中 r Da05 新疆 ns Di02 摘 v He07 COO ATT dFEAT VOB LOC
+办法 n Db09 是 v Jd01 监狱 n Dm02 免得 v Je11 COO eSUCC VOB LOC
+专家 n Al02 花棚 n -1 莱州 ns -1 COO LOC SBV Root AGT VOB HED eSUCC
+董事会 n Di10 都 d Cb25 未 d Ka18 COO ADV mNEG VOB LOC eSUCC mDEPD
+年 t Ca18 一 d Ka16 腊月 t Ca21 他们 r Aa04 ADV TIME VOB LOC mRELA
+新 d Ka12 批 v Hi21 企业 n Dm03 家 q Al02 CMP mDEPD
+气馁 a Ga05 就 d Kb04 了 u Ig01 且末 ns -1 COO ADV Root RAD eSUCC mDEPD
+养猪 v Hd27 猪粪 n -1 池 Ng Be06 发酵 v Da25 COO eSUCC VOB LOC
+车 n Hd05 收费口 n -1 栏杆 n Bn10 COO LOC SBV EXP VOB HED eSUCC
+茶堂 n -1 长辈 n Ai02 护 v Hi37 CMP mDEPD POB
+被 p Je13 装 v Hh01 每个 r Dn08 人 n Ab02 CMP mDEPD POB
+听 v Hi39 不 d Ie01 CMP ADV mNEG eSUCC
+又 d Kc02 冲 v Hh03 了 u Ig01 套房 n Bn01 CMP VOB RAD mDEPD
+管道 n Cb27 流 v Dn08 沾化县 ns -1 河贵乡 ns -1 CMP mDEPD POB
+次 q Jb05 打 v Gb05 了 u Ig01 奥运会 j Di23 CMP VOB RAD LOC mDEPD
+没有 d Jd08 考虑 v Gb01 旅游 v Hj48 滑雪 v Id14 COO ATT dFEAT RAD LOC mDEPD
+窗外 s Cb05 飞 v Hi19 一 m Ka16 只 q Dn08 CMP mDEPD POB
+被 p Je13 扯 v Hi12 政治 n Di08 捐款 n Hi26 CMP mDEPD
+住 v Ig02 不 d Ie01 CMP ADV mDEPD mNEG
+黑方 n -1 车 n Hd05 车 n Hd05 平 v Jb01 COO SBV EXP VOB LOC eSUCC
+士 Ng Al01 四 m Dn04 五 m Dn04 打 v Gb05 COO ADV MEAS SBV AGT eSUCC
+士 Ng Al01 四 m Dn04 五 m Dn04 打 v Gb05 COO ADV MEAS SBV AGT eSUCC 帅 Ng Ae10 五 m Dn04 一 m Ka16 炮 n Bo27 COO ADV MEAS SBV AGT eSUCC
+车 n Hd05 车 n Hd05 四 m Dn04 COO eCOO LOC SBV EXP Root VOB HED
+帅 Ng Ae10 五 m Dn04 一 m Ka16 炮 n Bo27 COO ADV eCOO SBV Root AGT VOB PAT HED
+二 m Jb02 士 Ng Al01 SBV MANN Root AGT HED
+炮 n Bo27 二 m Jb02 七 m Dn04 象 Ng Bi02 COO ADV MEAS eCOO SBV AGT PAT HED mDEPD
+炮 n Bo27 二 m Jb02 七 m Dn04 象 Ng Bi02 COO ADV MEAS eCOO SBV AGT PAT HED mDEPD 车 n Hd05 三 m Dn04 一 m Ka16 吃 v Je13 COO ADV MEAS eCOO SBV AGT PAT HED mDEPD
+兵 n Ae10 七 m Dn04 一 m Ka16 马 n Bi19 COO ADV MEAS eCOO SBV EXP Root HED
+兵 n Ae10 七 m Dn04 一 m Ka16 马 n Bi19 COO ADV MEAS eCOO SBV EXP Root HED 一 m Ka16 马 n Bi19 马 n Bi19 三 m Dn04 COO ADV MEAS eCOO SBV EXP Root HED
+兵 n Ae10 七 m Dn04 一 m Ka16 马 n Bi19 COO ADV MEAS eCOO SBV EXP Root HED 一 m Ka16 马 n Bi19 马 n Bi19 三 m Dn04 COO ADV MEAS eCOO SBV EXP Root HED 马 n Bi19 三 m Dn04 五 m Dn04 车 n Hd05 COO ADV MEAS eCOO SBV EXP Root HED
+炮 n Bo27 二 m Jb02 八 m Dn04 八 m Dn04 COO ADV MEAS eCOO SBV EXP Root HED
+炮 n Bo27 二 m Jb02 八 m Dn04 八 m Dn04 COO ADV MEAS eCOO SBV EXP Root HED 一 m Ka16 象 Ng Bi02 COO ADV MEAS eCOO SBV EXP Root HED
+二 m Jb02 车 n Hd05 二 m Jb02 COO ADV SBV EXP VOB LOC eSUCC
+逃 v Je11 只好 d Ka22 车 n Hd05 吃 v Je13 COO ADV VOB LOC eSUCC mDEPD
+五 m Dn04 个 q Dn08 将 p Ae10 精神文明 n Dk01 ATT ADV MEAS
+了 u Ig01 沙 n Bm04 人 n Ab02 退 v Hi27 COO ATT eCOO SBV EXP dFEAT RAD mDEPD
+拓展 v Id04 求 v Hi25 中 f Di02 新 a Ka12 CMP dCONT
+形势 n Dc01 一 m Ka16 一 m Ka16 退 v Hi27 COO ADV MEAS eCOO SBV
+而 c Aa03 更 d Ca30 一 m Ka16 步 q Dn08 ADV SBV AGT VOB dCONT mRELA mDEPD
+犹豫 a Ga11 欲 Vg Jc05 不 d Ie01 前 v Cb04 VOB mDEPD
+巨轮 n Bo22 竞 Ag Ed19 MANN eSUCC VOB
+和谐 ad Ed37 共 d He16 把 p Hc10 战场 n Cb12 MANN ADV
+退 v Hi27 国企 j -1 看 v Hi37 VOB CONT
+退 v Hi27 民 Ng Aa01 无疑 d Ed01 是 v Jd01 COO eCOO EXP SBV

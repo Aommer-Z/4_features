@@ -1,0 +1,14 @@
+担子,n,Ba09,你,r,Aa03,一定,d,Ka15,要,v,Ag04,起来,v,Ih13,0
+和,p,Hh04,干部,n,Ae01,战士,n,Ae10,一起,s,Aj03,军粮,n,Br01,时,Ng,Ca30,歇脚,v,Hj32,的,u,Bo29,0
+山间,f,Be04,小路,n,Cb27,往,p,Ca11,山上,s,Be04,粮,n,Br01,0
+思敏,nr,-1,身,Ng,Aa02,背,v,Hi39,肩,n,Bk05,带领,v,Hf04,男女老少,i,Aa01,在,p,Jd02,果树,n,Bh01,0
+震天,v,Id14,手,n,Dn08,挖,v,Fa10,肩,n,Bk05,大堤,n,-1,一天天,m,-1,在,d,Jd02,增高,v,Ih10,0
+莫桑比克,ns,Di02,肩,n,Bk05,上述,b,Cb03,两,m,Dd05,组织,n,Hc03,主席,n,Af10,0
+扛,v,Fa04,或,c,Kc01,用,p,Jc05,扁担,n,Bo13,抬,v,Id01,0
+人,n,Ab02,多,a,Ih05,了,y,Ig01,要求,v,Gb04,重担,n,Di22,的,u,Bo29,人,n,Ab02,多,a,Ih05,0
+一,m,Ka16,不,d,Ie01,能,v,Gc02,二,m,Jb02,不,d,Ie01,能,v,Gc02,担,v,Dn10,0
+城建,j,Bn01,市里,n,Cb05,还是,d,Kc01,要,v,Ag04,重担,n,Di22,0
+空手,n,Eb06,尚且,c,Ka28,难,a,Da10,攀,v,Fd08,上,v,Hj63,七八十,m,-1,斤,q,Dn10,重,a,Aj01,0
+多,d,Ih05,大,a,Ah05,的,u,Bo29,桃子,n,Bh07,到,v,Hf08,泰山,ns,Ak03,上,f,Hj63,一,m,Ka16,0
+的,u,Bo29,干部,n,Ae01,一,m,Ka16,肩,n,Bk05,着,u,Dn08,计划,n,Di09,和,c,Hh04,市场,n,Cb28,0
+进,v,He03,这个,r,Ed61,家,n,Al02,就,d,Kb04,起,v,Kd02,了,u,Ig01,全家,n,Di05,的,u,Bo29,0

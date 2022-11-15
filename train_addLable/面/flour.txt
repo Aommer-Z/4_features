@@ -1,0 +1,7 @@
+慰问,v,Hi35,的,u,Bo29,两,m,Dd05,袋,q,Bp11,一,m,Ka16,桶,q,Bp06,油,n,Hd03,放,v,Ga13,1
+百,m,Dn04,元,q,Ah08,的,u,Bo29,米,n,Bh13,油,n,Hd03,1
+元,q,Ah08,救济金,n,Dj08,和,c,Hh04,米,n,Bh13,油,n,Hd03,等,u,Dn08,生活,vn,Ib03,用品,n,Ba02,1
+冰雪,n,Bf01,带,v,Jd04,着,u,Dn08,米,n,Bh13,油,n,Hd03,和,c,Hh04,学费,n,Dj08,来到,v,Hj63,1
+了,u,Ig01,鱼,n,Bi14,肉,n,Bh13,米,n,Bh13,酒,n,Br12,和,c,Hh04,营养品,n,Br13,姚,nr,Dd15,1
+不,d,Ie01,用,v,Jc05,油,n,Hd03,磨,v,Jd08,不,d,Ie01,出,v,Jd07,村,n,Cb25,1
+说,v,Hi34,主要,d,Ed28,掌握,v,Hc10,水,n,Bg01,的,u,Bo29,比例,n,Dn07,1

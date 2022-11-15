@@ -1,0 +1,12 @@
+现状,n,Da20,要么,c,Kc01,每,r,Ed61,国,n,Di02,名,q,Ja02,委员,n,Aj07,但,c,Kc03,要,v,Ag04
+都,d,Cb25,先,d,Ca11,让,v,Je04,我,r,Aa05,主意,n,Df14
+义务工,n,-1,一个,m,Dn08,没,d,Jd08,少,v,He15,近,v,Ca02,万,m,Dn04,斤,q,Dn10,公粮,n,Br01
+我,r,Aa05,给,p,Je05,博士生,n,Ae13,过,u,Je09,一,m,Ka16,道,q,Hi14,思考题,n,Dk03
+个,q,Dn08,重,a,Aj01,只好,d,Ka22,答应,v,Hi32,两,m,Dd05,倍,q,Ih05,的,u,Bo29,价钱,n,Dj02
+的,u,Bo29,快,d,Ga01,进,v,He03,快,d,Ga01,与,c,Je05,大肆,d,Ed15,炒作,v,-1,导致,v,Je04
+条件,n,Dd11,好,a,Je10,的,u,Bo29,固然,c,Ka29,得,u,Ib10,起,v,Kd02,但,c,Kc03,对,p,Fc04
+不仅,c,Kc05,工资,n,Dj07,由,p,Hf06,北京,ns,Di03,教师,n,Ae13,的,u,Bo29,补贴,n,Dj07,也,d,Kd03
+补贴,n,Dj07,也,d,Kd03,由,p,Hf06,北京,ns,Di03
+和,c,Hh04,地方,n,Cb15,财政,n,Da01,各,r,Ed61,但,c,Kc03,不少,m,Eb01,地方,n,Cb15,筹措,v,Gb05
+或,c,Kc01,提供,v,Jc05,经济,n,Di02,援助,vn,Hi36,人,n,Ab02,出钱,v,Hj31,出,v,Jd07,物,Ng,Ba01
+援助,vn,Hi36,出,v,Jd07,人,n,Ab02,出钱,v,Hj31,物,Ng,Ba01,救助,v,Hi36,莫桑比克,ns,Di02

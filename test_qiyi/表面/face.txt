@@ -1,0 +1,11 @@
+撞,v,Id18,到,v,Hf08,地球,n,Bd03,的,u,Bo29,上,f,Hj63,来,v,Ca03,从而,c,Kc09,引起,v,Je04
+附,v,Id21,在,p,Jd02,埃博拉,ns,-1,病毒,n,Bj01,的,u,Bo29,蛋白,n,Bl05,上,f,Hj63,从而,c,Kc09
+鱼,n,Bi14,的,u,Bo29,微,Ag,Ka05,黑,a,Ed45,透,v,Jd06,黄,a,If22
+固体,n,Ba01,能带,n,-1,理论,n,Dk02,与,c,Je05,物理,n,Dk03,著,Vg,Ja04,有,v,Jd07,半导体,n,Ba01
+领域,n,Cb13,大力,d,Ka19,推广,v,Ih03,新型,b,Dc01,工程,n,Di18,技术,n,De04,实行,v,Ie13,银行,n,Dm04
+领域,n,Cb13,大力,d,Ka19,推广,v,Ih03,新型,b,Dc01,工程,n,Di18,技术,n,De04,的,u,Bo29,提案,n,Dk17
+的,u,Bo29,开拓者,n,-1,之一,r,Ed61,我国,r,Di02,物理学,n,Dk03,的,u,Bo29,先驱者,n,Ai01,和,c,Hh04
+电子,na,Bg04,独有,v,-1,的,u,Bo29,内,f,Ah08,球形,n,Dc01,曲面,n,Cb23,补偿,vn,Ih05,技术,n,De04
+通过,p,Gb15,对,p,Fc04,显示屏,n,Ja04,内,f,Ah08,的,u,Bo29,球面化,vn,-1,加工,v,He03,可以,v,Gc02
+地下,s,Cb07,或,c,Kc01,山洞,n,Cb22,中,f,Di02,不,d,Ie01,露,v,Jd06,一,m,Ka16,丝,q,Dn10
+蒸发,v,Ia10,上升,v,Ih06,接近,v,Jb03,沙漠,n,Be01,遇,v,Je13,冷,a,Ia11,凝结,v,Jd06,而,c,Aa03

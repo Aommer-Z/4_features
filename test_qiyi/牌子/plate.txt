@@ -1,0 +1,6 @@
+悬,v,Id07,着,u,Dn08,一个,m,Dn08,小,a,Ah08,上面,f,Aj08,写,v,Hi13,着,u,Dn08
+据说,v,Da19,因为,p,Kc09,这个,r,Ed61,的,u,Bo29,神奇,a,Ed43,作用,n,Df08,使,v,Kb05
+找,v,Hj57,他,r,Aa04,写,v,Hi13,个,q,Dn08,当,v,Jb01,街,n,Bn11,一,d,Ka16,摆,v,Cb28
+冠,v,Je05,卫生,an,Dk01,县,n,Di02,的,u,Bo29
+一,m,Ka16,块,q,Dj05,食杂店,n,-1,的,u,Bo29,租,v,He04,来,v,Ca03,一,m,Ka16,副,q,Aj09
+把,p,Hc10,县,n,Di02,畜牧局,n,-1,的,u,Bo29,挂,v,Dn08,在,p,Jd02,法院,n,Dm02,门口,s,Cb20

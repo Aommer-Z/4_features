@@ -1,0 +1,15 @@
+其它,r,Ed61,朝代,n,Ca02,的,u,Bo29,古,a,Ca02,问题,n,Dd09,更,d,Ca30,严重,a,Ed29
+国家,n,Di02,文物局,n,-1,将,p,Ae10,山海关,ns,Cb25,嘉峪关,ns,Cb20,长城,ns,Bn01,八达岭长城,ns,-1,三,m,Dn04
+将,p,Ae10,山海关,ns,Cb25,长城,ns,Bn01,嘉峪关,ns,Cb20,八达岭长城,ns,-1,三,m,Dn04,个,q,Dn08,点,n,Cb08
+耀会,nr,-1,列举,v,Hi13,了,u,Ig01,近年来,l,Ca03,遭到,v,Je13,人为,b,Eb34,破坏,vn,Id06,的,u,Bo29
+厂,n,Bn01,用,p,Jc05,推土机,n,Bo01,将,p,Ae10,推开,v,Fa02,了,u,Ig01,一,m,Ka16,道,q,Hi14
+河北,ns,Di02,北京,ns,Di03,一带,n,Cb06,的,u,Bo29,由于,p,Kc09,建,v,Hd01,在,p,Jd02,深山,n,Be04
+当地,s,Cb15,农民,n,Ae07,常常,d,Ka10,在,p,Jd02,墙上,s,Cb03,挖,v,Fa10,中草药,n,Bh08
+用,p,Jc05,铁棍,n,Bb05,撬,v,Fa10,翻,v,Hg16,的,u,Bo29,城砖,n,-1
+久而久之,i,Eb24,墙体,n,-1,坑坑洼洼,l,Ea11,残缺不全,i,Eb07
+鉴于,p,Kc09,屡,d,Ka10,遭,v,Je13,破坏,vn,Id06,的,u,Bo29
+破坏,vn,Id06,的,u,Bo29,事实,n,Da01,中国,ns,Di02,学会,na,Di10,专家,n,Al02,日前,t,Ca11,提,v,Hi27
+日前,t,Ca11,提,v,Hi27,出,v,Jd07,加强,v,Ih10,保护,vn,Hi37,工作,vn,Ae01,的,u,Bo29,建议,n,Hc14
+已经,d,Ka12,成功,ad,If22,开发,v,Hj28,旅游,vn,Hj48,的,u,Bo29,地方,n,Cb15,应,v,Kb07
+一部分,m,Eb02,用于,v,Ja06,全国性,n,Dd05,的,u,Bo29,保护,vn,Hi37,工作,vn,Ae01
+在,p,Jd02,太空,s,Cb07,看到,v,Fc04,了,u,Ig01,我们,r,Aa02,还要,v,Gc03,将,p,Ae10,中国,ns,Di02

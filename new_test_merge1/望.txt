@@ -1,0 +1,13 @@
+的 u Bo29 眼睛 n Bk03 穿 v Hf06 了 y Ig01 COO SBV EXP Root dCONT HED eSUCC mDEPD
+很 d Ka01 难 a Da10 其 r Aa04 项背 n Bk06 ADV CONT AGT VOB eSUCC mDEPD
+群众 n Aa01 大会 n Di23 着 u Dn08 一张张 m -1 COO CONT AGT VOB RAD eSUCC mDEPD
+向 p Cb01 北面 f Dd05 去 v Ca11 曼谷 ns Cb25 CMP COO ADV LOC Root VOB HED mDEPD
+人 n Ab02 面前 f Cb04 着 u Dn08 他 r Aa04 CMP ADV SBV CONT AGT VOB RAD mDEPD
+崔 nr Dd15 光炜 nr -1 着 u Dn08 自己 r Aa05 COO SBV CONT Root AGT VOB RAD HED eSUCC mDEPD
+你 r Aa03 无法 v Ga12 穿 v Hf06 叫 v Bg07 ADV SBV mNEG dLINK AGT VOB eSUCC
+向 p Cb01 南 f Cb02 去 v Ca11 日内瓦湖 ns -1 CMP ATT ADV VOB RAD LOC
+着 u Dn08 隔离 v Ie02 COO HED RAD Root
+坐 v Hf02 二 m Jb02 一 m Ka16 年产 v Hd29 COO ATT ADV eSUCC
+他们 r Aa04 不 d Ie01 身后 f Ca12 名 Ng Ja02 COO ADV eCOO SBV mNEG CONT Root AGT VOB HED
+有关 vn Je01 部门 n Di09 Root HED VOB
+到来 v Hj63 还 d Hi27 有关 vn Je01 部门 n Di09 COO ADV dCONT VOB mDEPD

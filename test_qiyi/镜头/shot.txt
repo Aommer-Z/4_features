@@ -1,0 +1,8 @@
+记者,n,Ae16,们,k,Aa01,拍摄,v,Hh03,了,u,Ig01,提取,v,Hi27,了,u,Ig01,水样,n,-1
+下来,v,Hj62,记者,n,Ae16,们,k,Aa01,的,u,Bo29,或,c,Kc01,笔触,n,Df01,更,d,Ca30,多,a,Ih05
+油画,n,Dk31,的,u,Bo29,质感,n,Dd12,在,p,Jd02,中,f,Di02,呈现,v,Jd06,布琼尼,nz,-1,军歌,n,Dk28
+里,f,Dn10,的,u,Bo29,南极,ns,Bd03
+拍,v,Dn08,下,v,Ia03,了,u,Ig01,那些,r,Ed61
+话外音,n,Bg07,中,f,Di02,得知,v,Gb08,这些,r,Ed61,摄,Vg,Hh03,于,p,Kb05,二三十,m,-1,年,q,Ca18
+来得及,v,Ie17,把,p,Hc10,这,r,Ca31,一,m,Ka16,拍摄,v,Hh03,下来,v,Hj62
+次,q,Jb05,旅行,vn,Hf04,的,u,Bo29,部分,m,Eb02,现在,t,Ca10,不得不,d,Ka22,由,p,Hf06,前往,v,Hj63

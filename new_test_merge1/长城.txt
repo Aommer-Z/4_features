@@ -1,0 +1,26 @@
+证券 n Dj05 的 u Bo29 ATT FEAT
+中文 nz Dk06 林尼克斯 nz -1 等 u Dn08 品牌机 n -1 mDEPD ATT FEAT RAD
+和 c Hh04 宁夏 ns Di02 机器 n Bo01 制造 vn Hd04 ATT FEAT LOC
+中医 n Ae15 研究院 n Dm07 医院 n Dm06 院长 n Af10 ATT FEAT
+在 p Jd02 中国 ns Di02 铝业 n -1 公司 n Dm04 ATT FEAT
+由 p Hf06 中国 ns Di02 铝业 n -1 公司 n Dm04 ATT FEAT
+液晶 n Ba01 显示器 n Ba05 ATT FEAT
+丰收 nz If26 王朝 nz Ca02 等 u Dn08 三 m Dn04 mDEPD ATT FEAT RAD
+题词 v Hg11 绿色 n Bg06 李 nr Bh07 鹏 nr -1 ATT VOB
+的 u Bo29 绿色 n Bg06 ATT FEAT rEXP LINK VOB
+黄河 ns Be05 绿色 n Bg06 的 u Bo29 建议 n Hc14 ATT FEAT VOB CONT
+的 u Bo29 古 a Ca02 问题 n Dd09 更 d Ca30 ATT SCO TIME FEAT
+将 p Ae10 山海关 ns Cb25 嘉峪关 ns Cb20 长城 ns Bn01 ATT FEAT
+将 p Ae10 山海关 ns Cb25 嘉峪关 ns Cb20 长城 ns Bn01 ATT FEAT 长城 ns Bn01 嘉峪关 ns Cb20 八达岭长城 ns -1 三 m Dn04 ATT FEAT
+了 u Ig01 近年来 l Ca03 遭到 v Je13 人为 b Eb34 EXP SBV
+推土机 n Bo01 将 p Ae10 推开 v Fa02 了 u Ig01 PAT mRELA POB
+一带 n Cb06 的 u Bo29 由于 p Kc09 建 v Hd01 ATT ADV LOC
+一带 n Cb06 的 u Bo29 由于 p Kc09 建 v Hd01 ATT ADV LOC 常常 d Ka10 在 p Jd02 墙上 s Cb03 挖 v Fa10 ATT ADV LOC
+撬 v Fa10 翻 v Hg16 的 u Bo29 城砖 n -1 mDEPD ATT LOC RAD
+久而久之 i Eb24 墙体 n -1 坑坑洼洼 l Ea11 ATT TIME FEAT
+鉴于 p Kc09 屡 d Ka10 遭 v Je13 EXP SBV
+鉴于 p Kc09 屡 d Ka10 遭 v Je13 EXP SBV 事实 n Da01 中国 ns Di02 学会 na Di10 专家 n Al02 EXP SBV
+鉴于 p Kc09 屡 d Ka10 遭 v Je13 EXP SBV 事实 n Da01 中国 ns Di02 学会 na Di10 专家 n Al02 EXP SBV 出 v Jd07 加强 v Ih10 保护 vn Hi37 工作 vn Ae01 EXP SBV
+成功 ad If22 开发 v Hj28 旅游 vn Hj48 的 u Bo29 ATT FEAT
+成功 ad If22 开发 v Hj28 旅游 vn Hj48 的 u Bo29 ATT FEAT 全国性 n Dd05 的 u Bo29 保护 vn Hi37 工作 vn Ae01 ATT FEAT
+看到 v Fc04 了 u Ig01 我们 r Aa02 还要 v Gc03 VOB CONT

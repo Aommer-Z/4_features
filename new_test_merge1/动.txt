@@ -1,0 +1,21 @@
+潮流 n Da20 而 c Aa03 为 p Ih01 两岸 n Cb08 AGT ADV dCONT mDEPD
+是 v Jd01 真正 d Ka30 起来 v Ih13 了 y Ig01 CMP ADV TIME VOB dCONT mDEPD
+地方 n Cb15 已经 d Ka12 起来 v Ih13 了 y Ig01 CMP COO ADV LOC SBV Root RAD HED eSUCC mDEPD
+人 n Ab02 不 d Ie01 都 d Cb25 喘 v Ic08 mNEG AGT ADV ePREC
+潮流 n Da20 而 c Aa03 制造 v Hd04 分裂 vn Ie08 ATT ADV mRELA
+自己 r Aa05 要 v Ag04 起来 v Ih13 有 v Jd07 CMP COO ADV SBV Root AGT HED eSUCC mRELA mDEPD
+潮流 n Da20 而 c Aa03 违背 v Hi39 广大 b Ed38 COO ADV AGT ePREC eSUCC mRELA mDEPD
+工作 vn Ae01 勤 a Ka10 口 n Dn08 检查 v Hc22 ATT FEAT FOB
+工作 vn Ae01 勤 a Ka10 口 n Dn08 检查 v Hc22 ATT FEAT FOB 工作 vn Ae01 勤 a Ka10 腿 n Bk08 深入 v Ed16 ATT FEAT FOB
+固定 v Ed14 不 d Ie01 它 r Ba10 会 v Hi05 COO ADV eCOO mNEG eSUCC
+原地 n Cb08 不 d Ie01 mNEG COO ADV eSUCC
+了 y Ig01 卖 v He03 不 d Ie01 CMP ADV mNEG eSUCC
+推 v Je06 不 d Ie01 收效 v Ie04 甚微 z -1 CMP ADV mNEG eSUCC
+卖 v He03 不 d Ie01 CMP ADV mNEG eSUCC
+金钱 n Dj03 所 u Di09 在 p Jd02 自己 r Aa05 ADV SBV AGT dCONT dEXP eSUCC LAD mDEPD
+世俗 n Ee42 所 u Di09 所 u Di09 累 Vg L04 COO ATT ADV AGT RAD LAD mDEPD
+诱惑 v Je04 所 u Di09 根本 a Ka10 的 u Bo29 ADV REAS VOB LAD mDEPD
+言 Ng Hi12 所 u Di09 SBV CONT VOB LAD mDEPD
+生产 v Dn07 中 f Di02 心思 n Df14 搞 v Hj12 COO ADV SBV VOB PAT HED
+刀 n Bo09 都 d Cb25 舍不得 v Gb17 PAT dCONT VOB
+案件 n Da03 案件 n Da03 起 v Kd02 了 u Ig01 CMP ADV SBV CONT Root AGT VOB dDATV HED mDEPD

@@ -1,0 +1,26 @@
+这 r Ca31 小子 n Ah14 不 d Ie01 不 d Ie01 喝 v Fc10 可以 v Gc02 不 d Ie01
+夏 Tg Ca19 海带 n Bh04 冬 Tg Ca19 吃 v Je13 粉条 n Br06
+夏 Tg Ca19 吃 v Je13 海带 n Bh04 冬 Tg Ca19 粉条 n Br06 一年四季 l Ca20 啃 v Fc07 梭标 n -1
+自给 v Jc05 基层 n Di16 官兵 n Ae10 们 k Aa01 菜 n Bh09 难 a Da10 特别 d Ka20 是 v Jd01
+菜 n Bh09 难 a Da10 特别 d Ka20 是 v Jd01 鲜菜 n Bh06 难 a Da10 的 u Bo29 状况 n Dc02
+上 v Hj63 一 m Ka16 份 q Dn08 以 p Di02 用 v Jc05 为主 v Ed28 的 u Bo29 慰问品 n Ba02
+牛排 n Br06 是 v Jd01 午餐 n Da18 常 d Ka10 的 u Bo29
+也 d Kd03 是 v Jd01 第一 m Ka09 次 q Jb05 海鲜饭 n -1
+要命 v Ka01 竟然 d Ka27 也 d Kd03 能够 v Gc02 得 u Ib10 白白胖胖 z -1
+变 v He03 把 p Hc10 洋人 n Ad02 不 d Ie01 的 u Bo29 猪 n Bi07 内脏 n Bk14 都 d Cb25
+下去 v Hj62 哗 o Ef03 坐 v Hf02 着 u Dn08 的 u Bo29 人 n Ab02 都 d Cb25 围 v Dn08
+人 n Ab02 都 d Cb25 围 v Dn08 上来 v Hj62
+工作 vn Ae01 人员 n Aa01 一定 d Ka15 要 v Ag04 皇粮 n -1 一切 r Eb02 审计 vn Hc18 经费 n Dj08
+靠 p Hf08 湖 n Be06 湖 n Be06 的 u Bo29 传统 a Df01 生产方式 l Db09
+沿线 f Cb06 村民 n Ae07 为何 r Ka35 铁路 n Bn11 成风 v Ie01
+得 u Ib10 起 v Kd02 税 n Dj06 靠 v Hf08 税 n Dj06 过日子 l Hj01 不 d Ie01 长久 a Eb24
+公家人 n -1 就 d Kb04 该 v He08 敬业 v Gb09 得 u Ib10 苦 a Df02
+扣 v Bp24 了 u Ig01 工资 n Dj07 而 c Aa03 了 u Ig01 大 d Ah05 亏 v He15
+后 f Ai03 不久 m Eb25 就 d Kb04 因 p Kc09 到 v Hf08 第二 m Dn04 张 q Dn08 黄牌 n Bp20
+走 v Hi01 很多 m Eb01 弯路 n Cb27 少 d He15 很多 m Eb01 苦头 n Da10
+现实 a Da01 生活 vn Ib03 中 f Di02 这种 r -1 冤枉 a If10 亏 v He15 的 u Bo29
+电建 j -1 一 m Ka16 公司 n Dm04 起初 d Da06 了 u Ig01 不少 m Eb01 苦头 n Da10
+入伙 v Hj19 练功 v Hg06 一个个 m -1 都 d Cb25 了 u Ig01 闭门羹 l Hi32
+双 m Dn08 车 n Hd05 正 d Bc02 捉 v Hb14 许 nr Kd02 银川 nr Di03 的 u Bo29 炮 n Bo27
+逃 v Je11 只好 d Ka22 进 v He03 车 n Hd05 炮 n Bo27 了 y Ig01
+车 n Hd05 三 m Dn04 进 v He03 一 m Ka16 象 Ng Bi02 因 c Kc09 黑 a Ed45 可 v Ka01

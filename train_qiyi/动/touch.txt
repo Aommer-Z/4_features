@@ -1,0 +1,15 @@
+欲,d,Jc05,天下,n,Di01,者,k,Aa01,先,d,Ca11,动,v,Je02
+动,v,Je02,天下,n,Di01,者,k,Aa01,先,d,Ca11,天下,n,Di01,人心,n,Df05,这,r,Ca31,是,v,Jd01
+不,d,Ie01,能,v,Gc02,以,p,Di02,情,n,Df07,人,n,Ab02,也,d,Kd03,得,v,Ib10,不,d,Ie01
+行政,v,Da01,以理服人,i,Hi45,以,p,Di02,情,n,Df07,人,n,Ab02,才,c,If03,能,v,Gc02,更,d,Ca30
+说,v,Hi34,我,r,Aa05,丝毫,m,Eb01,没,d,Jd08,过,u,Je09,心,n,Bk14
+舅,n,Ah07,每年,r,Ca18,春雨,n,Bf01,绵绵,z,Ka11,乡愁,n,Ga02,的,u,Bo29,时候,n,Ca04,他,r,Aa04
+为,p,Ih01,民,Ng,Aa01,得,v,Ib10,众,Ag,Aa01,天,n,Cb07,生,v,Al01,而,c,Aa03,无后,v,If15
+工作,vn,Ae01,中,f,Di02,一定,d,Ka15,要,v,Ag04,感情,n,Df04,动脑筋,v,Gb01,动真格,l,-1
+山雨,n,-1,的,u,Bo29,山里,s,-1,汉子,n,Ah08,了,u,Ig01,感情,n,Df04,讲,v,Hg12,起,v,Kd02
+真情,n,Df02,办,v,Bn03,实事,n,Da01
+住房,n,Bn01,难,a,Da10,问题,n,Dd09,上,f,Hj63,真情,n,Df02,办,v,Bn03,实事,n,Da01,的,u,Bo29
+真情,n,Df02,办,v,Bn03,实事,n,Da01,激发,v,Je06
+真情,n,Df02,才,d,If03,能,v,Gc02,办,v,Bn03
+真情,n,Df02,办,v,Bn03,实事,n,Da01,特事,n,-1
+人,n,Ab02,为,p,Ih01,之,r,Kd01,所,u,Di09,没有,v,Jd08,一,m,Ka16,人,n,Ab02,走漏,v,If23

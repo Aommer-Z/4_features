@@ -1,0 +1,14 @@
+发人深思 l Gb01 让 v Je04 人 n Ab02 COO AGT VOB eSUCC
+为 p Ih01 之 r Kd01 ADV SBV dLINK FOB AGT VOB DATV PAT
+澳 j Cb08 澳 j Cb08 ADV LOC SBV EXP Root HED
+了 y Ig01 同事 n Aj04 们 k Aa01 SBV Root AGT RAD HED mDEPD
+令 v Je04 人 n Ab02 令 v Je04 人 n Ab02 AGT eSUCC VOB
+世界 n Di14 音乐界 n Dd05 和 c Hh04 痛惜 v Gb17 COO eCOO EXP VOB eSUCC
+人 n Ab02 感到 v Gb02 的 u Bo29 是 v Jd01 VOB CONT
+使 v Kb05 我们 r Aa02 eSUCC VOB EXP
+令 v Je04 人 n Ab02 AGT eSUCC VOB
+令 v Je04 世人 n Ai01 eSUCC VOB EXP
+史 Ng Da07 上 f Hj63 世界 n Di14 的 u Bo29 ATT ADV rEXP SCO VOB RAD PAT mDEPD
+一 m Ka16 桩 q Bn05 澳洲 ns Cb08 澳洲 ns Cb08 ATT rEXP VOB RAD dCONT PAT mDEPD
+一 m Ka16 系列 q Dn08 苏 j Jd08 皖 j Di02 ATT rEXP VOB RAD PAT mDEPD
+案件 n Da03 案件 n Da03 全国 n Di02 该局 r -1 COO SBV EXP Root VOB DATV HED

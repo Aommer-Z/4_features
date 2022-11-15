@@ -1,0 +1,10 @@
+互联网,n,-1,发展,vn,Ie12,速度,n,Dn01,我,r,Aa05,是,v,Jd01,全世界,n,Di01,第一,m,Ka09,现在,t,Ca10
+我,r,Aa05,沙家浜,ns,-1,中,f,Di02,泰山,ns,Ak03,顶,Ng,Jb01
+因果,n,Db01,关系,n,Db01,因此,c,Kc09,我,r,Aa05,断面,n,Cb23,有,v,Jd07,无,v,Jd08,红星,n,Ba01
+我,r,Aa05,一个,m,Dn08,非常,d,Ka01,有,v,Jd07,名气,n,Da26
+我,r,Aa05,主要,b,Ed28,原因,n,Db01,还,d,Hi27,在于,v,Jd02
+他,r,Aa04,可能,v,Gc02,是,v,Jd01,由于,p,Kc09,电压,n,Je08
+经营,vn,Hc02,作风,n,De01,来讲,u,Hg12,我,r,Aa05,也,d,Kd03,不,d,Ie01,应该,v,Gc03,当作,v,Ja01
+我,r,Aa05,占用,v,Jd04,资源,n,Ba08,少,a,He15,使用,v,Di21
+我,r,Aa05,这,r,Ca31,对于,p,Kb04,西部,f,Cb02,的,u,Bo29
+坦率,a,Ee03,地,u,Di09,对话,v,Hi12,我,r,Aa05,实际,ad,Da01,已经,d,Ka12,用,p,Jc05,行动,vn,Ie13

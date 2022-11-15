@@ -1,0 +1,11 @@
+国泰民安,i,Ef01,这,r,Ca31,是,v,Jd01,火红,z,Ec01,的,u,Bo29,礼炮,n,Bo27,呀,y,Kf10,2
+需要,v,Jc05,热爱,v,Gb09,生活,vn,Ib03,的,u,Bo29,让,v,Je04,往事,n,Da07,的,u,Bo29,潮汐,n,Bf07,2
+亏损,v,He14,了,y,Ig01,不好过,a,-1,铁路,n,Bn11,企业,n,Dm03,开始,v,Ig01,2
+恢复,v,Jd08,了,y,Ig01,企业,n,Dm03,的,u,Bo29,就,d,Kb04,好过,a,Ga06,了,y,Ig01,2
+让,v,Je04,更,d,Ca30,红火,a,Ef14,2
+是,v,Jd01,恩爱,a,Ed32,和睦,a,Ed33,的,u,Bo29,2
+搞,v,Hj12,一些,m,Eb02,副业,n,Di18,让,v,Je04,更,d,Ca30,红火,a,Ef14,些,q,Dn05,2
+种,v,Hd20,半,m,Cb04,亩,q,Dn10,橙,Ng,Bh07,火,n,Ae04,样,u,Dn08,红,a,If03,2
+鬼,n,Aa01,不,d,Ie01,鬼,n,Aa01,的,u,Bo29,说不定,l,Ka17,哪,r,Ba10,天,q,Cb07,就,d,Kb04,2
+家里,s,Ah08,的,u,Bo29,尽管,c,Kc10,变化,v,Ih01,不,d,Ie01,大,a,Ah05,2
+一,m,Ka16,年,q,Ca18,比,p,Hh07,一,m,Ka16,2

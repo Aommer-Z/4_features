@@ -1,0 +1,10 @@
+统一,vn,Ie08,是,v,Jd01,全世界,n,Di01,华夏,nz,Di02,的,u,Bo29,共同,b,Ka23,心愿,n,Df08
+振兴,v,Je06,是,v,Jd01,全世界,n,Di01,中华,nz,Di02,的,u,Bo29,共同,b,Ka23,心愿,n,Df08
+统一,v,Ie08,是,v,Jd01,全体,n,Eb02,华夏,nz,Di02,共同,b,Ka23,意志,n,Df11
+反映,v,Ja03,了,u,Ig01,全体,n,Eb02,华夏,nz,Di02,的,u,Bo29,共同,b,Ka23,心愿,n,Df08
+努力,ad,Ka19,增进,v,Ih10,全体,n,Eb02,中华,nz,Di02,的,u,Bo29,大,d,Ah05,团结,a,Ie08,大,d,Ah05
+激发,v,Je06,了,u,Ig01,海内外,s,Di01,中华,nz,Di02,的,u,Bo29,爱国主义,n,Di08,爱国主义,n,Di08,爱国主义,n,Di08
+进一步,d,Ka04,促进,v,Je06,海内外,s,Di01,中华,nz,Di02,的,u,Bo29,大,d,Ah05,团结,v,Ie08
+振兴,v,Je06,是,v,Jd01,全世界,n,Di01,中华,nz,Di02,的,u,Bo29,共同,b,Ka23,心愿,n,Df08
+世界,n,Di14,各地,r,Cb09,的,u,Bo29,华夏,nz,Di02,感到,v,Gb02,痛心,a,Ga01
+时期,n,Ca03,有,v,Jd07,多,m,Ih05,万,m,Dn04,献,v,Hi26,出,v,Jd07,了,u,Ig01,生命,n,Da17

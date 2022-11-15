@@ -1,0 +1,11 @@
+某些,r,Dn05,人,n,Ab02,不,d,Ie01,是,v,Jd01,不,d,Ie01,见,v,Jd06,这,r,Ca31,一切,r,Eb02
+财务处,n,-1,同志,n,Aa03,来,v,Ca03,结账,v,He12,了,u,Ig01,发票,n,Bp19,吃惊,a,Ga16,地,u,Di09
+药品,n,Br13,的,u,Bo29,说明,vn,Ja04,越来越,d,Ka04,不,d,Ie01,懂,v,Gb08,了,y,Ig01
+楼上,s,-1,往,p,Ca11,下,f,Ia03,一,d,Ka16,市井,n,Cb28,灯火辉煌,i,-1,霓虹,n,-1,闪烁,v,Ia07
+棵,q,Dn08,杨树,n,Bh01,枝,Ng,Bh10,掰开,v,-1,时,Ng,Ca30,五角星,n,Bb02,竟,d,Ka27,没有,v,Jd08
+娱乐,vn,Hj48,项目,n,Dd06,少,a,He15,白天,t,Ca28,庙,n,Bn24,晚上,t,Ca29,睡觉,v,Hj32
+和,c,Hh04,欢迎,vn,Hi05,取得,v,Je12,了,u,Ig01,得,u,Ib10,到,v,Hf08,摸,v,Fa01,得,u,Ib10
+快速,d,Eb23,发展,v,Ie12,乍,d,Ka12,一,d,Ka16,并,d,Kc06,没有,v,Jd08,什么,r,Ba10,特别,a,Ka20
+者,k,Aa01,闭,v,Fa31,眼,n,Dn08,不,d,Ie01,事实,n,Da01,说,v,Hi34,什么,r,Ba10,修炼,v,Hk03
+王法,n,Di25,就,d,Kb04,是,v,Jd01,家法,n,Di25,一,m,Ka16,看,v,Hi37,历代,n,Ca02,的,u,Bo29
+是,v,Jd01,家法,n,Di25,看,v,Hi37,一,m,Ka16,历代,n,Ca02,的,u,Bo29,朝律,n,-1,国令,n,-1

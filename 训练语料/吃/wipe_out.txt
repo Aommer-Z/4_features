@@ -1,0 +1,6 @@
+献/v 车/n 交换/v 无奈/a ，/w 因为/c 不/d 能/v 走/v 车/n 4/m 进/v 7/m 吃/v 红/a 车/n ，/w 否则/c 红/a 车/n 五/m 平/v 六/m ，/w 立刻/d 成/v 杀/v 。/w 
+此时/r 黑方/n 还是/d 不/d 能/v 走/v 车/n 4/m 进/v 7/m 吃/v 红/a 六/m 路/n 车/n ，/w 那样的话/l 红方/n 只要/c 简单/a 地/u 走/v 车/n 五/m 平/v 七/m 吃/v 马/n ，/w 以/p 下/v 象/Ng 7/m 进/v 5/m （/w 将/n 5/m 平/v 4/m ，/w 后/f 炮/n 平/v 六/m ，/w 黑/a 无/v 应手/n ）/w ，/w 车/n 七/m 进/v 二/m ，/w 车/n 4/m 退/v 7/m ，/w 车/n 七/m 平/v 六/m ，/w 将/n 5/m 平/v 4/m ，/w 马/n 五/m 进/v 三/m ，/w 红/a 多/v 子/Ng 胜/v 定/v 。/w 
+吃/v 马/n 进行/v 交换/vn ，/w 红方/n 以/p 简明/a 胜势/n 开始/v “/w 打扫/v 战场/n ”/w 。/w 
+关键/a 时刻/n ，/w 常/nr 昊/nr 因/p 计算/v 出现/v 失误/vn ，/w 导致/v 5/m 颗/q 黑子/n 被/p 吃/v ，/w 全局/n 形势/n 顿时/d 逆转/v 。/w 
+马/nr 晓春/nr 的/u 白棋/n 在/p 疯狂/ad 抢占/v 盘面/n 最后/f 的/u 实地/s 时/Ng ，/w 匆忙/a 中/f 将/p 一/m 手/q 棋/n 的/u 次序/n 搞/v 错/v ，/w 结果/n 欲速则不达/i ，/w 盘面/n 左方/f 自己/r 的/u 一/m 条/q 14/m 子/Ng 的/u 大/a 龙/n 被/p 常/nr 昊/nr 的/u 黑棋/n 通/v 吃/v ，/w 形势/n 便/d 急转直下/i 。/w 
+进/v 车/n 弃/Vg 炮/n ，/w 全力/d 进攻/v ，/w 算/v 准/a 红方/n 不/d 能/v 走/v 车/n 四/m 平/v 三/m 吃/v 炮/n ，/w 否则/c 黑马/n 5/m 进/v 4/m ，/w 伏/v 马/n 4/m 进/v 3/m 和/v 马/n 4/m 进/v 6/m 的/u 两/m 路/q 杀/v 势/Ng ，/w 红/a 顿时/d 没有/v 了/u 应手/n 。/w 

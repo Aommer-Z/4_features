@@ -1,0 +1,4 @@
+激动,a,Je02,地,u,Di09,说,v,Hi34,我,r,Aa05,以,p,Di02,年限,n,Ca06,决定,v,Je09,汽车,n,Bo21
+掉,v,Hi27,的,u,Bo29,企业,n,Dm03,我,r,Aa05,也,d,Kd03,不,d,Ie01,能,v,Gc02,完全,ad,Ka06
+我,r,Aa05,反正,d,Hb15,你,r,Aa03,我,r,Aa05,都,d,Cb25
+老兄,n,Aa03,我,r,Aa05,你,r,Aa03,还是,d,Kc01,转,v,Ih02,过,v,Je09

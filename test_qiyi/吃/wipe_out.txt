@@ -1,0 +1,3 @@
+双,m,Dn08,车,n,Hd05,正,d,Bc02,捉,v,Hb14,许,nr,Kd02,银川,nr,Di03,的,u,Bo29,炮,n,Bo27
+逃,v,Je11,只好,d,Ka22,进,v,He03,车,n,Hd05,炮,n,Bo27,了,y,Ig01
+车,n,Hd05,三,m,Dn04,进,v,He03,一,m,Ka16,象,Ng,Bi02,因,c,Kc09,黑,a,Ed45,可,v,Ka01

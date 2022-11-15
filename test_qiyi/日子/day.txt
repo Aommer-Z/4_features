@@ -1,0 +1,11 @@
+召开,v,Ie13,二十,m,Dn04,年,q,Ca18,的,u,Bo29,里,f,Dn10,我,r,Aa05,被,p,Je13,党组织,n,Di10
+在,p,Jd02,无,v,Jd08,风雨,n,Bf01,的,u,Bo29,街边,n,-1,巷口,s,-1,会,v,Hi05,飘,v,Id13
+的,u,Bo29,阳光,n,Bg03,明媚,a,Ed40,的,u,Bo29,里,f,Dn10,举行,v,Ie13
+太,d,Bo29,忙,a,Ef06,这样,r,Ka34,的,u,Bo29,真是,d,Ja01,不,d,Ie01,多,a,Ih05
+历史,n,Dd01,受,v,Je14,冷落,vn,Ef04,的,u,Bo29,里,f,Dn10,他,r,Aa04,却,d,Hb13,把,p,Hc10
+说起,v,-1,那段,r,-1,这,r,Ca31,位,q,Dn08,闽西,ns,-1,山,n,Be04
+开展,v,Ig03,精神文明,n,Dk01,建设,vn,Ie12,的,u,Bo29
+将来,t,Ca12,的,u,Bo29,里,f,Dn10,车主,n,Aj11,每年,r,Ca18,都,d,Cb25
+重温,v,Ig04,过去,t,Ca11,的,u,Bo29,让,v,Je04,我,r,Aa05,又,d,Kc02,回到,v,Hf07
+一,d,Ka16,长,a,Ih05,人们,n,Aa01,称,v,Je12
+前些,t,-1,某,r,Aa05,电视台,n,Di09,播发,v,Hh03,了,u,Ig01

@@ -1,0 +1,4 @@
+不,d,Ie01,为,p,Ih01,金钱,n,Dj03,所,u,Di09,在,p,Jd02,自己,r,Aa05,拿,v,If24,钱,n,Dj03,2
+不,d,Ie01,为,p,Ih01,世俗,n,Ee42,所,u,Di09,所,u,Di09,累,Vg,L04,的,u,Bo29,自信,vn,Gb14,2
+为,p,Ih01,各种,r,Dn03,诱惑,v,Je04,所,u,Di09,根本,a,Ka10,的,u,Bo29,问题,n,Dd09,是,v,Jd01,2
+为,p,Ih01,危,Ag,Je10,言,Ng,Hi12,所,u,Di09,2

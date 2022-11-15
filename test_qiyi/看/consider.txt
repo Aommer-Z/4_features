@@ -1,0 +1,11 @@
+目前,t,Ca10,我国,r,Di02,的,u,Bo29,实际,n,Da01,新闻,n,Da01,媒体,n,Aj15,在,p,Jd02,体育,n,Di09
+三,m,Dn04,岁,q,Ca18,大,a,Ah05,七,m,Dn04,岁,q,Ca18,看,v,Hi37
+看,v,Hi37,大,a,Ah05,七,m,Dn04,岁,q,Ca18,老,a,Ab02
+江河,n,Be05,东,f,Aj05,流,v,Dn08,要,v,Ag04,全程,n,Dn02,历史,n,Dd01,的,u,Bo29,长河,n,Be05
+但,c,Kc03,从,p,Hi39,科学史,n,-1,上,f,Hj63,也,d,Kd03,不乏其人,i,Eb01
+有的,r,Eb02,表面,n,Bc02,上,f,Hj63,班子,n,Dm07,非常,d,Ka01,团结,a,Ie08,干部,n,Ae01
+坚持,v,Gb02,在,p,Jd02,实践,v,Hi04,中,f,Di02,干部,n,Ae01,凭,p,Fd02,经营,vn,Hc02,实绩,n,Da14
+教授,n,Ae13,您,r,Aa03,是,v,Jd01,怎么,r,Kc12,这个,r,Ed61,问题,n,Dd09,的,u,Bo29
+从,p,Hi39,经贸,j,Di18,方面,n,Cb01,年,t,Ca18,中,j,Di02,比,j,Hh07,贸易额,n,He01
+老外,n,-1,中国,ns,Di02,农村,n,Cb25,选举,v,Hc23
+从,p,Hi39,国际,n,Di02,经验,n,Da16,不,d,Ie01,一定,d,Ka15,所有,b,Jd04,的,u,Bo29

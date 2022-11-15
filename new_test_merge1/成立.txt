@@ -1,0 +1,56 @@
+新党和平 nz -1 在 p Jd02 大会 n Di23 上 f Hj63 ATT FEAT
+新党和平 nz -1 在 p Jd02 大会 n Di23 上 f Hj63 ATT FEAT
+了 u Ig01 阿盟 j -1 后 f Ai03 多 m Ih05 ATT rTIME SBV EXP mDEPD
+支部 n Di10 后 f Ai03 如何 r Kc10 ATT SBV EXP dTIME mDEPD
+香港 ns Cb25 分社 n Di10 于 p Kb05 年 t Ca18 CMP SBV CONT Root TIME HED
+人大 j Di23 华侨委 j -1 以来 f Ca11 认真 ad Gb14 ADV SBV EXP dTIME mDEPD
+集团 n Hj30 公司 n Dm04 后 f Ai03 积极 ad Ee23 ATT dTIME mDEPD EXP
+竞选 v Hc23 联盟 n Di02 后 f Ai03 出任 v Hj24 ATT ADV EXP FOB TIME dTIME mDEPD
+交通 n Di18 银行 n Dm04 于 p Kb05 年 t Ca18 CMP SBV CONT Root TIME HED
+过渡 vn Hj03 政府 n Di11 的 u Bo29 当天 t Ca23 ATT SBV EXP RAD mDEPD
+从 p Hi39 一 d Ka16 就 d Kb04 把 p Hc10 ADV POB mRELA dTIME mDEPD
+有限公司 na Dm04 如期 d Ka09 家 q Al02 投入 v He01 COO ADV SBV MANN rEXP VOB RAD mDEPD
+了 u Ig01 阿盟 j -1 后 f Ai03 多 m Ih05 ATT rTIME SBV EXP mDEPD
+支部 n Di10 后 f Ai03 如何 r Kc10 ATT SBV EXP dTIME mDEPD
+香港 ns Cb25 分社 n Di10 于 p Kb05 年 t Ca18 CMP SBV CONT Root TIME HED
+人大 j Di23 华侨委 j -1 以来 f Ca11 认真 ad Gb14 ADV SBV EXP dTIME mDEPD
+集团 n Hj30 公司 n Dm04 后 f Ai03 积极 ad Ee23 ATT dTIME mDEPD EXP
+竞选 v Hc23 联盟 n Di02 后 f Ai03 出任 v Hj24 ATT ADV EXP FOB TIME dTIME mDEPD
+交通 n Di18 银行 n Dm04 于 p Kb05 年 t Ca18 CMP SBV CONT Root TIME HED
+过渡 vn Hj03 政府 n Di11 的 u Bo29 当天 t Ca23 ATT SBV EXP RAD mDEPD
+从 p Hi39 一 d Ka16 就 d Kb04 把 p Hc10 ADV POB mRELA dTIME mDEPD
+有限公司 na Dm04 如期 d Ka09 家 q Al02 投入 v He01 COO ADV SBV MANN rEXP VOB RAD mDEPD
+科学 n Dk03 能否 v Gc02 首先 c Ka09 看 v Hi37 COO ADV SBV CONT Root HED mDEPD
+若 c Aa03 罪名 n Di26 的话 u Kd05 将 d Ae10 ATT ADV SBV FOB RAD mDEPD
+若 c Aa03 罪名 n Di26 的话 u Kd05 将 d Ae10 ATT ADV SBV FOB RAD mDEPD 不 d Ie01 能 v Gc02 ATT ADV SBV FOB RAD mDEPD
+不 d Ie01 能 v Gc02 原判 n -1 正确 a Ed12 COO ADV SBV CONT VOB eSUCC mDEPD
+哥德巴赫猜想 nz -1 是 v Jd01 的 u Bo29 而 c Aa03 mDEPD VOB RAD
+视为 v Ja01 不 d Ie01 mNEG ADV VOB dLINK
+这次 r -1 选举 v Hc23 COO ADV EXP FOB eSUCC mRELA
+科学 n Dk03 能否 v Gc02 首先 c Ka09 看 v Hi37 COO ADV SBV CONT Root HED mDEPD
+若 c Aa03 罪名 n Di26 的话 u Kd05 将 d Ae10 ATT ADV SBV FOB RAD mDEPD
+若 c Aa03 罪名 n Di26 的话 u Kd05 将 d Ae10 ATT ADV SBV FOB RAD mDEPD 不 d Ie01 能 v Gc02 ATT ADV SBV FOB RAD mDEPD
+不 d Ie01 能 v Gc02 原判 n -1 正确 a Ed12 COO ADV SBV CONT VOB eSUCC mDEPD
+哥德巴赫猜想 nz -1 是 v Jd01 的 u Bo29 而 c Aa03 mDEPD VOB RAD
+视为 v Ja01 不 d Ie01 mNEG ADV VOB dLINK
+这次 r -1 选举 v Hc23 COO ADV EXP FOB eSUCC mRELA
+江西 ns Di02 铜鼓县 ns -1 综合 vn Ed11 收费 vn He10 SBV CONT Root AGT VOB HED
+要求 v Gb04 各地 r Cb09 由 p Hf06 主管 vn Af10 COO eSUCC VOB SBV
+该区 r Cb08 了 u Ig01 区长 n Af10 COO SBV CONT Root RAD HED eSUCC mDEPD
+区政府 n -1 组织 v Hc03 了 u Ig01 专家 n Al02 COO CONT Root TIME VOB RAD eSUCC mDEPD
+环保 j Di18 企业 n Dm03 了 u Ig01 新 a Ka12 COO ADV SBV CONT AGT VOB RAD HED mDEPD
+专家 n Al02 随后 d Ca12 了 u Ig01 和平 n Ef01 COO ADV SBV Root AGT TIME RAD HED eSUCC mDEPD
+直到 v Kb02 全国 n Di02 救国 vn Ha04 ATT CONT dTIME VOB mRELA mDEPD
+世界 n Di14 上 f Hj63 了 u Ig01 研究所 n Di10 COO ADV LOC SBV CONT Root AGT VOB RAD HED eSUCC mDEPD
+广电 j -1 总局 n Dm04 了 u Ig01 电影 n Dk29 COO SBV CONT Root AGT VOB RAD HED eSUCC mDEPD
+的 u Bo29 权力 n Di21 稽查办 j -1 上街 v Hj64 COO VOB CONT
+江西 ns Di02 铜鼓县 ns -1 综合 vn Ed11 收费 vn He10 SBV CONT Root AGT VOB HED
+要求 v Gb04 各地 r Cb09 由 p Hf06 主管 vn Af10 COO eSUCC VOB SBV
+该区 r Cb08 了 u Ig01 区长 n Af10 COO SBV CONT Root RAD HED eSUCC mDEPD
+区政府 n -1 组织 v Hc03 了 u Ig01 专家 n Al02 COO CONT Root TIME VOB RAD eSUCC mDEPD
+环保 j Di18 企业 n Dm03 了 u Ig01 新 a Ka12 COO ADV SBV CONT AGT VOB RAD HED mDEPD
+专家 n Al02 随后 d Ca12 了 u Ig01 和平 n Ef01 COO ADV SBV Root AGT TIME RAD HED eSUCC mDEPD
+直到 v Kb02 全国 n Di02 救国 vn Ha04 ATT CONT dTIME VOB mRELA mDEPD
+世界 n Di14 上 f Hj63 了 u Ig01 研究所 n Di10 COO ADV LOC SBV CONT Root AGT VOB RAD HED eSUCC mDEPD
+广电 j -1 总局 n Dm04 了 u Ig01 电影 n Dk29 COO SBV CONT Root AGT VOB RAD HED eSUCC mDEPD
+的 u Bo29 权力 n Di21 稽查办 j -1 上街 v Hj64 COO VOB CONT

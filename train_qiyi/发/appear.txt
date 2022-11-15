@@ -1,0 +1,9 @@
+如,c,Je12,腮,n,Bk02,的,u,Bo29,颜色,n,Bm11,白,a,Bp07,就,d,Kb04,欠佳,a,Ed03,了,y,Ig01
+土,a,Bm04,茶碗,n,Bp07,老,a,Ab02,得,u,Ib10,黄,a,If22,一,m,Ka16,碗,q,Bp07,茶水,n,Br12
+时,t,Ca30,天,n,Cb07,已,d,Ig02,开始,v,Ig01,亮,v,Ja04,个,q,Dn08,景点,n,Dc02,聚集,v,Ie10
+化妆品,n,Bp32,用,v,Jc05,后,f,Ai03,皮肤,n,Bk10,黑,a,Ed45,前来,vn,Hj63,商场,n,Cb28,投诉,v,Hm01
+升挂,v,-1,的,u,Bo29,国旗,n,Bp20,颜色,n,Bm11,黑,a,Ed45,显得,v,Ja04,较,d,Kb03,脏,a,Bk14
+万,m,Dn04,个,q,Dn08,精致,a,Eb33,能,v,Gc02,亮光,n,Bg03,的,u,Bo29,小,a,Ah08,红,a,If03
+看,v,Hi37,他们,r,Aa04,冻,v,Ia11,得,u,Ib10,紫,a,Eb03,的,u,Bo29,脸上,s,Bk02,荡漾,v,Id12
+昆明,ns,Di03,等,u,Dn08,热线,n,Bg03,已经,d,Ka12,烫,a,Eb26,让,v,Je04,众,Ag,Aa01,旅行社,n,Di10
+里,f,Dn10,的,u,Bo29,茅台,ns,-1,酒,n,Br12,出来,v,Hj64,的,u,Bo29

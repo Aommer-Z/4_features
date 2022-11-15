@@ -1,0 +1,17 @@
+的 u Bo29 新 a Ka12 ATT FEAT VOB CONT
+新 a Ka12 的 u Bo29 欧洲 ns Cb08 一些 m Eb02 ATT FEAT VOB LINK
+发展 v Ie12 的 u Bo29 ATT VOB dFEAT
+的 u Bo29 万千 m Eb01 即刻 d Ka08 展示 v Ja04 ATT FEAT MEAS SBV EXP
+盛唐 t -1 少年 n Ab03 精神 n Dk01 ATT FEAT
+的 u Bo29 新 a Ka12 对于 p Kb04 推动 v Je06 ATT FEAT SBV EXP LINK
+科技 n Dk03 果品 n Bh07 等 u Dn08 多 m Ih05 COO ATT FEAT eCOO mDEPD
+实施 v Ie13 公路 n Bn11 安全 an Ef08 安全 an Ef08 ATT FEAT EXP
+会同 v Kc01 国家 n Di02 水文局 n -1 等 u Dn08 ATT eCOO
+会同 v Kc01 国家 n Di02 水文局 n -1 等 u Dn08 ATT eCOO 套 q Hg08 公路 n Bn11 安全 a Ef08 安全 a Ef08 ATT eCOO
+地形 n Dc01 和 c Hh04 条件 n Dd11 来看 v Fc04 ATT eCOO mRELA FEAT
+公路 n Bn11 的 u Bo29 安全 an Ef08 安全 an Ef08 ATT eCOO EXP
+预报 vn Hi15 的 u Bo29 公路 n Bn11 ATT FEAT CONT FOB
+前方 s Cb12 的 u Bo29 车流 n Hj64 路况 n -1 ATT FEAT
+条 q Bh10 公路 n Bn11 安全 an Ef08 安全 an Ef08 ATT EXP
+是 v Jd01 据 p Hc10 分析 v Hg14 今春 t Ca19 EXP SBV
+的 u Bo29 能源 n Ba08 问题 n Dd09 研究 vn Hg14 COO eCOO

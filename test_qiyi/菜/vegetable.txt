@@ -1,0 +1,10 @@
+没,v,Jd08,钱,n,Dj03,买,v,He03,她,r,Aa04,时常,d,Ka10,花,v,Ag04,分钱,q,-1
+都,d,Cb25,很,d,Ka01,好,a,Je10,买,v,He03,做饭,v,Hj44,干,v,Je01,家务,n,Da01,几乎,d,Ka27
+万,m,Dn04,亩,q,Dn10,占,v,Jd04,城市,n,Cb25,基地,n,Cb08,的,u,Bo29
+鸡,n,Bi13,宰,v,Hd28,猪,n,Bi07,摘,v,He07,包,v,Jd05,饺子,n,Br09,精心,ad,Ee28,准备,v,Gb05
+里,f,Dn10,南瓜,n,Bh06,青椒,n,Bh06,豆腐,n,Br06,芹菜,n,Bh06,长势,n,Da20,喜人,a,Ed40
+去年,t,Ca18,全区,n,Cb08,产,v,Hd29,万,m,Dn04,公斤,q,Dn10,肉,n,Bh13,万,m,Dn04
+的,u,Bo29,水,n,Bg01,里,f,Dn10,洗,v,Jd10,为,p,Ih01,孩子,n,Ah14,洗衣,v,Fa21,从早到晚,l,Eb24
+此,r,Cb30,主要,d,Ed28,生长,v,Ib01,于,p,Kb05,海拔,n,Dn01
+都,d,Cb25,得,v,Ib10,储粮,v,-1,储,Vg,Hj40,储,Vg,Hj40,水,n,Bg01
+的,u,Bo29,是,v,Jd01,粮,n,Br01,油,n,Hd03,蛋,n,Bl05,奶,n,Bl01,肉,n,Bh13,这,r,Ca31

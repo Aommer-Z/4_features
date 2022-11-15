@@ -1,0 +1,8 @@
+附近,f,Cb06,下基层,l,-1,就是,d,Ja01,故意,d,Ka20,饭,n,Br04,时,Ng,Ca30,下去,v,Hj62,好,v,Je10
+新,a,Ka12,千年,t,-1,在,p,Jd02,伊斯兰教,nz,Di12,的,u,Bo29,斋月,t,Ca21
+两,m,Dd05,大,a,Ah05,工艺,n,De04,技术,n,De04,在,p,Jd02,低,a,Jb05,水平,n,Bo18,竞争,vn,Hi41
+美国,ns,Di02,还有,v,Jd04,一,m,Ka16,种,q,Hd20,在,p,Jd02,战略,n,Df09,机遇,n,Ca04,期,Ng,Dn08
+西,f,Cb02,了,y,Ig01,我们,r,Aa02,必须,d,Gc03,在,p,Jd02,太阳,n,Bg03,落山,v,-1,前,f,Cb04
+地,u,Di09,向,p,Cb01,母亲,n,Ah04,发问,v,Hi18,多,a,Ih05,咱,r,Aa02,再,d,Ig04,过,v,Je09
+他,r,Aa04,每天,r,Ca23,清晨,t,Ca27,上山,v,Hj62,在,p,Jd02,上工,v,Ig01,前,f,Cb04,和,c,Hh04
+在,p,Jd02,世纪末,t,-1,的,u,Bo29,岁,Ng,Ca18

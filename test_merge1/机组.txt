@@ -1,0 +1,17 @@
+飞机 n Bo22 上 f Hj63 包括 v Jd05 乘客 n Ag10 人员 n Aa01 和 c Hh04 劫机者 n -1 在内 u Jd02
+目前 t Ca10 机上 s -1 还有 v Jd04 乘客 n Ag10 人员 n Aa01 和 c Hh04 劫机者 n -1 共 d He16
+阿富汗 ns Di02 的 u Bo29 乘客 n Ag10 和 c Hh04 人员 n Aa01
+劫 v Da09 飞机 n Bo22 上 f Hj63 的 u Bo29 人员 n Aa01 也 d Kd03 回到 v Hf07 了 u Ig01
+日夜 n Ca29 的 u Bo29 大亚湾 ns -1 号 n Hg13 按计划 d -1 停机 v -1 进行 v Ig03 第六 m -1
+换料 vn -1 检修 vn Hd04 的 u Bo29 号 n Hg13 大亚湾 ns -1 核电站 n Bn17 首 m Bk02 次 q Jb05
+周期 n Ca06 内 f Ah08 两 m Dd05 台 q Bp26 既 c Kc04 不 d Ie01 停机 v -1 也 d Kd03
+百万千 m -1 瓦 q Bm06 级 n Bn10 核电 n Bg04 仿佛 d Jb03 是 v Jd01 两 m Dd05 台 q Bp26
+的 u Bo29 印钞机 n -1 每 r Ed61 台 q Bp26 每天 r Ca23 创造 v Hc05 产值 n Dj02 多 m Ih05
+物资 n Ba06 的 u Bo29 采购 vn He03 核电 n Bg04 的 u Bo29 停机 vn -1 换料 vn -1 维修 vn Hd04
+个 q Dn08 核反应堆 l Bb03 和 c Hh04 发电 vn Jd07 的 u Bo29 非 h Hi21 计划 n Di09 停机 vn -1
+百万 m Dn08 千瓦 q Dn03 压水堆 n -1 核电 n Bg04 不 d Ie01 是 v Jd01 大亚湾 ns -1 核电站 n Bn17
+可用率 n -1 达到 v Je12 两 m Dd05 台 q Bp26 没有 d Jd08 发生 v Jd07 过 u Je09 非 h Hi21
+亿 m Dn04 元 q Ah08 第一 m Ka09 台 q Bp26 将 d Ae10 于 p Kb05 年 t Ca18 投产 v Hj19
+万 m Dn04 吨年 q -1 大中型 j Dd06 发电 vn Jd07 容量 n Dn03 万 m Dn04 千瓦 q Dn03 万 m Dn04
+台 q Bp26 抽水 v Fa08 蓄 v Jd06 能 Ng Gc02 总装机 n -1 容量 n Dn03 万 m Dn04 千瓦 q Dn03
+的 u Bo29 座 q Bd01 核电站 n Bn17 个 q Dn08 建设 vn Ie12 进展 v Ig03 顺利 a If04

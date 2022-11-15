@@ -1,0 +1,16 @@
+音调 n Bg07 音量 n Dn01 大 a Ah05 脑神经 n Bk16 COO SBV VOB DATV eSUCC
+煤炉 n Bo19 要 v Ag04 炉火 n Bg03 烧 v Ib14 COO ADV SBV EXP DBL Root VOB dDATV DATV HED eSUCC mDEPD
+其 r Aa04 后路 n Cb27 其 r Aa04 腹背受敌 i If21 COO DBL DATV RAD eSUCC
+这些 r Ed61 努力 a Ka19 我 r Aa05 馆 Ng Dm05 SBV EXP DBL Root VOB DATV HED eSUCC
+的 u Bo29 作用 n Df08 三 m Dn04 方 q Dn08 COO DBL VOB DATV eSUCC
+防范 vn Je11 手段 n Df09 企业 n Dm03 往往 d Ka10 SBV DBL Root VOB DATV HED eSUCC
+此项 r Dd06 政策 n Di09 全国 n Di02 万 m Dn04 SBV EXP DBL Root VOB DATV HED eSUCC
+出口 vn He01 退税率 n -1 出口 v He01 商品 n Ba04 COO DBL VOB DATV eSUCC
+走私 v Hn13 犯罪 v Hn01 以 p Di02 进口 v He01 COO SBV DBL VOB DATV eSUCC
+的 u Bo29 吸收 vn Hc07 碰撞 vn Id18 能量 n Dd14 COO DBL VOB DATV eSUCC
+招儿 n -1 都 d Cb25 上 v Hj63 了 y Ig01 CMP ADV SBV FOB Root AGT RAD PAT HED mDEPD
+劲儿 n -1 应该 v Gc03 在 p Jd02 哪里 r Cb30 CMP ADV LOC FOB Root RAD PAT HED mRELA mDEPD
+他们 r Aa04 出 v Jd07 种种 q Dn08 CMP COO SBV Root AGT VOB PAT HED eSUCC mDEPD
+一 m Ka16 处 q Dn08 边疆 s Cb14 越来越 d Ka04 COO ADV DBL VOB DATV eSUCC
+一 m Ka16 处 q Dn08 COO ADV LOC eCOO
+一 m Ka16 处 n Dn08 法轮功 nz -1 在 p Jd02 COO ADV DBL VOB DATV LOC eSUCC

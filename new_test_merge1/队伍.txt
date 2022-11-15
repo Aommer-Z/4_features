@@ -1,0 +1,24 @@
+报名 v Hc15 支 q Dn08 运动员 n Ae14 全部 m Eb02 ATT FEAT
+支 q Dn08 拍摄 vn Hh03 各自为战 i -1 在 p Jd02 ATT MEAS VOB rPAT PAT
+基层 n Di16 干部 n Ae01 的 u Bo29 建设 vn Ie12 ATT FEAT CONT RAD mDEPD
+基层 n Di16 干部 n Ae01 的 u Bo29 建设 vn Ie12 ATT FEAT CONT RAD mDEPD 现有 vn Jd01 干部 n Ae01 的 u Bo29 培训 vn Hg07 ATT FEAT CONT RAD mDEPD
+农民 n Ae07 购销 vn He03 的 u Bo29 重要 a Ed28 ATT FEAT RAD rPAT mDEPD
+的 u Bo29 年青 a Eb36 rAGT ATT MEAS FEAT CONT VOB rPAT
+在 p Jd02 这个 r Ed61 中 f Di02 从来 d Ka10 ATT MEAS LOC mRELA mDEPD
+科普 b Ed38 创作 vn Hg16 的 u Bo29 园地 n Cb07 ATT FEAT VOB CONT
+福利 n Je10 服务 vn Hi37 开展 v Ig03 全国 n Di02 ATT MEAS FEAT rEXP CONT VOB
+公安 n Di08 民警 n Ae12 是 v Jd01 赵 nr Dd15 PAT ATT FEAT VOB
+前进 v Ie12 的 u Bo29 中 f Di02 最近 t Ca11 ATT rEXP SCO LOC mDEPD
+时 t Ca30 游行 vn Ha02 从 p Hi39 维也纳 ns Cb25 ATT FEAT AGT SBV
+时 t Ca30 游行 vn Ha02 从 p Hi39 维也纳 ns Cb25 ATT FEAT AGT SBV 加入 v Hj19 游行 vn Ha02 ATT FEAT AGT SBV
+社火 n Hj48 表演 vn Hh01 在 p Jd02 兰州市 ns Di03 ATT FEAT SBV dFEAT EXP rFEAT
+的 u Bo29 游行 vn Ha02 中 f Di02 对 p Fc04 ATT FEAT CONT dFEAT mDEPD
+拉 v Je01 广告 n Dk14 使 v Kb05 他们 r Aa04 PAT ATT rEXP VOB
+起 v Kd02 长长的 z -1 ATT FEAT VOB EXP
+房 n Bn03 的 u Bo29 越 d Je09 排 v Jd10 rAGT ATT SBV rDATV PAT
+房 n Bn03 的 u Bo29 分流 v Ie10 了 y Ig01 rAGT ATT AGT SBV
+出殡 vn Hj54 浩浩荡荡 z Ed21 沿途 d Cb27 ATT FEAT AGT SBV
+时 Ng Ca30 送葬 vn Hj54 排 v Jd10 成 v Ih01 rAGT ATT AGT SBV
+清 Tg Gb08 革命 vn Ha01 多次 m Ka10 在 p Jd02 rAGT ATT FEAT CONT VOB LOC
+为 p Ih01 前沿 s Cb12 开辟 v Hd17 生命 n Da17 ATT DATV POB LOC mRELA
+领导 v Hc09 的 u Bo29 会师 v Ie10 合编 v -1 ATT rDATV POB PAT mRELA

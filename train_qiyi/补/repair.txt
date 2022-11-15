@@ -1,0 +1,10 @@
+普通,a,Ed04,上海,ns,Cb25,手表,n,Bp31,那,r,Kc08,了,u,Ig01,又,d,Kc02,补,v,Hd09,的,u,Bo29
+那,r,Kc08,补,v,Hd09,了,u,Ig01,又,d,Kc02,的,u,Bo29,睡衣,n,Bq03,毛巾,n,Bp03,皮鞋,n,Bq05
+是,v,Jd01,拆,v,Ib08,东,f,Aj05,墙,n,Bn07,西,f,Cb02,墙,n,Bn07,全力,d,Ka19,保障,v,Jd01
+现场,s,Cb28,提供,v,Jc05,从,p,Hi39,修车,v,-1,鞋,n,Bq05,修,v,Hg17,电器,n,Bo04,到,p,Hf08
+的,u,Bo29,小,a,Ah08,洞,n,Cb22,不,d,Ie01,大,a,Ah05,洞,n,Cb22,难,ad,Da10,堵,v,Bn07
+说,v,Hi34,小,a,Ah08,洞,n,Cb22,不,d,Ie01,大,a,Ah05,洞,n,Cb22,难,ad,Da10,堵,v,Bn07
+切实,ad,Ed10,做到,v,Ie14,查,v,Hg10,漏,v,He15,洞,n,Cb22,切,v,Ed16,脉,Ng,Bk16,问,v,Hi18
+的,u,Bo29,内裤,n,-1,都,d,Cb25,要,v,Ag04,上,v,Hj63,几,m,Bp26,个,q,Dn08,补钉,n,-1
+放,v,Ga13,渔漂,n,-1,扇贝,n,Bi16,笼,Ng,Bp10,到,p,Hf08,下午,t,Ca28
+知,v,Gb08,怎么,r,Kc12,为,p,Ih01,找钱,v,Hi27,窟窿,n,Cb22,着急,a,Ga10,呢,y,Bq02

@@ -1,0 +1,4 @@
+人民,n,Aa01,是,v,Jd01,在,p,Jd02,这里,r,Cb30,帝制,n,Di08,开始,v,Ig01,共和,n,Di08,的,u,Bo29
+共产党,nf,Di07,的,u,Bo29,领导,vn,Hc09,下,f,Ia03,了,u,Ig01,三座大山,l,Di22,建立,v,Hc05,了,u,Ig01
+一,d,Ka16,看,v,Hi37,便,d,Bl04,知,v,Gb08,不,d,Ie01,听,v,Hi39,摆布,v,Hc10,的,u,Bo29
+人民,n,Aa01,经过,v,Hf06,长期,d,Eb24,斗争,v,Ha02,了,u,Ig01,三座大山,l,Di22,建立,v,Hc05,了,u,Ig01

@@ -1,0 +1,10 @@
+去,v,Ca11,节日,n,Ca25,的,u,Bo29,祝福,vn,Hi10,1
+广州,ns,Cb25,军区,n,Dm01,战士,n,Ae10,杂技团,na,Di10,回,v,Hi18,一个,m,Dn08,喜讯,n,Da19,他们,r,Aa04,1
+把,p,Hc10,韩国,ns,Di02,流行,vn,Ie01,音乐,n,Dk28,到,v,Hf08,中国,ns,Di02,这,r,Ca31,是,v,Jd01,1
+驱,Vg,Hf01,走,v,Hi01,了,u,Ig01,严冬,t,Ca19,回,v,Hi18,了,u,Ig01,春天,t,Ca19,,w,-1,1
+好,a,Je10,再,d,Ig04,加上,v,Ih05,东部,f,Cb01,去,v,Ca11,的,u,Bo29,科技,n,Dk03,和,c,Hh04,1
+政策,n,Di09,和,c,Hh04,文化,n,Dk02,娱乐,vn,Hj48,向,p,Cb01,了,u,Ig01,小,a,Ah08,山村,n,Cb25,1
+的,u,Bo29,日喀则,ns,Cb25,上下水,j,-1,工程,n,Di18,给,p,Je05,日喀则,ns,Cb25,居民,n,Ad01,的,u,Bo29,1
+秦,Tg,Dd15,剧团,n,Dm07,一行,n,Aj03,人,n,Ab02,着,u,Dn08,他们,r,Aa04,的,u,Bo29,拿手好戏,i,De04,1
+专题,n,Dk07,学,v,Hg08,四,m,Dn04,是,v,Jd01,着,u,Dn08,问题,n,Dd09,反复,d,Ig04,学,v,Hg08,1
+和,c,Hh04,感激,vn,Ga17,也,d,Kd03,会,v,Hi05,给,v,Je05,你,r,Aa03,意想不到,i,Ka16,的,u,Bo29,1

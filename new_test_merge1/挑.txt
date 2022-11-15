@@ -1,0 +1,15 @@
+着 u Dn08 唤头 n Bp36 着 u Dn08 挑子 n Ba09 COO eCOO CONT AGT VOB RAD mDEPD
+一 m Ka16 肩 n Bk05 ADV SBV MANN Root AGT HED
+担子 n Ba09 怎么 r Kc12 ADV MANN FOB Root PAT HED
+这个 r Ed61 肩 n Bk05 沉重 a Di22 社会 n Di01 rAGT COO ATT ADV MANN VOB RAD PAT
+地 u Di09 肩 n Bk05 事业 n Di18 和 c Hh04 COO ADV eCOO SBV MANN Root AGT VOB PAT HED mDEPD
+鸡蛋 n Bl05 里 f Dn10 骨头 n Bk13 而 c Aa03 ADV REAS VOB POB PAT LOC
+条件 n Dd11 没有 d Jd08 最 d Ka02 好 a Je10 COO ADV SBV mNEG EXP VOB dCONT PAT eSUCC
+条件 n Dd11 没有 d Jd08 最 d Ka02 好 a Je10 COO ADV SBV mNEG EXP VOB dCONT PAT eSUCC 房子 n Bn01 却 d Hb13 了 u Ig01 一 m Ka16 COO ADV SBV mNEG EXP VOB dCONT PAT eSUCC
+也 d Kd03 要 v Ag04 套 v Hg08 袋 Ng Bp11 COO ADV CONT VOB PAT mDEPD
+让 v Je04 你 r Aa03 或许 d Ka17 执意 d Ka22 COO eCOO AGT VOB eSUCC
+来 v Ca03 清澈 a Eb19 CMP COO HED Root
+大妈 n Ai02 一面 d Dd05 着 u Dn08 大 a Ah05 COO ADV eCOO LOC SBV Root TIME AGT VOB RAD PAT HED mRELA mDEPD
+死 v Id20 用 p Jc05 刺刀 n Bo27 CMP COO ADV TOOL mRELA eSUCC LAD
+迫使 vn Hi56 对手 n Aj01 接 v Hi05 或 c Kc01 COO eCOO SBV AGT VOB eSUCC
+华 nr Di02 以刚 nr -1 落 v Je12 马 n Bi19 CMP ADV LOC SBV AGT DATV HED eSUCC mRELA

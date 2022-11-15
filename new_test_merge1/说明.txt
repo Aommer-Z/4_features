@@ -1,0 +1,18 @@
+报告 n Hi15 中 f Di02 ADV LOC FOB Root HED mDEPD
+清 a Gb08 原委 n Da05 道理 n Db06 双方 n Dd05 AGT VOB CONT SBV
+这里 r Cb30 想 v Gb06 一 m Ka16 点 q Cb08 dCONT VOB mDEPD CONT
+从 p Hi39 附加 v Ih05 和 c Hh04 枢机主教 l Am03 COO VOB EXP
+一 m Ka16 次 q Jb05 了 u Ig01 剧本 n Dk25 ADV MEAS SBV EXP Root TIME VOB RAD dCONT HED mDEPD
+很 d Ka01 难 a Da10 蔬菜 n Bh06 的 u Bo29 COO ADV FEAT CONT Root VOB ePREC mRELA mDEPD
+解释 v Hg12 和 c Hh04 自然 n Bd01 社会 n Di01 LAD COO eCOO CONT AGT mRELA
+解释 v Hg12 和 c Hh04 现实 n Da01 世界 n Di14 LAD COO eCOO CONT mRELA
+的 u Bo29 事实 n Da01 ADV SBV EXP Root HED mDEPD
+格罗兹尼 ns -1 则 c Dn08 他们 r Aa04 在 p Jd02 ADV Root dCONT VOB HED mDEPD
+野力 nz -1 经验 n Da16 创立 v Hc05 民族 n Di04 SBV EXP Root VOB dCONT HED
+的 u Bo29 发生 vn Jd07 在 p Jd02 一些 m Eb02 SBV EXP Root VOB dCONT HED
+的 u Bo29 情况 n Da21 什么 r Ba10 呢 y Bq02 SBV EXP CONT Root VOB RAD HED mDEPD
+就 d Kb04 足以 d Gc02 这 r Ca31 一 m Ka16 ADV SBV CONT Root VOB HED mRELA mDEPD
+次 q Jb05 挫折 v If22 啥 r Ba10 一 m Ka16 LOC SBV EXP Root VOB dCONT HED eSUCC
+结果 n Kc09 既 c Kc04 企业 n Dm03 学习 vn Hg08 COO ADV eCOO SBV EXP Root VOB dCONT HED mRELA
+通货紧缩 l -1 趋势 n Da20 驾驭 v Hf01 经济 n Di02 ADV VOB dCONT HED dTIME mDEPD
+这种 r -1 变化 vn Ih01 人们 n Aa01 的 u Bo29 dCONT VOB EXP SBV

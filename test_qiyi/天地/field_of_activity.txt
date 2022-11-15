@@ -1,0 +1,10 @@
+走向,v,Fb01,一,m,Ka16,片,q,Bb04,新,a,Ka12
+提供,v,Jc05,了,u,Ig01,广阔,a,Ed38,的,u,Bo29
+开创,v,Hc05,中华民族,n,Di04,的,u,Bo29,新,a,Ka12
+了,u,Ig01,无限,v,Ka02,的,u,Bo29,个性,n,De01,哩,y,Kd04
+片,q,Bb04,山区,n,Cb10,经济,n,Di02,新,a,Ka12
+来,v,Ca03,无限,v,Ka02,广阔,a,Ed38,的,u,Bo29
+开辟,v,Hd17,了,u,Ig01,新,a,Ka12,的,u,Bo29,同时,c,Ca03,也,d,Kd03,为,p,Ih01,广大,b,Ed38
+出,v,Jd07,一,m,Ka16,片,q,Bb04,新,a,Ka12
+开辟,v,Hd17,了,u,Ig01,广阔,a,Ed38,的,u,Bo29,提高,v,Ih10,了,u,Ig01,生产,vn,Dn07,效率,n,Eb23
+自身,r,Aa05,发展,vn,Ie12,的,u,Bo29,广阔,a,Ed38

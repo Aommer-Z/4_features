@@ -1,0 +1,8 @@
+还,d,Hi27,不得不,d,Ka22,为,p,Ih01,之,r,Kd01,脑,n,Bk02,这样,r,Ka34,的,u,Bo29,效果,n,Ae17,3
+可,c,Ka01,她,r,Aa04,就是,d,Ja01,不,d,Ie01,这个,r,Ed61,心眼,n,Df09,3
+但,c,Kc03,只是,c,Kc13,观赏,v,Hj47,君子,n,Ak03,口,n,Dn08,不,d,Ie01,动手,v,Ig01,有,v,Jd07,3
+开卷,v,Hg10,与,p,Je05,闭卷,v,-1,结合,v,Ie02,口,n,Dn08,动手,v,Ig01,与,p,Je05,动笔,v,Hg16,3
+安排,vn,Hc03,安排,vn,Hc03,安排,vn,Hc03,上,f,Hj63,了,u,Ig01,不少,m,Eb01,心思,n,Df14,3
+应该,v,Gc03,说,v,Hi34,是,v,Jd01,了,u,Ig01,脑筋,n,Df01,下,v,Ia03,了,u,Ig01,3
+过,v,Je09,了,u,Ig01,初五,t,Ca23,不准,v,Hc17,刀,n,Bo09,动,v,Je02,剪,Ng,Bo09,不准,v,Hc17,3
+初五,t,Ca23,不准,v,Hc17,动,v,Je02,刀,n,Bo09,剪,Ng,Bo09,不准,v,Hc17,倒,v,He03,土,n,Bm04,3

@@ -1,0 +1,22 @@
+学鳌 nr -1 的 u Bo29 李 nr Bh07 海鸥 nr Bi12 ATT FEAT
+老人 n Ai02 盼望 v Gb04 回家 v Hf07 来 v Ca03 DBL AGT
+回家 v Hf07 后 f Ai03 AGT SBV
+这些 r Ed61 对 p Fc04 来说 u Kd02 实乃 v -1 mRELA mDEPD POB
+的 u Bo29 心事 n Df02 ATT FEAT RAD
+老 a Ab02 了 y Ig01 已 d Ig02 长大 v Ib01 SBV
+老 a Ab02 了 y Ig01 已 d Ig02 长大 v Ib01 SBV 长大 v Ib01 了 y Ig01 也 d Kd03 有 v Jd07 SBV
+老 a Ab02 了 y Ig01 已 d Ig02 长大 v Ib01 SBV 长大 v Ib01 了 y Ig01 也 d Kd03 有 v Jd07 SBV 了 y Ig01 自己 r Aa05 的 u Bo29 SBV
+父母 n Ah04 想念 v Gb06 时 Ng Ca30 也 d Kd03 VOB DATV
+健康 a Ed43 的 u Bo29 ATT MEAS FEAT LINK VOB
+然而 c Kc03 们 k Aa01 偏偏 d Ka26 mDEPD AGT RAD SBV
+捶 v Fa01 挞 Vg -1 的 u Bo29 权威 n Da26 PAT VOB DATV
+全世界 n Di01 华夏 nz Di02 的 u Bo29 共同 b Ka23 mDEPD ATT FEAT RAD
+全世界 n Di01 中华 nz Di02 的 u Bo29 共同 b Ka23 ATT FEAT RAD LOC mDEPD
+全体 n Eb02 华夏 nz Di02 共同 b Ka23 意志 n Df11 ATT FEAT
+全体 n Eb02 华夏 nz Di02 的 u Bo29 共同 b Ka23 mDEPD ATT FEAT RAD
+全体 n Eb02 中华 nz Di02 的 u Bo29 大 d Ah05 ATT FEAT EXP RAD mDEPD
+海内外 s Di01 中华 nz Di02 的 u Bo29 爱国主义 n Di08 ATT FEAT RAD LOC mDEPD
+海内外 s Di01 中华 nz Di02 的 u Bo29 大 d Ah05 ATT FEAT AGT RAD LOC mDEPD
+全世界 n Di01 中华 nz Di02 的 u Bo29 共同 b Ka23 mDEPD ATT FEAT RAD
+的 u Bo29 华夏 nz Di02 感到 v Gb02 痛心 a Ga01 ATT FEAT DBL AGT DATV LOC
+多 m Ih05 万 m Dn04 献 v Hi26 出 v Jd07 ATT MEAS EXP DBL AGT

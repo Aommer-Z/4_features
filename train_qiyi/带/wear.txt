@@ -1,0 +1,8 @@
+翻译,n,Ae16,陪同,n,Hi05,只,d,Dn08,需,v,Jc05,上,v,Hj63,一,m,Ka16,副,q,Aj09,耳机,n,Bo04
+盲人,n,Ag02,所,u,Di09,的,u,Bo29,特殊,a,Ed04,眼镜,n,Bp01,上,f,Hj63
+扛,v,Fa04,着,u,Dn08,队旗,n,Bp20,臂,Ng,Bk08,袖标,n,Bp21,正,d,Bc02,叽叽喳喳,o,Kf02,地,u,Di09
+鲜红,z,Ec01,的,u,Bo29,手,n,Dn08,脸,n,Bk02,死亡,vn,Ib03,面具,n,Bp35,高举,v,Fd01,受害者,n,Ag07
+孩子,n,Ah14,们,k,Aa01,准备,v,Gb05,了,u,Ig01,口罩,n,Bp30,的,u,Bo29,小,a,Ah08,狗,n,Bi07
+床,n,Bp27,一,m,Ka16,双,q,Dn08,儿女,n,Ah14,着,u,Dn08,黑纱,n,-1,守,v,Hi39,在,p,Jd02
+只要,c,Kc07,装,v,Hh01,上,v,Hj63,电池,n,Bo04,上,v,Hj63,耳机,n,Bo04,打开,v,Hc05,开关,n,Bo04
+全,d,Ka07,被,p,Je13,锁,v,Bo32,住,v,Ig02,上,v,Hj63,手铐,n,Bo32,脚镣,n,Bo32,生育,vn,Ib01

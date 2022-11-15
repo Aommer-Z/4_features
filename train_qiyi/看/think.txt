@@ -1,0 +1,15 @@
+我,r,Aa05,这样,r,Ka34,逼,v,Id21,一,m,Ka16,逼,v,Id21
+的,u,Bo29,阅读,vn,Hg10,效果,n,Ae17,我,r,Aa05,就,d,Kb04,不失为,v,Ja01,一,m,Ka16,部,q,Hc09
+县,n,Di02,外贸局,n,-1,有利可图,i,Df08,从,p,Hi39,河北,ns,Di02,低价,n,-1
+我,r,Aa05,不,d,Ie01,能,v,Gc02,这么,r,Ka34,认为,v,Gb02
+嫂子,n,Ah12,你,r,Aa03,我,r,Aa05,找,v,Hj57,对象,n,Aj17,是,v,Jd01
+方便,a,Je10,又,d,Kc02,卫生,a,Dk01,我,r,Aa05,暖瓶,n,Bp06,也,d,Kd03,快,d,Ga01,收,v,He10
+我,r,Aa05,这,r,Ca31,其实,d,Ka30,都,d,Cb25,是,v,Jd01
+厨师,n,Ae04,有,v,Jd07,手艺,n,De04,我,r,Aa05,你,r,Aa03,和,c,Hh04,小孙,nr,-1,到,v,Hf08
+我,r,Aa05,企业,n,Dm03,号召,v,Hc13,职工,n,Ae01,自,r,Ka15
+建设,vn,Ie12,搞,v,Hj12,上去,v,Hj62,我,r,Aa05,最,d,Ka02,重要,a,Ed28,的,u,Bo29,是,v,Jd01
+我,r,Aa05,这,r,Ca31,句,q,Dn08,话,n,Dk11,要,v,Ag04
+人才,n,Al03,的,u,Bo29,待遇,n,Hi08,我,r,Aa05,应,v,Kb07,超过,v,Je09,现在,t,Ca10,清华,j,Dm05
+我,r,Aa05,就,d,Kb04,不要,d,Gc03,穿,v,Hf06,靴,Ng,Bq05
+请问,v,L02,外长,n,Af10,你,r,Aa03,那个,r,Ka01,时候,n,Ca04,是不是,v,Kc12,两岸,n,Cb08
+我,r,Aa05,这,r,Ca31,足以,d,Gc02,说明,v,Ja04,当初,t,Ca31

@@ -1,0 +1,11 @@
+比赛,vn,Hh07,共,d,He16,报名,v,Hc15,支,q,Dn08,运动员,n,Ae14,全部,m,Eb02,是,v,Jd01,业余,b,Ca05,0
+领,v,Je14,五,m,Dn04,支,q,Dn08,拍摄,vn,Hh03,各自为战,i,-1,在,p,Jd02,角色,n,Aa01,造型,n,Dc01,0
+要,v,Ag04,加强,v,Ih10,基层,n,Di16,干部,n,Ae01,的,u,Bo29,建设,vn,Ie12,既,c,Kc04,要,v,Ag04,0
+抓好,v,Hj12,对,p,Fc04,现有,vn,Jd01,干部,n,Ae01,的,u,Bo29,培训,vn,Hg07,提高,v,Ih10,他们,r,Aa04,0
+要,v,Ag04,发挥,v,Hi14,农民,n,Ae07,购销,vn,He03,的,u,Bo29,重要,a,Ed28,作用,n,Df08,0
+科普,b,Ed38,事业,n,Di18,的,u,Bo29,年青,a,Eb36,0
+责任,n,Di22,意识,n,Df14,在,p,Jd02,这个,r,Ed61,中,f,Di02,从来,d,Ka10,没有,d,Jd08,淡化,v,Ed17,0
+需求,n,Df07,凝聚,v,Ie10,科普,b,Ed38,创作,vn,Hg16,的,u,Bo29,园地,n,Cb07,0
+的,u,Bo29,老年人,n,Ab02,福利,n,Je10,服务,vn,Hi37,开展,v,Ig03,全国,n,Di02,社会,n,Di01,福利,n,Je10,0
+镜,Ng,Bp01,整治,v,Hd04,公安,n,Di08,民警,n,Ae12,是,v,Jd01,赵,nr,Dd15,英武,nr,Ee13,抓,v,Fa06,0
+上,f,Hj63,急速,z,Eb23,前进,v,Ie12,的,u,Bo29,中,f,Di02,最近,t,Ca11,又,d,Kc02,添,v,Ih05,0

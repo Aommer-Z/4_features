@@ -1,0 +1,46 @@
+卫生部 nt Dm01 推荐 v Hi16 钙 n Dd10 产品 n Dj06 PAT ATT VOB dFEAT
+到 v Hf08 为 p Ih01 钙 n Dd10 通康 nz -1 mRELA VOB dDATV POB
+确实 ad Ka30 需要 v Jc05 钙 n Dd10 这个 r Ed61 PAT dCONT VOB dFEAT
+才 c If03 需要 v Jc05 钙 n Dd10 其实 d Ka30 ADV SBV AGT VOB PAT mDEPD
+身体 n Bk01 素质 n De04 钙 n Dd10 必不可少 l Ed30 dPAT VOB PAT SBV
+生理 n Db06 上 f Hj63 钙 n Dd10 精神 n Dk01 PAT ATT VOB
+生理 n Db06 上 f Hj63 钙 n Dd10 精神 n Dk01 PAT ATT VOB 精神 n Dk01 上 f Hj63 钙 n Dd10 在 p Jd02 PAT ATT VOB
+生理 n Db06 上 f Hj63 钙 n Dd10 精神 n Dk01 PAT ATT VOB 精神 n Dk01 上 f Hj63 钙 n Dd10 在 p Jd02 PAT ATT VOB 钙 n Dd10 需要 v Jc05 全方位 n -1 PAT ATT VOB
+愿 v Gc01 钙 n Dd10 之后 f Ca12 ATT VOB PAT dTIME mDEPD
+卫生部 nt Dm01 推荐 v Hi16 钙 n Dd10 产品 n Dj06 PAT ATT VOB dFEAT
+到 v Hf08 为 p Ih01 钙 n Dd10 通康 nz -1 mRELA VOB dDATV POB
+确实 ad Ka30 需要 v Jc05 钙 n Dd10 这个 r Ed61 PAT dCONT VOB dFEAT
+才 c If03 需要 v Jc05 钙 n Dd10 其实 d Ka30 ADV SBV AGT VOB PAT mDEPD
+身体 n Bk01 素质 n De04 钙 n Dd10 必不可少 l Ed30 dPAT VOB PAT SBV
+生理 n Db06 上 f Hj63 钙 n Dd10 精神 n Dk01 PAT ATT VOB
+生理 n Db06 上 f Hj63 钙 n Dd10 精神 n Dk01 PAT ATT VOB 精神 n Dk01 上 f Hj63 钙 n Dd10 在 p Jd02 PAT ATT VOB
+生理 n Db06 上 f Hj63 钙 n Dd10 精神 n Dk01 PAT ATT VOB 精神 n Dk01 上 f Hj63 钙 n Dd10 在 p Jd02 PAT ATT VOB 钙 n Dd10 需要 v Jc05 全方位 n -1 PAT ATT VOB
+愿 v Gc01 钙 n Dd10 之后 f Ca12 ATT VOB PAT dTIME mDEPD
+没 v Jd08 人 n Ab02 啊哟哟 e -1 王 nr Af05 AGT VOB
+那个 r Ka01 挺身 v Ee13 天 n Cb07 的 u Bo29 COO eCOO VOB PAT mDEPD
+呢 y Bq02 往 p Ca11 天上 s Cb07 COO ADV AGT ePREC RAD LOC mDEPD
+没 v Jd08 人 n Ab02 啊哟哟 e -1 王 nr Af05 AGT VOB
+那个 r Ka01 挺身 v Ee13 天 n Cb07 的 u Bo29 COO eCOO VOB PAT mDEPD
+呢 y Bq02 往 p Ca11 天上 s Cb07 COO ADV AGT ePREC RAD LOC mDEPD
+常常 d Ka10 停课 v Ig02 记录 n Hg11 补 v Hd09 COO eCOO CONT VOB PAT
+常常 d Ka10 停课 v Ig02 记录 n Hg11 补 v Hd09 COO eCOO CONT VOB PAT 补 v Hd09 记录 n Hg11 资料 n Dk17 因为 p Kc09 COO eCOO CONT VOB PAT
+耕地 n Hd17 占 v Jd04 平衡 a He14 依法 d Hi39 COO eCOO FEAT
+缺 v He15 多少 r Ka05 多少 r Ka05 要 v Ag04 PAT COO eCOO VOB
+以 p Di02 夏 Tg Ca19 夏 Tg Ca19 措施 n Db09 COO ADV eCOO VOB PAT
+中 f Di02 可以 v Gc02 我 r Aa05 所 u Di09 ATT ADV COO DBL RAD mDEPD
+胡 nr Ka35 继高 nr -1 菊 Ng Bh02 来自 v Hj63 COO LINK VOB
+水 n Bg01 回灌 v -1 源 Ng Ja05 工程 n Di18 COO eCOO FEAT EXP VOB PAT
+今年 t Ca18 再 d Ig04 栽 v Je05 和 c Hh04 COO ADV eCOO TIME VOB dCONT LOC mDEPD
+收入 n Dj08 哪里 r Cb30 COO ADV eSUCC MANN
+占 v Jd04 一 m Ka16 一 m Ka16 规定 v Hc14 ATT eCOO MEAS SBV VOB PAT
+常常 d Ka10 停课 v Ig02 记录 n Hg11 补 v Hd09 COO eCOO CONT VOB PAT
+常常 d Ka10 停课 v Ig02 记录 n Hg11 补 v Hd09 COO eCOO CONT VOB PAT 补 v Hd09 记录 n Hg11 资料 n Dk17 因为 p Kc09 COO eCOO CONT VOB PAT
+耕地 n Hd17 占 v Jd04 平衡 a He14 依法 d Hi39 COO eCOO FEAT
+缺 v He15 多少 r Ka05 多少 r Ka05 要 v Ag04 PAT COO eCOO VOB
+以 p Di02 夏 Tg Ca19 夏 Tg Ca19 措施 n Db09 COO ADV eCOO VOB PAT
+中 f Di02 可以 v Gc02 我 r Aa05 所 u Di09 ATT ADV COO DBL RAD mDEPD
+胡 nr Ka35 继高 nr -1 菊 Ng Bh02 来自 v Hj63 COO LINK VOB
+水 n Bg01 回灌 v -1 源 Ng Ja05 工程 n Di18 COO eCOO FEAT EXP VOB PAT
+今年 t Ca18 再 d Ig04 栽 v Je05 和 c Hh04 COO ADV eCOO TIME VOB dCONT LOC mDEPD
+收入 n Dj08 哪里 r Cb30 COO ADV eSUCC MANN
+占 v Jd04 一 m Ka16 一 m Ka16 规定 v Hc14 ATT eCOO MEAS SBV VOB PAT

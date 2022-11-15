@@ -1,0 +1,43 @@
+都 d Cb25 要 v Ag04 着 u Dn08 农民 n Ae07 COO ADV AGT RAD eSUCC mDEPD
+都 d Cb25 在 d Jd02 着 u Dn08 你 r Aa03 COO ADV SBV Root AGT TIME VOB RAD dCONT HED mDEPD
+只有 c Jd04 时时刻刻 l Ka11 着 u Dn08 普通人 n Aa01 rAGT ATT ADV MANN DBL RAD mDEPD
+向着 p Hi47 中国 ns Di02 着 u Dn08 故乡 n Cb15 COO ADV SBV EXP VOB RAD DATV mRELA mDEPD
+以 p Di02 时时 d Ka11 人民 n Aa01 处处 d Cb09 COO ADV VOB eSUCC mDEPD
+福坤 nr -1 时时 d Ka11 着 u Dn08 老百姓 n Aa01 ADV SBV Root AGT VOB RAD dCONT HED mDEPD
+也 d Kd03 要 v Ag04 着 u Dn08 疏导 v Hg02 COO ADV eCOO VOB RAD dCONT eSUCC mDEPD
+也 d Kd03 要 v Ag04 着 u Dn08 疏导 v Hg02 COO ADV eCOO VOB RAD dCONT eSUCC mDEPD 也 d Kd03 要 v Ag04 着 u Dn08 促进 v Je06 COO ADV eCOO VOB RAD dCONT eSUCC mDEPD
+速度 n Dn01 我 r Aa05 是 v Jd01 全世界 n Di01 LOC SBV FOB Root AGT VOB dCONT HED
+我 r Aa05 沙家浜 ns -1 中 f Di02 SBV Root AGT VOB dCONT HED
+因此 c Kc09 我 r Aa05 断面 n Cb23 有 v Jd07 COO ADV SBV AGT VOB dCONT eSUCC mRELA
+我 r Aa05 一个 m Dn08 非常 d Ka01 SBV DBL AGT Root VOB HED
+我 r Aa05 主要 b Ed28 原因 n Db01 SBV Root AGT VOB dCONT HED
+他 r Aa04 可能 v Gc02 是 v Jd01 SBV Root AGT VOB dCONT HED
+来讲 u Hg12 我 r Aa05 也 d Kd03 不 d Ie01 ADV SBV Root AGT VOB dCONT HED
+我 r Aa05 占用 v Jd04 资源 n Ba08 SBV Root AGT VOB dCONT HED
+我 r Aa05 这 r Ca31 对于 p Kb04 SBV Root AGT VOB dCONT HED
+对话 v Hi12 我 r Aa05 实际 ad Da01 已经 d Ka12 COO SBV Root AGT VOB dCONT
+的 u Bo29 衮衮诸公 i -1 一 m Ka16 想 v Gb06 COO eCOO SBV Root VOB dCONT
+的 u Bo29 衮衮诸公 i -1 一 m Ka16 想 v Gb06 COO eCOO SBV Root VOB dCONT 想 v Gb06 一 m Ka16 面对 v Kb01 柏林 ns Di03 COO eCOO SBV Root VOB dCONT
+人 n Ab02 就 d Kb04 出 v Jd07 了 u Ig01 CMP ADV SBV CONT Root TIME AGT HED mDEPD
+马老 nr -1 正 d Bc02 着 u Dn08 只 d Dn08 COO ADV SBV Root AGT RAD HED eSUCC mDEPD
+怨言 n Dk11 人人 n Aa01 的 u Bo29 都 d Cb25 AGT rCONT RAD SBV
+充实 v Ih05 充实 v Ih05 点 q Cb08 构思 v Gb01 COO VOB mDEPD CONT
+有些 r Ka05 青年人 n Ab03 出 v Jd07 了 u Ig01 CMP COO ADV SBV CONT Root AGT HED eSUCC mRELA mDEPD
+总是 d Ka11 人 n Ab02 出来 v Hj64 的 u Bo29 CMP ATT SBV CONT AGT rCONT RAD mDEPD
+总是 d Ka11 人 n Ab02 出来 v Hj64 的 u Bo29 CMP ATT SBV CONT AGT rCONT RAD mDEPD 认认真真 z -1 去 v Ca11 去 v Ca11 研究 v Hg14 CMP ATT SBV CONT AGT rCONT RAD mDEPD
+不 d Ie01 敢 v Gc01 不 d Ie01 愿 v Gc01 COO ADV eCOO SBV Root AGT mDEPD
+不 d Ie01 敢 v Gc01 不 d Ie01 愿 v Gc01 COO ADV eCOO SBV Root AGT mDEPD 不 d Ie01 愿 v Gc01 COO ADV eCOO SBV Root AGT mDEPD
+我 r Aa05 在 d Jd02 不 d Ie01 知道 v Gb08 ADV SBV Root TIME AGT VOB dCONT HED mDEPD
+敢 v Gc01 不 d Ie01 着 u Dn08 网站 n -1 COO ADV eCOO mNEG CONT RAD eSUCC mDEPD
+呢 y Bq02 怎么 r Kc12 不 d Ie01 ADV mNEG MANN VOB RAD dCONT mDEPD
+许多 m Eb01 人 n Ab02 利用 v Hj28 玉荣 nr -1 COO ADV SBV Root TIME AGT VOB HED eSUCC
+我 r Aa05 多么 d Ka01 再 d Ig04 嗅到 v -1 COO ADV SBV AGT VOB ePREC mDEPD
+你 r Aa03 若 c Aa03 知道 v Gb08 吴 nr Dd15 COO ADV SBV AGT VOB dCONT HED mRELA
+地方 n Cb15 原 d Bm08 好好 d Ed03 领略 v Gb08 ADV AGT dCONT VOB mDEPD
+地方 n Cb15 原 d Bm08 好好 d Ed03 领略 v Gb08 ADV AGT dCONT VOB mDEPD 却 d Hb13 不 d Ie01 老天不作美 i -1 我们 r Aa02 ADV AGT dCONT VOB mDEPD
+酱豆 n -1 碗 n Bp07 多 d Ih05 拣 v Hj25 COO AGT dCONT VOB eSUCC
+我 r Aa05 只 d Dn08 就 p Kb04 消除 v Jd10 COO ADV SBV Root AGT VOB dCONT LOC mDEPD
+同志 n Aa03 最 d Ka02 听 v Hi39 的 u Bo29 ADV SBV VOB RAD mDEPD
+同志 n Aa03 最 d Ka02 听 v Hi39 的 u Bo29 ADV SBV VOB RAD mDEPD 人民 n Aa01 最 d Ka02 了解 v Hi24 的 u Bo29 ADV SBV VOB RAD mDEPD
+当然 d Ka32 要 c Ag04 在 p Jd02 西部 f Cb02 ADV SBV dCONT VOB mDEPD
+问题 n Dd09 我 r Aa05 概括 ad Jd05 讲 v Hg12 ADV SBV AGT VOB dCONT HED

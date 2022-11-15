@@ -1,0 +1,10 @@
+翔实,ad,Ed01,记录,v,Hg11,了,u,Ig01,阿盟,j,-1,后,f,Ai03,多,m,Ih05,年,q,Ca18,的,u,Bo29
+支部,n,Di10,后,f,Ai03,如何,r,Kc10,适应,v,Jc01,海上,s,Cb08
+新华,nz,-1,通讯社,n,Dm07,香港,ns,Cb25,分社,n,Di10,于,p,Kb05,年,t,Ca18
+指出,v,Hg02,全国,n,Di02,人大,j,Di23,华侨委,j,-1,以来,f,Ca11,认真,ad,Gb14,履行,v,Ie13,宪法,n,Di25
+一,m,Ka16,情况,n,Da21,集团,n,Hj30,公司,n,Dm04,后,f,Ai03,积极,ad,Ee23,贯彻,v,Ie14,有,v,Jd07
+月,t,Bd02,亚博卢,nz,-1,竞选,v,Hc23,联盟,n,Di02,后,f,Ai03,出任,v,Hj24,领导人,n,Af10
+交通,n,Di18,银行,n,Dm04,于,p,Kb05,年,t,Ca18
+过渡,vn,Hj03,政府,n,Di11,的,u,Bo29,当天,t,Ca23,共和国,n,Di02,总统,n,Af10
+抢险,vn,Hd16,指挥部,n,Dm01,从,p,Hi39,一,d,Ka16,就,d,Kb04,把,p,Hc10,解救,v,Hi36,井下,s,-1
+中国,ns,Di02,投资,vn,He01,有限公司,na,Dm04,如期,d,Ka09,家,q,Al02,投入,v,He01,生产,v,Dn07,的,u,Bo29

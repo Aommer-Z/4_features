@@ -1,0 +1,11 @@
+宝贝,n,Al04,迪瓦斯塔尔兹,nr,-1,以及,c,Kc01,能,v,Gc02,能,v,Gc02,吃,v,Je13,能,v,Gc02,跑,v,Ia10
+只,d,Dn08,是,v,Jd01,鸡鸣,v,-1,狗,n,Bi07,娃娃,n,Ab04,哭,v,Ic01,三,m,Dn04,种,q,Hd20
+听,v,Hi39,蛄,n,-1,还,d,Hi27,能,v,Gc02,不,d,Ie01,种,v,Hd20
+内,f,Ah08,哞,o,-1,哞,o,-1,直,d,Id04,技术,n,De04,人员,n,Aa01,在,p,Jd02,采,v,Hd15
+好,a,Je10,的,u,Bo29,易拉罐,n,Bp08,打开,v,Hc05,着,u,Dn08,中,v,Di02,了,u,Ig01,大奖,n,Hc21
+地,u,Di09,伸,v,Ih03,出,v,Jd07,手,n,Dn08,道,v,Hi14
+随着,p,Ka13,抽水机,n,Bo01,的,u,Bo29,欢,a,Aj17,涌,v,Id10,进,v,He03,干渴,a,Ib06,的,u,Bo29
+死,a,Id20,一,d,Ka16,死,v,Id20,就,d,Kb04,一,d,Ka16,叫,v,Bg07,就,d,Kb04,放,v,Ga13
+死,v,Id20,就,d,Kb04,叫,v,Bg07,一,d,Ka16,就,d,Kb04,放,v,Ga13,一,d,Ka16,放,v,Ga13
+副,b,Aj09,班长,n,Af10,张,nr,Dn08,智远,nr,-1,道,v,Hi14
+不如,v,Jb05,上面,f,Aj08,那些,r,Ed61,江,n,Be05,得,u,Ib10,响亮,a,Eb16

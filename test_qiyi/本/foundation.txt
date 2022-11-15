@@ -1,0 +1,10 @@
+干部,n,Ae01,的,u,Bo29,立身,v,-1,之,u,Kd01
+为,v,Ih01,导,Vg,Hg02,科技,n,Dk03,为,v,Ih01,科技,n,Dk03,含量,n,Dn03,必须,d,Gc03,较,d,Kb03
+是,v,Jd01,形式,n,Dc01,严密,a,Ed34,是,v,Jd01,是,v,Jd01,内容,n,Dk10
+源泉,n,Db02,和,c,Hh04,胜利,v,If21,之,u,Kd01
+源泉,n,Db02,和,c,Hh04,胜利,v,If21,之,u,Kd01
+旅游业,n,Hj48,的,u,Bo29,立业,v,Hc05,之,u,Kd01,和,c,Hh04,发展,v,Ie12,之,u,Kd01,纲,n,Dd09
+昌盛,a,Ef02,以,p,Di02,教育,vn,Hg01,为,v,Ih01,那么,c,Kc08,现阶段,t,Ca10,究竟,d,Ka31,应,v,Kb07
+我们,r,Aa02,的,u,Bo29,立国,v,Hc05,之,u,Kd01,强,Vg,Eb04,国,n,Di02,之,u,Kd01,路,n,Dn08
+修炼,v,Hk03,终,d,Ca09,能,v,Gc02,返,v,Hf07,归真,v,-1,他们,r,Aa04,的,u,Bo29,一切,r,Eb02
+坚持,v,Gb02,以,p,Di02,学生,n,Ae13,为,v,Ih01,建立,v,Hc05,新型,b,Dc01,的,u,Bo29,师生,n,Aa01

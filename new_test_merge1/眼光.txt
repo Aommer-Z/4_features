@@ -1,0 +1,14 @@
+警惕 v Ga13 的 u Bo29 看着 v -1 我 r Aa05 ATT FEAT MANN POB mRELA
+开始 v Ig01 把 p Hc10 瞄准 v Hb06 高 a Eb04 PAT mRELA POB
+人们 n Aa01 的 u Bo29 盯 v Fc04 着 u Dn08 ATT FEAT EXP SBV
+往往 d Ka10 把 p Hc10 只 d Dn08 盯 v Fc04 PAT mRELA POB
+他们 r Aa04 的 u Bo29 绝不 d Ka18 只 d Dn08 ATT FEAT EXP SBV
+数学家 n Al02 的 u Bo29 数学 n Dk03 传奇 n Dk29 ATT FEAT COO DBL RAD
+许多 m Eb01 有 v Jd07 的 u Bo29 藏家 n -1 LINK VOB
+重要 a Ed28 但 c Kc03 要 v Ag04 放 v Ga13 PAT FOB
+女性 n Ab01 的 u Bo29 和 c Hh04 状态 n Dc01 COO ATT FEAT eCOO VOB
+们 k Aa01 的 u Bo29 已 d Ig02 更 d Ca30 ATT FEAT AGT SBV
+用 p Jc05 哲学 n Dk03 发现 v Gb08 蕴含 v Jd06 ATT FEAT TOOL POB mRELA
+作者 n Ae17 的 u Bo29 很 d Ka01 毒 a Br14 ATT FEAT EXP SBV
+放 v Ga13 远 a Ed32 顾全大局 i Gb22 乘势而上 l -1 PAT VOB
+收藏家 n Al02 的 u Bo29 逛 v Fb01 书店 n Dm04 ATT FEAT MANN POB mRELA

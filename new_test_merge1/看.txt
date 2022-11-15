@@ -1,0 +1,38 @@
+的 u Bo29 实际 n Da01 新闻 n Da01 媒体 n Aj15 ATT ADV dMANN MANN
+三 m Dn04 岁 q Ca18 大 a Ah05 七 m Dn04 COO ADV eCOO CONT Root TIME VOB HED
+三 m Dn04 岁 q Ca18 大 a Ah05 七 m Dn04 COO ADV eCOO CONT Root TIME VOB HED 老 a Ab02 七 m Dn04 岁 q Ca18 COO ADV eCOO CONT Root TIME VOB HED
+流 v Dn08 要 v Ag04 全程 n Dn02 历史 n Dd01 ATT ADV rLOC SBV CONT VOB RAD LOC mDEPD
+科学史 n -1 上 f Hj63 也 d Kd03 不乏其人 i Eb01 LOC RAD
+表面 n Bc02 上 f Hj63 班子 n Dm07 非常 d Ka01 COO ADV LOC SBV CONT VOB HED
+实践 v Hi04 中 f Di02 干部 n Ae01 凭 p Fd02 COO ADV CONT VOB dCONT LOC
+是 v Jd01 怎么 r Kc12 这个 r Ed61 问题 n Dd09 ADV MANN CONT AGT VOB RAD mDEPD
+经贸 j Di18 方面 n Cb01 年 t Ca18 中 j Di02 LOC ADV mDEPD
+老外 n -1 中国 ns Di02 农村 n Cb25 SBV CONT Root AGT VOB HED
+国际 n Di02 经验 n Da16 不 d Ie01 一定 d Ka15 mDEPD eSUCC DATV RAD
+人 n Ab02 要 v Ag04 你 r Aa03 是 v Jd01 ADV SBV Root AGT VOB dCONT HED mDEPD
+整改 v Hc03 也 d Kd03 是 v Jd01 dCONT VOB mDEPD CONT
+关键 n Ca04 是 v Jd01 国家 n Di02 的 u Bo29 dLINK VOB mDEPD CONT
+是 v Jd01 要 v Ag04 对 p Fc04 阿 j Hi46 ADV VOB mDEPD
+是 v Jd01 要 v Ag04 对 p Fc04 阿 j Hi46 ADV VOB mDEPD 是 v Jd01 要 v Ag04 阿拉伯 ns Di02 阿拉伯 ns Di02 ADV VOB mDEPD
+年 q Ca18 就 d Kb04 我们 r Aa02 的 u Bo29 COO ADV CONT VOB RAD dCONT mDEPD
+能 v Gc02 只 d Dn08 它 r Ba10 在 p Jd02 COO ADV CONT Root VOB DATV HED eSUCC mDEPD
+关键 n Ca04 就 d Kb04 你 r Aa03 下 v Ia03 ADV SBV VOB dCONT HED eSUCC mDEPD
+发展 vn Ie12 关键 n Ca04 苏南 ns -1 人 n Ab02 COO SBV EXP dCONT VOB
+打破 v Hb10 就要 d Ka13 台湾 ns Di02 当局 n Dm01 ADV SBV CONT Root VOB RAD ePREC HED mDEPD
+能 v Gc02 只 d Dn08 考试 vn Hg07 分数 n Dn03 COO ADV CONT VOB eSUCC mDEPD
+能 v Gc02 只 d Dn08 考试 vn Hg07 分数 n Dn03 COO ADV CONT VOB eSUCC mDEPD 分数 n Dn03 要 v Ag04 学生 n Ae13 全面 a Ed11 COO ADV CONT VOB eSUCC mDEPD
+不 d Ie01 是 v Jd01 不 d Ie01 见 v Jd06 CMP COO ADV SBV CONT Root AGT VOB HED eSUCC mDEPD
+来 v Ca03 结账 v He12 了 u Ig01 发票 n Bp19 COO CONT AGT VOB RAD eSUCC mDEPD
+说明 vn Ja04 越来越 d Ka04 不 d Ie01 懂 v Gb08 CMP ADV SBV CONT Root TIME AGT RAD HED eSUCC mDEPD
+下 f Ia03 一 d Ka16 市井 n Cb28 灯火辉煌 i -1 ADV LOC Root TIME VOB dCONT HED mDEPD
+枝 Ng Bh10 掰开 v -1 时 Ng Ca30 五角星 n Bb02 COO eSUCC
+少 a He15 白天 t Ca28 庙 n Bn24 晚上 t Ca29 COO ADV eCOO SBV TIME VOB dCONT PAT
+取得 v Je12 了 u Ig01 得 u Ib10 到 v Hf08 CMP ATT dFEAT CONT VOB RAD eSUCC mDEPD
+乍 d Ka12 一 d Ka16 并 d Kc06 没有 v Jd08 ADV MEAS mNEG ePREC DATV mDEPD
+眼 n Dn08 不 d Ie01 事实 n Da01 说 v Hi34 COO ADV mNEG VOB eSUCC
+是 v Jd01 家法 n Di25 一 m Ka16 看 v Hi37 COO eCOO dLINK AGT VOB
+是 v Jd01 家法 n Di25 一 m Ka16 看 v Hi37 COO eCOO dLINK AGT VOB 看 v Hi37 一 m Ka16 历代 n Ca02 的 u Bo29 COO eCOO dLINK AGT VOB
+说 v Hi34 我 r Aa05 以 p Di02 年限 n Ca06 AGT dCONT VOB SBV
+企业 n Dm03 我 r Aa05 也 d Kd03 不 d Ie01 ADV SBV Root AGT VOB dCONT HED
+我 r Aa05 反正 d Hb15 你 r Aa03 SBV Root AGT VOB dCONT HED eSUCC
+老兄 n Aa03 我 r Aa05 你 r Aa03 还是 d Kc01 SBV FOB Root AGT VOB dCONT HED mDEPD

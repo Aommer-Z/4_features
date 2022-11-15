@@ -1,0 +1,18 @@
+起义 nz Ha01 的 u Bo29 决不 d Ka18 允许 v Hi32 ATT FEAT dFEAT POB mRELA
+的 u Bo29 蓝色 n Bg06 波兰 ns Di02 白军 n -1 ATT FEAT FOB
+不朽 z Ed24 的 u Bo29 ATT MEAS FEAT LINK SCO VOB LOC
+倒 v He03 的 u Bo29 ATT MEAS rEXP LINK VOB
+咱们 r Aa02 的 u Bo29 ATT FEAT VOB LINK
+这 r Ca31 面 q Bk02 一 d Ka16 挥 v Hc09 PAT ATT MEAS FOB
+绿色 n Bg06 的 u Bo29 ATT MEAS FEAT LINK VOB
+的 u Bo29 绿色 n Bg06 ATT FEAT MEAS rEXP Root HED
+邓小平理论 n -1 伟大 a Ed20 全面 ad Ed11 落实 v Ga09 ATT FEAT VOB
+要 v Ag04 高举 v Fd01 服务 v Hi37 大局 n Da20 VOB
+要 v Ag04 高举 v Fd01 服务 v Hi37 大局 n Da20 VOB
+史学 n Dk03 的 u Bo29 阐述 v Hi13 了 u Ig01 PAT ATT FEAT VOB
+高举 v Fd01 马克思主义 n Dk02 不 d Ie01 能 v Gc02 ATT FEAT VOB EXP
+的 u Bo29 伟大 a Ed20 下 f Ia03 把 p Hc10 ATT FEAT mRELA mDEPD
+努力 a Ka19 的 u Bo29 是 v Jd01 推动 v Je06 EXP SBV
+要 v Ag04 高举 v Fd01 服务 v Hi37 大局 n Da20 VOB
+邓小平理论 n -1 伟大 a Ed20 紧密 ad Ed34 团结 v Ie08 ATT FEAT VOB
+邓小平理论 n -1 伟大 a Ed20 加强 v Ih10 团结 vn Ie08 ATT FEAT VOB

@@ -1,0 +1,5 @@
+公关业,n,-1,可谓,v,Ja02,是,v,Jd01,无,v,Jd08,万,m,Dn04,利,n,Je10,的,u,Bo29,朝阳,n,Bd02
+次,q,Jb05,罚,v,Hc22,元,q,Ah08,小,a,Ah08,买卖,n,Di18,谁,r,Aa06,能,v,Gc02,禁,v,Je14
+技术,n,De04,省,v,Hi02,工,n,Di19,省,v,Hi02,增产,vn,Ih05,效果,n,Ae17,明显,a,Ed46
+利率,n,Dn07,算账,v,Hj29,比较,v,Kb03,连,p,Jd05,带,v,Jd04,息,Ng,Ig02,一,m,Ka16,年,q,Ca18
+采取,v,Hj28,改革,v,Ha04,挖潜,v,Fa10,降,v,Ih05,增效,v,-1,比价,n,Dj02,购销,v,He03,查,v,Hg10

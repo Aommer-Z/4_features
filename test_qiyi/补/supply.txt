@@ -1,0 +1,11 @@
+检查,vn,Hc22,学校,n,Dm05,常常,d,Ka10,停课,v,Ig02,记录,n,Hg11,补,v,Hd09,资料,n,Dk17,因为,p,Kc09
+常常,d,Ka10,停课,v,Ig02,补,v,Hd09,记录,n,Hg11,资料,n,Dk17,因为,p,Kc09,他们,r,Aa04,来,v,Ca03
+实现,v,Ie14,了,u,Ig01,耕地,n,Hd17,占,v,Jd04,平衡,a,He14,依法,d,Hi39,整顿,v,Hc03,矿业,n,Di18
+不,d,Ie01,是,v,Jd01,缺,v,He15,多少,r,Ka05,多少,r,Ka05,要,v,Ag04,多少,r,Ka05,给,v,Je05
+改种,v,Ih02,补种,v,-1,以,p,Di02,夏,Tg,Ca19,夏,Tg,Ca19,措施,n,Db09,猪价,n,-1,下跌,v,Ih06
+西方,s,Di02,文化,n,Dk02,中,f,Di02,可以,v,Gc02,我,r,Aa05,所,u,Di09,缺,v,He15,为我所用,l,-1
+画,v,Hg19,兰,Ng,Bh02,胡,nr,Ka35,继高,nr,-1,菊,Ng,Bh02,来自,v,Hj63,香港,ns,Cb25,的,u,Bo29
+引,v,Je04,泗河,ns,-1,水,n,Bg01,回灌,v,-1,源,Ng,Ja05,工程,n,Di18,彻底,ad,Ed37,解决,v,Jd09
+基础,n,Ed28,上,f,Hj63,今年,t,Ca18,再,d,Ig04,栽,v,Je05,和,c,Hh04,新,ad,Ka12,栽,v,Je05
+了,y,Ig01,医院,n,Dm06,收入,n,Dj08,哪里,r,Cb30
+执行,v,Ie13,耕地,n,Hd17,占,v,Jd04,一,m,Ka16,一,m,Ka16,规定,v,Hc14,坚持,v,Gb02,实现,v,Ie14

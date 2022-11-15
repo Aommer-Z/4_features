@@ -1,0 +1,7 @@
+扫毒,vn,-1,斗争,vn,Ha02,鸡蛋,n,Bl05,里,f,Dn10,骨头,n,Bk13,而,c,Aa03,对,p,Fc04,自己,r,Aa05
+的,u,Bo29,经济,n,Di02,条件,n,Dd11,没有,d,Jd08,最,d,Ka02,好,a,Je10,的,u,Bo29,房子,n,Bn01
+好,a,Je10,的,u,Bo29,房子,n,Bn01,却,d,Hb13,了,u,Ig01,一,m,Ka16,套,q,Hg08,顶层,f,-1
+走,v,Hi01,香蕉,n,Bh07,也,d,Kd03,要,v,Ag04,套,v,Hg08,袋,Ng,Bp11,的,u,Bo29
+好多,m,Dn05,东西,n,Aa01,让,v,Je04,你,r,Aa03,或许,d,Ka17,执意,d,Ka22,不,d,Ie01,收,v,He10
+来,v,Ca03,清澈,a,Eb19,透明,a,Eb19,带有,v,Jd06
+上,f,Hj63,方,nr,Dn08,大妈,n,Ai02,一面,d,Dd05,着,u,Dn08,大,a,Ah05,个,Ng,Dn08,鸡蛋,n,Bl05

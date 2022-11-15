@@ -1,0 +1,101 @@
+连 p Jd05 吃 v Je13 住 v Ig02 加上 v Ih05 CMP COO
+连 u Jd05 手 n Dn08 面 n Bk02 提 v Hi27 PAT COO VOB CONT
+连 p Jd05 补 v Hd09 罚 v Hc22 万 m Dn04 COO MEAS
+连 p Jd05 本 n Ed61 息 Ng Ig02 一 m Ka16 ADV EXP VOB PAT mRELA
+去 v Ca11 节日 n Ca25 Root HED VOB
+战士 n Ae10 杂技团 na Di10 回 v Hi18 一个 m Dn08 CMP Root AGT VOB PAT mDEPD
+流行 vn Ie01 音乐 n Dk28 到 v Hf08 中国 ns Di02 CMP COO ADV LOC AGT PAT dEXP eSUCC mRELA mDEPD
+了 u Ig01 严冬 t Ca19 回 v Hi18 了 u Ig01 CMP COO TIME VOB eSUCC mDEPD
+加上 v Ih05 东部 f Cb01 去 v Ca11 的 u Bo29 CMP ATT SBV RAD rPAT LOC mDEPD
+文化 n Dk02 娱乐 vn Hj48 向 p Cb01 了 u Ig01 CMP COO ADV AGT PAT LOC eSUCC mDEPD
+上下水 j -1 工程 n Di18 给 p Je05 日喀则 ns Cb25 CMP ATT SBV AGT RAD rPAT DATV mDEPD
+一行 n Aj03 人 n Ab02 着 u Dn08 他们 r Aa04 ADV SBV CONT Root TIME AGT VOB RAD HED mDEPD
+四 m Dn04 是 v Jd01 着 u Dn08 问题 n Dd09 ADV CONT VOB RAD eSUCC mDEPD
+也 d Kd03 会 v Hi05 给 v Je05 你 r Aa03 CMP COO ADV FOB EXP CONT AGT DATV eSUCC mDEPD
+柔 a Eb10 中 f Di02 刚 Ag Bf02 的 u Bo29 ATT ADV dFEAT CONT STAT VOB RAD mDEPD
+建设 v Ie12 中 f Di02 全局性 n Dd01 战略性 n Df09 ATT ADV rEXP CONT VOB RAD LOC mDEPD
+一 m Ka16 道 q Hi14 棚 n Bn13 的 u Bo29 mDEPD ATT MEAS FEAT
+是 v Jd01 一个 m Dn08 全局性 n Dd01 的 u Bo29 ATT rEXP LINK VOB RAD mDEPD
+干净利落 i -1 不 d Ie01 任何 r Eb02 条件 n Dd11 ATT ADV mNEG CONT VOB RAD rFEAT mDEPD
+水流 n Bg01 里 f Dn10 有 v Jd07 所有 b Jd04 COO eSUCC VOB LINK
+下 f Ia03 这些 r Ed61 土 n Bm04 移 v Ih02 COO ATT dMANN rEXP VOB RAD PAT eSUCC
+对 p Fc04 该市 r Cb25 黑社会 n An01 性质 n Dd01 PAT ATT VOB dFEAT
+过 v Je09 地 u Di09 轻轻 d Eb13 ADV MANN CONT Root AGT RAD HED mRELA mDEPD
+炯炯有神 i Eb18 面 n Bk02 几 m Bp26 分 q Dn10 COO SBV EXP LINK VOB eSUCC
+把 p Hc10 人们 n Aa01 回 v Hi18 到 v Hf08 CMP COO ADV MEAS EXP CONT PAT eSUCC mDEPD
+建 v Hd01 班子 n Dm07 队伍 n Di10 创 v Hc05 PAT COO AGT VOB
+一 m Ka16 级 q Bn10 一 m Ka16 级 q Bn10 COO MEAS eCOO SBV AGT TIME PAT
+常委 n Dm01 各 r Ed61 一个 m Dn08 工作组 n Di09 ADV SBV MANN AGT VOB dCONT PAT eSUCC
+在 p Jd02 当地 s Cb15 出 v Jd07 了 u Ig01 CMP COO ADV CONT VOB RAD LOC eSUCC mDEPD
+作用 n Df08 传 v Je03 帮 v Hi36 COO FEAT
+以 p Di02 城 n Bn07 乡 n Cb25 以 p Di02 COO ATT ADV eCOO MANN VOB PAT
+强 Vg Eb04 班子 n Dm07 队伍 n Di10 促 v Je06 COO TOOL SBV dFEAT VOB POB PAT mRELA
+病故 v Ib03 自己 r Aa05 着 u Dn08 一个 m Dn08 SBV AGT RAD PAT mDEPD
+苏丝蒂 nr -1 现在 t Ca10 着 u Dn08 两 m Dd05 ADV TIME ePREC VOB RAD PAT mDEPD
+周末 t Ca22 我 r Aa05 儿子 n Ah14 于 p Kb05 ADV SBV DBL TIME AGT VOB Root PAT HED eSUCC
+春节 t Ca25 只 d Dn08 家人 n Ah01 看 v Hi37 COO ADV VOB PAT eSUCC mDEPD
+时 Ng Ca30 有的 r Eb02 上 v Hj63 老老少少 n -1 CMP COO ADV SBV AGT VOB HED eSUCC mDEPD
+陈 nr Hi13 忠 nr Ee06 团 n Bb04 出国 v Hf04 COO ATT ADV SBV VOB PAT
+夫妇 n Ah08 特意 d Ka20 着 u Dn08 他们 r Aa04 COO ADV SBV MANN Root AGT VOB RAD PAT HED eSUCC mDEPD
+把 p Hc10 部队 n Di11 出 v Jd07 开阔地 n -1 CMP COO ADV CONT VOB dCONT PAT eSUCC mDEPD
+总 d Ae10 会 v Hi05 你们 r Aa03 去 v Ca11 ADV SBV DBL AGT Root VOB PAT HED eSUCC mDEPD
+布拉托维奇 nr -1 没有 d Jd08 任何 r Eb02 随从 n Af02 ADV SBV mNEG AGT TIME VOB PAT
+携 v Fa07 家 n Al02 小 a Ah08 赴 v Hj63 COO eSUCC
+都 d Cb25 要 v Ag04 着 u Dn08 子孙 n Ai03 COO ADV SBV TIME AGT VOB RAD PAT HED eSUCC mDEPD
+搞 v Hj12 一 m Ka16 二 m Jb02 扶贫 v Hi36 ATT ADV MEAS
+以 p Di02 软 a Ee12 硬 a Ee12 以 p Di02 COO ATT ADV MANN mRELA
+以 p Di02 点 n Cb08 面 n Bk02 推动 v Je06 ADV SBV EXP VOB PAT mRELA
+的 u Bo29 辐射力 n -1 动力 n Dd14 不 d Ie01 ATT FEAT EXP
+先 d Ca11 富 a Jd04 后 f Ai03 富 a Jd04 CMP COO ADV SBV eSUCC
+先 d Ca11 富 a Jd04 后 f Ai03 富 a Jd04 ATT SBV dFEAT CONT ePREC VOB RAD mDEPD
+千 m Dn04 村 n Cb25 万 m Dn04 户 q Bn04 COO eCOO CONT AGT VOB mDEPD
+以 p Di02 点 n Cb08 面 n Bk02 推进 v Je06 ADV dMANN MANN VOB LOC
+以 p Di02 点 n Cb08 面 n Bk02 的 u Bo29 COO ADV CONT VOB mDEPD
+以 p Di02 点 n Cb08 面 n Bk02 点面结合 l -1 COO eCOO mRELA
+一 m Ka16 户 q Bn04 数 m Hi13 户 q Bn04 ATT ADV MEAS dFEAT VOB
+以 p Di02 效 Ng Hg08 水 n Bg01 的 u Bo29 ATT ADV MANN VOB RAD PAT mDEPD
+给 p Je05 基层 n Di16 了 u Ig01 个 q Dn08 COO ADV CONT VOB RAD DATV eSUCC mDEPD
+抓 v Fa06 两头 f Dd05 中间 f Cb04 做好 v Hj12 COO eSUCC VOB LOC
+以 p Di02 粮 n Br01 赈 Vg Hi36 制定 v Hc14 SBV MANN EXP VOB POB PAT mRELA
+以 p Di02 游 v Hh06 农 Ng Ae07 以 p Di02 COO ADV SBV MANN VOB PAT
+一 m Ka16 级 q Bn10 一 m Ka16 级 q Bn10 COO MEAS eCOO EXP CONT TIME VOB PAT
+以 p Di02 军品 n Ba06 民品 n Ba02 民品 n Ba02 COO ATT ADV eCOO SBV VOB MATL PAT
+四 m Dn04 老 a Ab02 二 m Jb02 新 a Ka12 CMP ATT FEAT RAD mDEPD
+以 p Di02 点 n Cb08 面 n Bk02 才 d If03 COO ADV SBV EXP VOB PAT
+大 a Ah05 城市 n Cb25 大 a Ah05 农村 n Cb25 COO SBV EXP dFEAT LINK VOB LAD mDEPD
+以 p Di02 城 n Bn07 乡 n Cb25 城乡 n Cb25 ATT ADV TOOL dFEAT VOB PAT mRELA mDEPD
+以 p Di02 工 n Di19 农 Ng Ae07 大 a Ah05 COO ADV EXP VOB PAT
+学习 v Hg08 以 p Di02 创新 v Ih12 COO ADV MANN CONT VOB
+老百姓 n Aa01 欢笑 v Ic01 起来 v Ih13 把 p Hc10 CMP COO ADV PAT eSUCC mDEPD
+的 u Bo29 客户 n Aj06 起 v Kd02 了 u Ig01 CMP CONT AGT VOB eSUCC mDEPD
+一 m Ka16 业 Ng Dj03 百 m Dn04 业 Ng Dj03 PAT AGT VOB SBV
+由 p Hf06 政府 n Di11 企业 n Dm03 推介 v -1 PAT AGT ADV VOB
+以 p Di02 公司 n Dm04 农户 n Di05 为 v Ih01 dREAS SBV AGT VOB POB PAT dEXP mRELA
+依靠 v Kb06 支部 n Di10 连队 n Di11 科技 n Dk03 COO TOOL SBV DBL VOB
+以 p Di02 老 a Ab02 新 a Ka12 参加 v Hj20 ADV MANN VOB mRELA mDEPD
+龙头 n Bo25 龙头 n Bo25 基地 n Cb08 基地 n Cb08 ATT FEAT
+以 p Di02 公司 n Dm04 农户 n Di05 的 u Bo29 ATT ADV TOOL dFEAT VOB RAD PAT mDEPD
+以 p Di02 老 a Ab02 新 a Ka12 法 n Di02 ADV MANN EXP VOB POB mRELA
+以 p Di02 内 f Ah08 外 f Ae17 大力 d Ka19 LOC ADV VOB
+都 d Cb25 被 p Je13 活 a Hi36 而 c Aa03 CMP COO ADV FOB VOB dCONT PAT eSUCC mRELA mDEPD
+党员 n Aj07 了 u Ig01 头 n Bk02 COO SBV Root AGT VOB RAD PAT HED mDEPD
+小 a Ah08 扶 v Hi36 小 a Ah08 COO eCOO VOB CONT
+户 Ng Bn04 户 Ng Bn04 村 n Cb25 COO ATT eCOO SBV EXP AGT VOB
+户 Ng Bn04 户 Ng Bn04 村 n Cb25 COO ATT eCOO SBV EXP AGT VOB 户 Ng Bn04 村 n Cb25 村 n Cb25 全镇 n -1 COO ATT eCOO SBV EXP AGT VOB
+以 p Di02 龙头 n Bo25 基地 n Cb08 以 p Di02 COO ATT ADV TOOL SBV VOB PAT
+以 p Di02 龙头 n Bo25 基地 n Cb08 以 p Di02 COO ATT ADV TOOL SBV VOB PAT 以 p Di02 基地 n Cb08 农户 n Di05 的 u Bo29 COO ATT ADV TOOL SBV VOB PAT
+经常 d Ka10 自 r Ka15 水壶 n Bp05 自 r Ka15 COO ADV SBV MANN CONT VOB HED
+经常 d Ka10 自 r Ka15 水壶 n Bp05 自 r Ka15 COO ADV SBV MANN CONT VOB HED 水壶 n Bp05 自 r Ka15 干粮 n Br01 利用 v Hj28 COO ADV SBV MANN CONT VOB HED
+说 v Hi34 没 d Jd08 干粮 n Br01 没 d Jd08 COO ADV eCOO mNEG dCONT VOB PAT
+说 v Hi34 没 d Jd08 干粮 n Br01 没 d Jd08 COO ADV eCOO mNEG dCONT VOB PAT 干粮 n Br01 没 d Jd08 水 n Bg01 渴 a Ib06 COO ADV eCOO mNEG dCONT VOB PAT
+也 d Kd03 不 d Ie01 因为 c Kc09 质检 j -1 CMP COO ADV SBV mNEG AGT VOB eSUCC mDEPD
+作业 v Hj11 忘 v Gb07 施工 vn Hd01 程序 n Dd07 COO MANN TIME VOB PAT
+位 q Dn08 旅客 n Ag10 颗 q Dn08 珍珠 n Bm16 COO ADV SBV Root TIME AGT VOB PAT HED eSUCC
+妇女 n Ab01 违规 v -1 几万 m -1 元 q Ah08 COO MANN AGT VOB PAT
+因为 p Kc09 他 r Aa04 的 u Bo29 奶酪 n Br12 ATT SBV AGT rPAT RAD mDEPD
+自己 r Aa05 随身 d Ka20 的 u Bo29 塑料袋 n Bp11 ATT ADV SBV MANN AGT RAD rPAT mDEPD
+次 q Jb05 回国 v Hf07 点 q Cb08 葡萄 n Bh07 ATT VOB
+葡萄 n Bh07 枝 Ng Bh10 过 u Je09 海关 n Cb20 PAT AGT mDEPD SBV
+凡是 d Kc06 衔 Ng Jd06 的 u Bo29 ADV SBV VOB RAD PAT mDEPD
+又 d Kc02 头 n Bk02 头盔 n Bq05 身着 v Fa18 ADV SBV VOB PAT LOC
+下 f Ia03 跳 v Je09 围嘴 n -1 抢 v Ie11 COO eSUCC VOB

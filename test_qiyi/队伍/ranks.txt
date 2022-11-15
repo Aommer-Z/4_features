@@ -1,0 +1,10 @@
+日,t,Di02,下午,t,Ca28,时,t,Ca30,游行,vn,Ha02,从,p,Hi39,维也纳,ns,Cb25,火车,n,Bo21,西,f,Cb02
+不断,d,Ka11,有人,r,Aa01,加入,v,Hj19,游行,vn,Ha02
+盛大,b,Ef11,的,u,Bo29,社火,n,Hj48,表演,vn,Hh01,在,p,Jd02,兰州市,ns,Di03,主要,b,Ed28,街道,n,Bn11
+反对,v,Gb15,种族主义,n,Di08,的,u,Bo29,游行,vn,Ha02,中,f,Di02,对,p,Fc04,新,a,Ka12,纳粹,n,Di10
+接踵而至,i,Hj63,的,u,Bo29,拉,v,Je01,广告,n,Dk14,使,v,Kb05,他们,r,Aa04,整天,d,Eb24,忙于,v,Ef06
+总是,d,Ka11,排,v,Jd10,起,v,Kd02,长长的,z,-1
+可,d,Ka01,要,v,Ag04,房,n,Bn03,的,u,Bo29,越,d,Je09,排,v,Jd10,越,d,Je09,长,a,Ih05
+是,v,Jd01,要,v,Ag04,房,n,Bn03,的,u,Bo29,分流,v,Ie10,了,y,Ig01
+出殡,vn,Hj54,浩浩荡荡,z,Ed21,沿途,d,Cb27,撒,v,Id09,纸钱,n,Bp37
+出殡,v,Hj54,时,Ng,Ca30,送葬,vn,Hj54,排,v,Jd10,成,v,Ih01,长龙,n,-1,严重,ad,Ed29

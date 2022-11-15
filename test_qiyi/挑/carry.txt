@@ -1,0 +1,5 @@
+剃头匠,n,Ae01,弹,v,Hh04,着,u,Dn08,唤头,n,Bp36,着,u,Dn08,挑子,n,Ba09,的,u,Bo29,身影,n,Bg03
+副,q,Aj09,担子,n,Ba09,一,m,Ka16,肩,n,Bk05
+两,m,Dd05,副,b,Aj09,担子,n,Ba09,怎么,r,Kc12
+瑞典,ns,Di02,这个,r,Ed61,肩,n,Bk05,沉重,a,Di22,社会,n,Di01,福利,n,Je10,负担,n,Di22
+无,v,Jd08,例外,v,Ed04,地,u,Di09,肩,n,Bk05,事业,n,Di18,和,c,Hh04,家庭,n,Ab01,双重,b,Ka14

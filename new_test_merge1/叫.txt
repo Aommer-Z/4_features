@@ -1,0 +1,40 @@
+赶紧 d Ih10 那个 r Ka01 被 p Je13 ADV MANN DBL Root VOB DATV HED eSUCC
+三 m Dn04 天 q Cb07 厂里 n Dm03 开机 v Fa31 COO DBL VOB DATV eSUCC
+辛劳 a Ef07 都 d Cb25 人 n Ab02 钦敬 v Gb12 ADV SBV DBL Root VOB DATV HED eSUCC mDEPD
+塑像 n Dk31 真 d Ka30 我 r Aa05 不能不 d Gc03 ADV EXP DBL VOB DATV eSUCC mDEPD
+就 d Kb04 更 d Ca30 人 n Ab02 哭笑不得 i If03 COO ADV SBV EXP DBL Root VOB DATV HED eSUCC mDEPD
+他 r Aa04 我 r Aa05 想起 v Gb06 SBV DBL AGT Root VOB DATV HED eSUCC
+这 r Ca31 感激 vn Ga17 我 r Aa05 承受 v Je14 SBV EXP DBL Root VOB DATV HED eSUCC
+这 r Ca31 便 d Bl04 我们 r Aa02 一下子 m Eb25 COO ADV SBV EXP DBL Root VOB DATV HED eSUCC mDEPD
+家 q Al02 报纸 n Bp17 我 r Aa05 画 v Hg19 SBV EXP DBL Root VOB DATV eSUCC
+是 v Jd01 含糊其词 i Hi09 人 n Ab02 越 d Je09 COO DBL VOB DATV eSUCC
+等 u Dn08 人 n Ab02 去 v Ca11 谈判 v Hi31 CMP ADV SBV Root AGT VOB PAT HED eSUCC mDEPD
+他们 r Aa04 又 d Kc02 来 v Ca03 于 nr Kb05 CMP ADV SBV Root AGT VOB DATV dCONT HED dTIME mDEPD
+通过 p Gb15 对讲机 n Ba05 通 a Al02 了 u Ig01 CMP ADV SBV REAS Root AGT VOB DATV mDEPD
+又 d Kc02 趁机 d Ee15 岳 nr Ah07 雷 nr Bf06 COO ADV SBV MANN AGT VOB DATV eSUCC mDEPD
+把 p Hc10 家长 n Ah04 来 v Ca03 照顾 v Hi37 CMP COO ADV PAT LOC eSUCC mDEPD
+把 p Hc10 我 r Aa05 到 v Hf08 了 u Ig01 CMP COO ADV DATV PAT LOC eSUCC mDEPD
+年轻 a Ab02 女工 n Ae02 住 v Ig02 了 y Ig01 CMP ADV FOB Root AGT RAD PAT HED eSUCC mDEPD
+刘 nr Dd15 波 nr Bg02 来 v Ca03 了 y Ig01 CMP COO ADV FOB Root AGT PAT HED eSUCC mDEPD
+听 v Hi39 儿女 n Ah14 爸爸 n Ah04 妈妈 n An07 ATT SBV dFEAT AGT VOB RAD DATV mDEPD
+以及 c Kc01 能 v Gc02 能 v Gc02 吃 v Je13 rAGT ATT ADV VOB RAD mDEPD
+鸡鸣 v -1 狗 n Bi07 娃娃 n Ab04 哭 v Ic01 COO AGT SBV
+听 v Hi39 蛄 n -1 还 d Hi27 能 v Gc02 COO dCONT WP VOB
+哞 o -1 直 d Id04 技术 n De04 人员 n Aa01 ADV WP DBL VOB DATV eSUCC mDEPD
+易拉罐 n Bp08 打开 v Hc05 着 u Dn08 中 v Di02 COO MEAS RAD eSUCC mDEPD
+道 v Hi14 出 v Jd07 手 n Dn08 COO CONT AGT VOB eSUCC
+的 u Bo29 欢 a Aj17 涌 v Id10 进 v He03 ADV MANN EXP STAT POB mRELA
+死 v Id20 就 d Kb04 一 d Ka16 叫 v Bg07 mNEG COO ADV
+死 v Id20 就 d Kb04 一 d Ka16 叫 v Bg07 mNEG COO ADV 叫 v Bg07 一 d Ka16 就 d Kb04 放 v Ga13 mNEG COO ADV
+道 v Hi14 张 nr Dn08 智远 nr -1 SBV Root AGT LINK VOB HED
+那些 r Ed61 江 n Be05 得 u Ib10 响亮 a Eb16 CMP SBV EXP VOB RAD eSUCC mDEPD
+谈情说爱 l Hj51 那 r Kc08 婚外恋 n -1 古已有之 l Jd01 COO SBV EXP Root VOB eSUCC
+遗书 n Dk19 题目 n Dd15 致 v Je05 五千 m -1 LINK VOB EXP SBV
+词 n Dk27 暂且 d Ka09 它 r Ba10 卡特茶 n -1 COO ADV LINK VOB eSUCC mDEPD
+那 c Kc08 才 c If03 真正 b Ka30 的 u Bo29 COO ADV EXP VOB ePREC mDEPD
+岛 n Be02 水中 s Cb05 才 d If03 ADV LINK VOB eSUCC mDEPD
+当地 s Cb15 话 n Dk11 肉圆子 n -1 是 v Jd01 ADV SBV MANN EXP Root VOB
+起来 v Ih13 这个 r Ed61 奶奶 n Ah02 那个 r Ka01 ATT rEXP VOB DATV mDEPD
+迎春节 n -1 又 d Kc02 斯里潘查米节 n -1 每年 r Ca18 COO ADV SBV EXP Root VOB DATV HED eSUCC mDEPD
+鲜艳夺目 l Eb30 的 u Bo29 不 d Ie01 出 v Jd07 CMP rAGT ATT CONT VOB RAD eSUCC mDEPD
+大 a Ah05 战略 n Df09 进 v He03 一 m Ka16 CMP COO SBV EXP Root VOB HED eSUCC mDEPD

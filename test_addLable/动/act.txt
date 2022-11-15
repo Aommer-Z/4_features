@@ -1,0 +1,11 @@
+逆,Vg,An01,历史,n,Dd01,潮流,n,Da20,而,c,Aa03,为,p,Ih01,两岸,n,Cb08,关系,n,Db01,的,u,Bo29,0
+过,u,Je09,现在,t,Ca10,是,v,Jd01,真正,d,Ka30,起来,v,Ih13,了,y,Ig01,这,r,Ca31,不仅,c,Kc05,0
+河北,ns,Di02,一些,m,Eb02,地方,n,Cb15,已经,d,Ka12,起来,v,Ih13,了,y,Ig01,乐亭县,ns,-1,的,u,Bo29,0
+达,v,Je12,摄氏度,n,Dn01,人,n,Ab02,不,d,Ie01,都,d,Cb25,喘,v,Ic08,不,d,Ie01,过,v,Je09,0
+逆,Vg,An01,历史,n,Dd01,潮流,n,Da20,而,c,Aa03,制造,v,Hd04,分裂,vn,Ie08,搞,v,Hj12,台独,j,-1,0
+首先,c,Ka09,西部,f,Cb02,自己,r,Aa05,要,v,Ag04,起来,v,Ih13,有,v,Jd07,开发,v,Hj28,的,u,Bo29,0
+逆,Vg,An01,历史,n,Dd01,潮流,n,Da20,而,c,Aa03,违背,v,Hi39,广大,b,Ed38,人民,n,Aa01,的,u,Bo29,0
+动脑,v,-1,研究,v,Hg14,工作,vn,Ae01,勤,a,Ka10,口,n,Dn08,检查,v,Hc22,过问,v,Hi23,工作,vn,Ae01,0
+报告,n,Hi15,指导,v,Hg02,工作,vn,Ae01,勤,a,Ka10,腿,n,Bk08,深入,v,Ed16,基层,n,Di16,扎实,ad,Ee29,0
+不,d,Ie01,意味着,v,Ja03,固定,v,Ed14,不,d,Ie01,它,r,Ba10,会,v,Hi05,随,p,Kb07,市场,n,Cb28,0
+它,r,Ba10,保留,v,Hj40,原地,n,Cb08,不,d,Ie01,0

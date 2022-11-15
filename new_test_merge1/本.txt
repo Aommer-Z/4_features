@@ -1,0 +1,54 @@
+建设 vn Ie12 银行 n Dm04 外币 n Dj05 存单 n Bp19 ATT FEAT
+出版 v Hd13 三 m Dn04 卷 q Bb03 ATT MEAS EXP CONT VOB
+三 m Dn04 卷 q Bb03 严格 ad Ee36 遵循 v Hi39 ATT MEAS CONT SBV
+的 u Bo29 文学 n Dk25 及 c Je12 部分 m Eb02 COO ATT FEAT eCOO VOB rPAT
+钢铁 n Bm02 彩色 b Bg06 插页 n Dk20 ATT FEAT
+四 m Dn04 卷 q Bb03 红楼梦 nz -1 是 v Jd01 ATT FEAT
+四 m Dn04 卷 q Bb03 红楼梦 nz -1 是 v Jd01 ATT FEAT 一百二十 m -1 回 q Hi18 平装 b Dc01 印制 v Hd13 ATT FEAT
+三 m Dn04 卷 q Bb03 红楼梦 nz -1 是 v Jd01 ATT FEAT
+三 m Dn04 卷 q Bb03 红楼梦 nz -1 是 v Jd01 ATT FEAT 以 p Di02 庚辰 nr -1 为 p Ih01 底本 n Dk20 ATT FEAT
+豪华 a Eb32 盒装 b -1 大 a Ah05 十六 m -1 ATT FEAT
+二 m Jb02 卷 q Bb03 山东 ns Di02 人民 n Aa01 ATT VOB
+五 m Dn04 卷 q Bb03 林 nr Bh01 一安 nr -1 ATT
+建设 vn Ie12 银行 n Dm04 外币 n Dj05 存单 n Bp19 ATT FEAT
+出版 v Hd13 三 m Dn04 卷 q Bb03 ATT MEAS EXP CONT VOB
+三 m Dn04 卷 q Bb03 严格 ad Ee36 遵循 v Hi39 ATT MEAS CONT SBV
+的 u Bo29 文学 n Dk25 及 c Je12 部分 m Eb02 COO ATT FEAT eCOO VOB rPAT
+钢铁 n Bm02 彩色 b Bg06 插页 n Dk20 ATT FEAT
+四 m Dn04 卷 q Bb03 红楼梦 nz -1 是 v Jd01 ATT FEAT
+四 m Dn04 卷 q Bb03 红楼梦 nz -1 是 v Jd01 ATT FEAT 一百二十 m -1 回 q Hi18 平装 b Dc01 印制 v Hd13 ATT FEAT
+三 m Dn04 卷 q Bb03 红楼梦 nz -1 是 v Jd01 ATT FEAT
+三 m Dn04 卷 q Bb03 红楼梦 nz -1 是 v Jd01 ATT FEAT 以 p Di02 庚辰 nr -1 为 p Ih01 底本 n Dk20 ATT FEAT
+豪华 a Eb32 盒装 b -1 大 a Ah05 十六 m -1 ATT FEAT
+二 m Jb02 卷 q Bb03 山东 ns Di02 人民 n Aa01 ATT VOB
+五 m Dn04 卷 q Bb03 林 nr Bh01 一安 nr -1 ATT
+是 v Jd01 无 v Jd08 万 m Dn04 利 n Je10 LINK VOB
+元 q Ah08 小 a Ah08 买卖 n Di18 谁 r Aa06 PAT ATT FEAT
+工 n Di19 省 v Hi02 增产 vn Ih05 效果 n Ae17 ADV EXP
+比较 v Kb03 连 p Jd05 带 v Jd04 息 Ng Ig02 PAT mDEPD EXP POB
+挖潜 v Fa10 降 v Ih05 增效 v -1 比价 n Dj02 PAT VOB
+是 v Jd01 无 v Jd08 万 m Dn04 利 n Je10 LINK VOB
+元 q Ah08 小 a Ah08 买卖 n Di18 谁 r Aa06 PAT ATT FEAT
+工 n Di19 省 v Hi02 增产 vn Ih05 效果 n Ae17 ADV EXP
+比较 v Kb03 连 p Jd05 带 v Jd04 息 Ng Ig02 PAT mDEPD EXP POB
+挖潜 v Fa10 降 v Ih05 增效 v -1 比价 n Dj02 PAT VOB
+立身 v -1 之 u Kd01 ATT FEAT LINK VOB rMANN
+科技 n Dk03 为 v Ih01 科技 n Dk03 含量 n Dn03 VOB
+严密 a Ed34 是 v Jd01 是 v Jd01 内容 n Dk10 DBL EXP
+胜利 v If21 之 u Kd01 LAD COO ATT FEAT eCOO mRELA
+胜利 v If21 之 u Kd01 LAD COO ATT FEAT mRELA
+立业 v Hc05 之 u Kd01 和 c Hh04 发展 v Ie12 COO ATT FEAT eCOO LINK VOB
+教育 vn Hg01 为 v Ih01 那么 c Kc08 现阶段 t Ca10 LINK VOB
+立国 v Hc05 之 u Kd01 强 Vg Eb04 国 n Di02 ATT dFEAT
+能 v Gc02 返 v Hf07 归真 v -1 他们 r Aa04 PAT VOB
+学生 n Ae13 为 v Ih01 建立 v Hc05 新型 b Dc01 LINK VOB
+立身 v -1 之 u Kd01 ATT FEAT LINK VOB rMANN
+科技 n Dk03 为 v Ih01 科技 n Dk03 含量 n Dn03 VOB
+严密 a Ed34 是 v Jd01 是 v Jd01 内容 n Dk10 DBL EXP
+胜利 v If21 之 u Kd01 LAD COO ATT FEAT eCOO mRELA
+胜利 v If21 之 u Kd01 LAD COO ATT FEAT mRELA
+立业 v Hc05 之 u Kd01 和 c Hh04 发展 v Ie12 COO ATT FEAT eCOO LINK VOB
+教育 vn Hg01 为 v Ih01 那么 c Kc08 现阶段 t Ca10 LINK VOB
+立国 v Hc05 之 u Kd01 强 Vg Eb04 国 n Di02 ATT dFEAT
+能 v Gc02 返 v Hf07 归真 v -1 他们 r Aa04 PAT VOB
+学生 n Ae13 为 v Ih01 建立 v Hc05 新型 b Dc01 LINK VOB

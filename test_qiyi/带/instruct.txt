@@ -1,0 +1,10 @@
+一,m,Ka16,次,q,Jb05,把,p,Hc10,人们,n,Aa01,回,v,Hi18,到,v,Hf08,那,r,Kc08,熟悉,v,Gb08
+铁人,n,Dd15,精神,n,Dk01,建,v,Hd01,班子,n,Dm07,队伍,n,Di10,创,v,Hc05,五好,j,-1,成为,v,Ih01
+一,m,Ka16,级,q,Bn10,一,m,Ka16,级,q,Bn10,一,m,Ka16,级,q,Bn10,一,m,Ka16,级,q,Bn10
+决定,v,Je09,名,q,Ja02,常委,n,Dm01,各,r,Ed61,一个,m,Dn08,工作组,n,Di09,分别,d,Ie09,负责,v,Ee27
+纳,v,Je14,国税,n,-1,在,p,Jd02,当地,s,Cb15,出,v,Jd07,了,u,Ig01,一,m,Ka16,支,q,Dn08
+人才,n,Al03,的,u,Bo29,传,v,Je03,帮,v,Hi36,作用,n,Df08
+坚持,v,Gb02,以,p,Di02,城,n,Bn07,乡,n,Cb25,以,p,Di02,乡,n,Cb25,促,v,Je06
+通过,p,Gb15,强,Vg,Eb04,班子,n,Dm07,队伍,n,Di10,促,v,Je06,工作,vn,Ae01,济宁市,ns,-1
+爱人,n,Aj17,爱人,n,Aj17,病故,v,Ib03,自己,r,Aa05,着,u,Dn08,一个,m,Dn08,上,v,Hj63,小学,n,Dm05
+后,f,Ai03,的,u,Bo29,苏丝蒂,nr,-1,现在,t,Ca10,着,u,Dn08,两,m,Dd05,个,q,Dn08,女儿,n,Ah14

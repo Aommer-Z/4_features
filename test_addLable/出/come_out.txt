@@ -1,0 +1,11 @@
+也,d,Kd03,最好,d,Ka02,选择,v,Hj25,早,a,L01,早,a,L01,回,v,Hi18,或,c,Kc01,晚,a,Ai03,1
+早,a,L01,回,v,Hi18,或,c,Kc01,晚,a,Ai03,晚,a,Ai03,归,v,Ja06,更,d,Ca30,是,v,Jd01,1
+和心,nz,-1,俱乐部,n,Dm07,这,r,Ca31,朵,q,Dn08,墙,n,Bn07,红,a,If03,杏,Ng,Bh07,必将,d,Ka15,1
+市民,n,Ad01,携,v,Fa07,家,n,Al02,而,c,Aa03,前往,v,Hj63,江南,s,Cb08,著名,a,Ed25,的,u,Bo29,1
+主任,n,Af10,梅,Ng,Bh13,春雪,nr,-1,为,p,Ih01,川,j,Be05,民工,n,Ae02,量,v,Gb03,血压,n,Dn03,1
+抢,v,Ie11,抓,v,Fa06,机遇,n,Ca04,东,f,Aj05,西进,v,-1,1
+被,p,Je13,关,v,Je01,在,p,Jd02,中间,f,Cb04,不,d,Ie01,去,v,Ca11,了,y,Ig01,1
+一个,m,Dn08,新,a,Ka12,品种,n,Dd06,快要,d,Ka13,圃,Ng,Bn12,了,y,Ig01,天,n,Cb07,突然,ad,Ka16,1
+吾,r,Aa02,所,u,Di09,食者,n,-1,乃是,v,Ja01,锅,n,Bp05,新,a,Ka12,食品,n,Br03,她,r,Aa04,1
+门前,s,Cb04,作,v,Jd07,片刻,m,Eb25,的,u,Bo29,尘,Ng,Bg08,之,u,Kd01,想,v,Gb06,1
+便,d,Bl04,呼,v,Fc10,之,r,Kd01,即,d,Ja01,了,y,Ig01,1

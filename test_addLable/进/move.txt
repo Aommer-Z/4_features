@@ -1,0 +1,15 @@
+六,m,Dn04,则,c,Dn08,黑方,n,-1,车,n,Hd05,车,n,Hd05,平,v,Jb01,3
+士,Ng,Al01,四,m,Dn04,五,m,Dn04,打,v,Gb05,死,v,Id20,黑车,n,-1,3
+红,a,If03,反败为胜,i,-1,帅,Ng,Ae10,五,m,Dn04,一,m,Ka16,炮,n,Bo27,退,v,Hi27,红,a,If03,3
+车,n,Hd05,车,n,Hd05,四,m,Dn04,平,v,Jb01,二,m,Jb02,3
+帅,Ng,Ae10,五,m,Dn04,一,m,Ka16,炮,n,Bo27,平,v,Jb01,车,n,Hd05,3
+一,m,Ka16,平,v,Jb01,二,m,Jb02,士,Ng,Al01,3
+红方,n,-1,如,v,Je12,炮,n,Bo27,二,m,Jb02,七,m,Dn04,象,Ng,Bi02,退,v,Hi27,红,a,If03,3
+红,a,If03,无法,v,Ga12,车,n,Hd05,三,m,Dn04,一,m,Ka16,吃,v,Je13,象,Ng,Bi02,因,c,Kc09,3
+兵,n,Ae10,七,m,Dn04,一,m,Ka16,马,n,Bi19,进,v,He03,马,n,Bi19,3
+七,m,Dn04,进,v,He03,一,m,Ka16,马,n,Bi19,马,n,Bi19,三,m,Dn04,进,v,He03,五,m,Dn04,3
+马,n,Bi19,进,v,He03,马,n,Bi19,三,m,Dn04,五,m,Dn04,车,n,Hd05,平,v,Jb01,3
+炮,n,Bo27,二,m,Jb02,八,m,Dn04,八,m,Dn04,象,Ng,Bi02,退,v,Hi27,3
+二,m,Jb02,平,v,Jb01,一,m,Ka16,象,Ng,Bi02,3
+车,n,Hd05,平,v,Jb01,车,n,Hd05,二,m,Jb02,二,m,Jb02,3
+不,d,Ie01,能,v,Gc02,逃,v,Je11,只好,d,Ka22,车,n,Hd05,吃,v,Je13,炮,n,Bo27,了,y,Ig01,3

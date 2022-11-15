@@ -1,0 +1,10 @@
+到,v,Hf08,了,u,Ig01,五,m,Dn04,个,q,Dn08,将,p,Ae10,精神文明,n,Dk01,创建,vn,Hc05,活动,vn,Di20,4
+地区,n,Cb08,结束,v,Ig01,了,u,Ig01,沙,n,Bm04,人,n,Ab02,退,v,Hi27,的,u,Bo29,历史,n,Dd01,4
+状态,n,Dc01,与,p,Je05,拓展,v,Id04,求,v,Hi25,中,f,Di02,新,a,Ka12,旧,a,Aj01,观念,n,Df01,4
+日本,ns,Cb25,经济,n,Di02,形势,n,Dc01,一,m,Ka16,一,m,Ka16,退,v,Hi27,扑朔迷离,i,Ed35,4
+的,u,Bo29,理想,n,Df10,而,c,Aa03,更,d,Ca30,一,m,Ka16,步,q,Dn08,4
+感悟,v,-1,趑趄,v,Ga11,犹豫,a,Ga11,欲,Vg,Jc05,不,d,Ie01,前,v,Cb04,者,k,Aa01,只,d,Dn08,4
+迭,Vg,Ka10,出,v,Jd07,巨轮,n,Bo22,竞,Ag,Ed19,4
+不,d,Ie01,如,v,Je12,和谐,ad,Ed37,共,d,He16,把,p,Hc10,战场,n,Cb12,变为,v,Ih01,赛场,n,Cb08,4
+从,p,Hi39,福州,ns,Cb25,国企,j,-1,看,v,Hi37,退,v,Hi27,4
+实行,v,Ie13,国,n,Di02,退,v,Hi27,民,Ng,Aa01,无疑,d,Ed01,是,v,Jd01,国有,vn,Ed55,资本,n,Dj04,4

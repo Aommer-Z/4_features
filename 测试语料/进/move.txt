@@ -1,0 +1,10 @@
+红方/n 如/c 改/v 走/v 马/n 七/m 退/v 六/m ，/w 则/c 黑方/n 车/n 3/m 进/v 1/m （/w 车/n 3/m 平/v 4/m ？/w 
+士/Ng 四/m 进/v 五/m ，/w 打/v 死/v 黑车/n ，/w 红/a 反败为胜/i ）/w ，/w 帅/Ng 五/m 进/v 一/m ，/w 炮/n 1/m 退/v 1/m ，/w 红/a 依然/z 难以/d 应付/v 黑方/n 的/u 攻势/n 。/w 
+车/n 8/m 进/v 1/m 23/m ．/w 车/n 四/m 平/v 二/m 车/n 3/m 退/v 2/m 
+24/m ．/w 帅/Ng 五/m 进/v 一/m 炮/n 1/m 平/v 7/m 25/m ．/w 车/n 二/m 平/v 三/m 炮/n 7/m 退/v 4/m 
+26/m ．/w 炮/n 一/m 平/v 二/m 士/Ng 4/m 进/v 5/m 
+现/v 黑方/n 上/v 士/Ng ，/w 红方/n 如/v 炮/n 二/m 进/v 七/m ，/w 象/Ng 5/m 退/v 7/m ，/w 红/a 无法/v 车/n 三/m 进/v 一/m 吃/v 象/Ng ，/w 因/c 黑/a 可/v 马/n 7/m 退/v 8/m 吃掉/v 红/a 炮/n ，/w 红方/n 对/p 黑/a 的/u 底线/n 牵制/v 全/d 失/v 。/w 
+27/m ．/w 兵/n 七/m 进/v 一/m 马/n 3/m 进/v 5/m 28/m ．/w 马/n 三/m 进/v 五/m 车/n 3/m 平/v 5/m 
+29/m ．/w 炮/n 二/m 进/v 八/m 象/Ng 5/m 退/v 7/m 30/m ．/w 炮/n 二/m 平/v 一/m 象/Ng 3/m 进/v 5/m 
+车/n 2/m 平/v 3/m 22/m ．/w 车/n 二/m 进/v 二/m 
+红/a 马/n 不/d 能/v 逃/v ，/w 只好/d 进/v 车/n 吃/v 炮/n 了/y 。/w 

@@ -1,0 +1,19 @@
+入境 v Hj64 盗 Vg An03 边民 n Aa01 牲畜 n Bi01 COO eSUCC
+入境 v Hj64 盗 Vg An03 边民 n Aa01 牲畜 n Bi01 COO eSUCC 总计 v He16 盗 Vg An03 牲畜 n Bi01 头 q Bk02 COO eSUCC
+番 q Dn08 被 p Je13 下 v Ia03 台 n Bp26 CMP COO ADV MEAS LOC FOB Root PAT HED mRELA mDEPD
+把 p Hc10 羊群 n -1 下 v Ia03 公路 n Bn11 CMP COO ADV AGT PAT LOC eSUCC mRELA mDEPD
+一部分 m Eb02 牛 n Bi06 出 v Jd07 公路 n Bn11 CMP COO ADV PAT LOC eSUCC mDEPD
+追 v Hg14 牛群 n -1 了 u Ig01 一阵 m Dn09 CMP COO TIME RAD eSUCC mDEPD
+开罗 ns Cb25 小贩 n Ae09 着 u Dn08 一群群 m -1 COO ADV SBV CONT Root AGT VOB RAD HED eSUCC mDEPD
+用车 n -1 以 c Di02 在 p Jd02 加入 v Hj19 CMP COO ADV VOB
+手段 n Df09 力争 v Je12 在 p Jd02 春防 j -1 CMP dCONT VOB eSUCC
+征地 v He10 亩 q Dn10 在 p Jd02 清明 t Ca24 CMP COO ADV TIME eSUCC
+向 p Cb01 现场 s Cb28 去 v Ca11 指导员 n Ae10 CMP ADV VOB mDEPD
+父母 n Ah04 专门 d Ka20 到 v Hf08 会场 n Cb28 CMP COO ADV SBV MANN AGT LOC mDEPD
+急急忙忙 z Ef06 地 u Di09 了 u Ig01 过来 v Jd08 CMP COO ADV MANN AGT RAD eSUCC mRELA mDEPD
+的 u Bo29 更新 v Ih12 不 d Ie01 上 v Hj63 CMP ADV SBV REAS EXP CONT Root VOB HED mRELA mDEPD
+又 d Kc02 怕 v Ga16 出 v Jd07 病 n Ib10 CMP dCONT VOB RAD LOC mDEPD
+里 q Dn10 外 f Ae17 COO ADV AGT LOC eSUCC
+摸 v Fa01 黑 a Ed45 了 u Ig01 五十 m -1 COO AGT VOB RAD LOC eSUCC mDEPD
+村民 n Ae07 们 k Aa01 到 v Hf08 时 Ng Ca30 CMP ATT SBV AGT dTIME mDEPD
+湖北省 ns Di02 大悟县 ns -1 去 v Ca11 广州 ns Cb25 CMP rAGT COO ATT ADV RAD LOC eSUCC mDEPD

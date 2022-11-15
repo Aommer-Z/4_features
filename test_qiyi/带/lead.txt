@@ -1,0 +1,10 @@
+一个,m,Dn08,周末,t,Ca22,我,r,Aa05,儿子,n,Ah14,于,p,Kb05,黄昏,t,Ca29,时分,n,Ca04
+一直,d,Ka25,俭朴,a,Ee26,春节,t,Ca25,只,d,Dn08,家人,n,Ah01,看,v,Hi37,场,q,Dn09,电影,n,Dk29
+过,v,Je09,春节,t,Ca25,时,Ng,Ca30,有的,r,Eb02,上,v,Hj63,老老少少,n,-1,一家子,n,Di05,有的,r,Eb02
+年,t,Ca18,月,t,Bd02,陈,nr,Hi13,忠,nr,Ee06,团,n,Bb04,出国,v,Hf04,考察,v,Hc18,途经,v,Hf06
+对,q,Fc04,荷兰,ns,Di02,夫妇,n,Ah08,特意,d,Ka20,着,u,Dn08,他们,r,Aa04,收养,v,Hi38,的,u,Bo29
+士气,n,De03,试图,v,Gb05,把,p,Hc10,部队,n,Di11,出,v,Jd07,开阔地,n,-1,转移,v,Ih02,到,v,Hf08
+我,r,Aa05,总,d,Ae10,会,v,Hi05,你们,r,Aa03,去,v,Ca11,中国,ns,Di02,过过,v,-1
+作陪,v,Hi05,当时,t,Ca31,布拉托维奇,nr,-1,没有,d,Jd08,任何,r,Eb02,随从,n,Af02
+澳门,ns,Di02,居民,n,Ad01,携,v,Fa07,家,n,Al02,小,a,Ah08,赴,v,Hj63,祖国,n,Di02,内地,s,Cb11
+他,r,Aa04,每年,r,Ca18,都,d,Cb25,要,v,Ag04,着,u,Dn08,子孙,n,Ai03,们,k,Aa01,上山,v,Hj62

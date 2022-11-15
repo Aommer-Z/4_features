@@ -1,0 +1,306 @@
+从 p Hi39 塔身 n -1 喷射 v Id10 而 c Aa03 在 p Jd02 夜空 n Cb07 中 f Di02 竞相 d Ka23
+自来水 n Bg01 龙头 n Bo25 喷涌 v -1 而 c Aa03 时 Ng Ca30 乡亲 n Ad03 们 k Aa01 欣喜若狂 i Ga01
+上 f Hj63 长 a Ih05 桥 n Bn11 迭 Vg Ka10 巨轮 n Bo22 竞 Ag Ed19 进 v He03
+人物 n Aa01 就 d Kb04 跃然 v Fb02 而 c Aa03 胡须 n Bk12 可 v Ka01 多 a Ih05 达 v Je12
+不足 a Dd02 酒 n Br12 的 u Bo29 香气 n Ec07 不 d Ie01 来 v Ca03
+广告 n Dk14 一 d Ka16 商家 n -1 云集 v Ie10 这里 r Cb30 现已 d -1
+杲杲 n Eb18 冬日 t Bd02 照 v Hh03 我 r Aa05 屋 n Bn01 南 f Cb02
+小伙子 n Ab03 一 m Ka16 箭 n Bo29 刚 d Bf02 靶子 n Bo29 周围 f Cb06 响起 v Ia08 喊声 n Bg07
+日 q Di02 的 u Bo29 雨雪 n -1 霏霏 z -1 了 u Ig01 太阳 n Bg03
+冲开 v Fd08 瓶盖 n -1 喷涌 v -1 而 c Aa03 的 u Bo29 香槟 n -1 和 c Hh04 大小 n Ab02
+江山 n Di02 代 v Dn08 有 v Jd07 才人 n Af07 以 p Di02 尹 nr Dd15 丽丽 nr -1 兰 nr Bh02
+江山 n Di02 代 v Dn08 有 v Jd07 才人 n Af07
+法令 n Di25 一 d Ka16 顿 Dg Hg11 起 v Kd02 轩然大波 i Da01
+是 v Jd01 政策性 n Dd01 利好 n -1 频 Ag Ka10
+娴熟 a Ee22 地 u Di09 流淌 v Id11 而 c Aa03 时 Ng Ca30 听众 n Aj06 将 d Ae10 会 v Hi05
+他 r Aa04 提醒 v Hg02 读者 n Aa01 血点 n -1 与 c Je05 淤斑 n Dl01 是 v Jd01
+姑姑 n Ah06 你 r Aa03 来 v Ca03 一下 m Dn08 他们 r Aa04 想 v Gb06
+我 r Aa05 去 v Ca11 这些 r Ed61 素不相识 i Ed31 的 u Bo29
+已 d Ig02 久 a Ea01 因此 c Kc09 一 d Ka16 内罗毕机场 ns -1 我 r Aa05 就 d Kb04 找 v Hj57
+后 f Ai03 分钟 q Ca30 内 f Ah08 警车 n Bo21 所 n Di09 大门 n Bn04 不 d Ie01 让 v Je04
+立即 d Ka08 与 p Je05 派出所 n Dm02 联系 v Ie02 警 Ng Ae12 事宜 n Da01 接 v Hi05 报警 vn Hi15
+拍戏 v -1 拖拖拉拉 z Ee24 半 m Cb04 天 q Cb07 不 d Ie01 了 v Ig01 门 n Dn08 到 v Hf08
+你 r Aa03 可以 v Gc02 进 v He03 花店 n -1 工艺品 n Ba02 店 n Dm04 累 v L04 了 u Ig01
+得 v Ib10 了 u Ig01 肝炎 n Dl01 四 m Dn04 求医 v Hg20 我们 r Aa02 大家 r Al02 忙于 v Ef06
+莒国 ns -1 古城 n Cb25 沿 p Be03 潍河 ns -1
+企业 n Dm03 人 n Ab02 难进 v -1 难 ad Da10 一 m Ka16 次 q Jb05 分配 v He05 定 v Hc14
+一 d Ka16 机场 n Cb08 凭 p Fd02 预订号 n -1 就 d Kb04
+当然 d Ka32 有 v Jd07 得 v Ib10 有 v Jd07 进 v He03 积极 ad Ee23
+增加 v Ih05 进口 vn He01 推动 v Je06 进 v He03 结合 v Ie02 也 d Kd03 是 v Jd01 扩大 v Ih03
+的 u Bo29 人员 n Aa01 和 c Hh04 期满 v Ie16 站 n Cb26 不 d Ie01 超过 v Je09 年 q Ca18
+的 u Bo29 是 v Jd01 儿子 n Ah14 没 d Jd08 过 u Je09 远门 n Hf04 分别 d Ie09 给 p Je05
+未 d Ka18 见 v Jd06 什么 r Ba10 血 n Bl02 主 Vg Dd09 刀 n Bo09
+从 p Hi39 刀口 n Bo09 处 n Dn08 夹 v Bo12 了 u Ig01 青白色 n -1 的 u Bo29 牛胆 n -1
+孙 nr Ah17 膑 nr -1 庞 nr -1 涓皆 nr -1 其 r Aa04 门下 n Af09
+接 v Hi05 不 d Ie01 通 a Al02 各省 r Di02 省 n Hi02 的 u Bo29 话单 n -1 积压 v Ie02
+集团 na Hj30 同年 d Aj04 又 d Kc02 东 f Aj05 山海关 ns Cb25 收购 v He03 辽宁 ns Di02 本溪 ns Cb25
+做到 v Ie14 了 u Ig01 大事 n Da01 不 d Ie01 坊 Ng Dm03 小事 n Da01 不 d Ie01 出 v Jd07
+出 v Jd07 坊 Ng Dm03 小事 n Da01 不 d Ie01 楼 n Bn01 为 p Ih01 社区 n -1 依法 d Hi39
+刀子 n Bo09 进 v He03 红 a If03 刀子 n Bo09
+不通 a Id20 内 f Ah08 货 n Aa01 不 d Ie01 外货 n Ba04 不 d Ie01 入 v Jc01
+了 u Ig01 这 r Ca31 座 q Bd01 别墅 n Bn02
+通道 n Cb27 启动 v Ig01 以来 f Ca11 每日 r Ca23 岛 n Be02 的 u Bo29 瓜 n Bh07 菜 n Bh09
+北京西站 ns -1 时 Ng Ca30 铁路 n Bn11 公安 n Di08
+江底 n -1 一 m Ka16 片 q Bb04 降 v Ih05 石头 n Bm04
+后 f Ai03 第三 m Dn04 天 q Cb07 就 d Kb04 了 u Ig01 院 Ng Dm06
+的 u Bo29 漂亮 a Ed03 是 v Jd01 清水 n Bg01 芙蓉 n Bh02 天然 b Ed51 去 v Ca11 雕饰 v -1
+千岛湖 ns -1 后 f Ai03 每当 p Kb01 我 r Aa05 远门 n Hf04 前 f Cb04 我 r Aa05 母亲 n Ah04
+了 u Ig01 轮椅 n Bp26 我 r Aa05 能 v Gc02 家门 n Bn04 了 y Ig01
+疆 j -1 旅游者 n Ag10 增多 v Ih05
+发现 v Gb08 她 r Aa04 这个 r Ed61 刚 d Bf02 校门 n Bn04 没 v Jd08 几 m Bp26 天 q Cb07
+主场 n -1 让 v Je04 上海 ns Cb25 东方队 nt -1 了 u Ig01 一 m Ka16 身 q Aa02 冷汗 n Bl01
+你 r Aa03 批发 v He03 的 u Bo29 染发剂 n -1 点 q Cb08 汗 n Bl01 就 d Kb04 成 v Ih01
+渗出 v -1 从而 c Kc09 导致 v Je04 身体 n Bk01 皮疹 n Dl04 荨麻疹 n Dl01 以及 c Kc01 瘙痒 a -1
+能 v Gc02 叫 v Bg07 人 n Ab02 长 a Ih05 一 m Ka16 口 q Dn08 气 n Bg06
+执法 vn Di25 人员 n Aa01 还 d Hi27 口 n Dn08 秽语 n Dk11
+为 p Ih01 节省 v He13 体力 n Dd14 少 d He15 汗 n Bl01 外出 v Hf04 时 Ng Ca30 带 v Jd04
+头晕 v Ib15 眼花 v Ib15 虚汗 n Bl01 死神 n Dh01 一步步 m -1 向 p Cb01
+都 d Cb25 不 d Ie01 敢 v Gc01 乱 d Ga07 声 n Dn08
+胸 Ng Bk05 闷 a Ga02 虚汗 n Bl01 直 d Id04 两 m Dd05 腿 n Bk08 无力 v Eb37 吃 v Je13
+时 Ng Ca30 企业 n Dm03 集团 n Hj30 没 d Jd08 一 m Ka16 分 q Dn10 钱 n Dj03 购并 v -1
+十 m Dn04 分 q Dn10 劲 n Df12 绝不 d Ka18 九 m Ca20 分 q Dn10
+了 u Ig01 国家 n Di02 又 d Kc02 自己 r Aa05 钱 n Dj03 出 v Jd07 房 n Bn03 办 v Bn03
+又 d Kc02 自己 r Aa05 出 v Jd07 钱 n Dj03 房 n Bn03 办 v Bn03 起 v Kd02 了 u Ig01
+的 u Bo29 兴趣 n Df12 并 c Kc06 愿 v Gc01 高价 n Dj02 购买 v He03
+上 f Hj63 协同 v Ka23 福州市 ns Cb25 再 d Ig04 地 n Di09 亩 q Dn10 扩大 v Ih03 总队 n Di10
+二 m Jb02 尽管 c Kc10 个人 n Aa02 只 d Dn08 了 u Ig01 一部分 m Eb02 订报费 n -1 但 c Kc03
+集体 n Di10 和 c Hh04 群众 n Aa01 各 r Ed61 一点 m Bb02 有力 a Ed19 地 u Di09 调动 v Hc03
+各级 r Ed61 检察 b Hc19 机关 n Da01 主动 ad Ee23 人 n Ab02 为 p Ih01 金融 n Di18 部门 n Di09
+她 r Aa04 的 u Bo29 竞选 vn Hc23 基金 n Di10
+寻 v Hj40 名师 n Al02 找 v Hj57 名校 n -1 高价 n Dj02 读 v Hg10 课外 t Ed53 班 n Dn08
+这 r Ca31 是 v Jd01 指 v Hg02 老百姓 n Aa01 得 u Ib10 最 d Ka02 冤 a If02 却 d Hb13
+年 q Ca18 这种 r -1 钱 n Dj03 农民 n Ae07 得 u Ib10 最 d Ka02 多 a Ih05 这 r Ca31
+一 m Ka16 分钱 q -1 要 v Ag04 人 n Ab02 人 n Ab02 要 v Ag04 文件 n Dk17 出 v Jd07
+出 v Jd07 人 n Ab02 要 v Ag04 文件 n Dk17 文件 n Dk17 要 v Ag04 政策 n Di09 给 v Je05
+俱乐部 n Dm07 的 u Bo29 总经理 n Di16 并 c Kc06 巨资 n Dj04 帮助 v Hi36 球队 n Di10 夺得 v Je12
+所有制 n Di09 单位 n Di09 以 p Di02 专利权 n Di21 质 Ng Ag09 的 u Bo29 须 d Bk12 经 p Je14
+或 c Kc01 个人 n Aa02 向 p Cb01 外国 n Di02 质 Ng Ag09 专利权 n Di21 的 u Bo29 须 d Bk12
+要 v Ag04 由 p Hf06 国家 n Di02 财政 n Da01 绝对 d Ka32 不 d Ie01 能 v Gc02 接受 v Je14
+湖州 ns -1 三讲 j -1 教育 v Hg01 实招 n Df09 下 v Ia03 真 a Ka30 功 n De04
+四处 d Cb09 活动 v Di20 并 c Kc06 愿意 v Gc01 万 m Dn04 元 q Ah08 资助 v Hi36 检察院 n Dm02
+艾滋病 n Dl01 艾滋病 n Dl01 艾滋病 n Dl01 南非 ns Di02 怪 a Hi21 招 n Hc24
+班子 n Dm07 力 n De04 没 d Jd08 少 a He15 路 n Dn08 没 d Jd08 少 a He15 跑 v Ia10
+周 Ng Ca22 活动 vn Di20 中 f Di02 支局 n -1 技术 n De04 人员 n Aa01 指导 v Hg02 这些 r Ed61
+银行 n Dm04 各 r Ed61 招 n Hc24
+都市 n Cb25 旅游 vn Hj48 套餐 n -1
+每月 r Ca21 元 q Ah08 由 p Hf06 他 r Aa04 还 d Hi27 是 v Jd01 让 v Je04 两 m Dd05
+奢望 v Df08 老人 n Ai02 无奈 d Ga12 才 d If03 此 r Cb30 下策 n Df09
+多少 r Ka05 实事 n Da01 为 p Ih01 基层 n Di16 了 u Ig01 多少 r Ka05 条 q Bh10 好 a Je10
+次 q Jb05 收费 v He10 一 m Ka16 次 q Jb05 证 Ng Ja04 放行 v Fb01
+银行 n Dm04 窃贼 n An03 又 d Kc02 鬼 a Aa01 招 n Hc24
+转 v Ih02 股 n Bk08 的 u Bo29 政策 n Di09 在 p Jd02 去年 t Ca18 但 c Kc03 发挥 v Hi14
+到 p Hf08 群众 n Aa01 都 d Cb25 在 d Jd02 高招 n Df09 想 v Gb06 办法 n Db09 从 p Hi39
+大部分 m Eb02 牲畜 n Bi01 也 d Kd03 没有 d Jd08 问题 n Dd09
+长城站 ns -1 的 u Bo29 柴油 n Bm10 发动机 n Bo01 了 u Ig01 故障 n Da15
+黑海 ns -1 上空 s Cb07 遇到 v Id18 取暖器 n Bp34 故障 n Da15 的 u Bo29 问题 n Dd09 可能 v Gc02
+没有 d Jd08 少 d He15 交 v Hi27 问题 n Dd09 在 p Jd02 中间 f Cb04 环节 n Dd05
+合格 vn Dn07 材料 n Al03 一般 ad Jb03 不会 v Gc02 大 a Ah05 问题 n Dd09
+它 r Ba10 意味 v Df13 着 u Dn08 每年 r Ca18 故障 n Da15 的 u Bo29 时间 n Ca03 只 d Dn08
+拍摄 v Hh03 成功 a If22 还要 v Gc03 不 d Ie01 事故 n Da01 其实 d Ka30 就 d Kb04 和 p Hh04
+这个 r Ed61 总 b Ae10 开关 n Bo04 上 f Hj63 了 u Ig01 问题 n Dd09
+了 u Ig01 立法 vn Hc05 官司 n Da01 应当 v Gc03
+如果 c Kc08 我们 r Aa02 的 u Bo29 错案 n Da03 对 p Fc04 老百姓 n Aa01
+继续 v Ig03 前进 v Ie12 还 d Hi27 可能 v Gc02 问题 n Dd09
+了 u Ig01 成立 v Hc05 以来 f Ca11 从未 d Ka18 安全 an Ef08 安全 an Ef08 安全 an Ef08 安全 an Ef08
+下回分解 l -1 到底 d Ka31 哪个 r Aa06 环节 n Dd05 了 u Ig01 纰漏 n Da15 且 c Kc02 不 d Ie01
+的 u Bo29 信息 n Da19 谬误 n Da15 百 m Dn04 二 m Jb02 是 v Jd01 双重 b Ka14 标准 n Dd11
+都 d Cb25 难免 v Ka30 有 v Jd07 疏漏 n He15 差错 n Da15
+问题 n Dd09 之三 r -1 是 v Jd01 在 p Jd02 我们 r Aa02 教育 vn Hg01 的 u Bo29
+一个 m Dn08 小型 b Dc01 气体 n Bg05 推进器 n Ba05 了 u Ig01 毛病 n Di20 差 a Jb05 一点 m Bb02
+谁 r Aa06 问题 n Dd09 谁 r Aa06 担 v Dn10 责任 n Di22
+团体 n Di10 多 m Ih05 个 q Dn08 没有 d Jd08 过 u Je09 一 m Ka16 起 q Kd02 安全 a Ef08
+完全 ad Ka06 是 v Jd01 企业家 n Dd15 决策 v Dk13 了 u Ig01 岔子 n Cb27 而 c Aa03 恰恰 d Ka26
+大略 n Ka17 方针 n Di09 上 f Hj63 不 d Ie01 大 a Ah05 错 v Id19 客观 a Ed13 形势 n Dc01
+错 v Id19 客观 a Ed13 形势 n Dc01 不 d Ie01 什么 r Ba10 意外 a Ka16 普京 nr -1 将 d Ae10
+仍 d Kb07 是 v Jd01 一个 m Dn08 易 a Jc07 故障 n Da15 的 u Bo29 时间 n Ca03 因为 p Kc09
+开始 v Ig01 上升 v Ih06 问题 n Dd09 多 d Ih05 在 p Jd02 这样 r Ka34 一些 m Eb02 环节 n Dd05
+若 c Aa03 不 d Ie01 懂 v Gb08 这些 r Ed61 了 u Ig01 笑话 n Hi40 就 d Kb04 不 d Ie01
+她 r Aa04 不要 d Gc03 分心 v Ga13 不要 d Gc03 差错 n Da15
+在 p Jd02 大年初一 t Ca25 晚上 t Ca29 电路 n Cb27 了 u Ig01 毛病 n Di20 电饭煲 n Bp05 不好 a If03
+练习者 n -1 思想 n Gb01 转化 v Ih02 易 a Jc07 反复 v Ig04 的 u Bo29 特点 n Dd04 采取 v Hj28
+正常 ad Ed43 到位 v Ie14 问题 n Dd09 大多 d Ka05 在 p Jd02 乡镇 n Cb25 一 m Ka16 级 q Bn10
+上 f Hj63 抓 v Fa06 人 n Ab02 要是 c Kc08 了 u Ig01 什么 r Ba10 问题 n Dd09 后遗症 n Dl01
+为 p Ih01 避免 v Je11 再 d Ig04 意外 an Ka16 今天 t Ca23 中午 t Ca28 把 p Hc10
+绣 v Hj41 挺拔 a Ed22 的 u Bo29 胡须 n Bk12
+有时 d Ka16 她 r Aa04 也 d Kd03 表现 v Jd06 极端 a Ka02 的 u Bo29 肃穆 an Ef11 与 c Je05
+打开 v Hc05 思路 n Df01 连夜 d Ca29 写 v Hi13 了 u Ig01 大理 ns -1 采风 vn Fc04 一 m Ka16
+市场 n Cb28 引发 v Je04 思考 v Gb01 悟 Vg Ga08 道理 n Db06 以至 c Kb02 求得 v Gb04 答案 n Dk03
+贯彻 v Ie14 落实 v Ga09 十五大 j -1 提 v Hi27 的 u Bo29 各项 r Dn08 任务 n Di22 的 u Bo29
+尽早 d Ka08 回应 v -1 我们 r Aa02 提 v Hi27 的 u Bo29 在 p Jd02 一个 m Dn08 中国 ns Di02
+贯彻 v Ie14 落实 v Ga09 十五大 j -1 提 v Hi27 的 u Bo29 各项 r Dn08 任务 n Di22 的 u Bo29
+尽早 d Ka08 回应 v -1 我们 r Aa02 提 v Hi27 的 u Bo29 在 p Jd02 一个 m Dn08 中国 ns Di02
+世事 n Da01 人情 n Ba07 才 c If03 画 v Hg19 那么 r Kc08 多 a Ih05 惊世骇俗 i -1 的 u Bo29
+组织 v Hc03 成立 v Hc05 挖掘 v Fa10 整理 v Hj35 失传 v Jd08 多年 m Eb24 的 u Bo29 临川 ns -1
+此 r Cb30 我 r Aa05 愿 v Gc01 提 v Hi27 三 m Dn04 点 q Cb08 意见 n Df14 和 c Hh04
+海 n Bp07 的 u Bo29 深处 s Cb05 揭示 v Hc11 一幕幕 m -1 相互 d Ka23 缠绕 v Ie02 纠结 v Id24
+想 v Gb06 要 v Ag04 从中 d Ka23 悟 Vg Ga08 一些 m Eb02 人生 n Da17 哲理 n Db06 满足 v Jc05
+的 u Bo29 眼前 t Cb04 立时 d Ka08 幻化 v Ih01 这样 r Ka34 的 u Bo29 景象 n Dc02
+听 v Hi39 得 u Ib10 对于 p Kb04 客人 n An07 的 u Bo29 赞许 vn Hi40
+访问 vn Hi02 过程 n Da05 中 f Di02 写 v Hi13 了 u Ig01 情意 n Df05 深切 a Ed16 的 u Bo29
+的 u Bo29 知识经济 n -1 能否 v Gc02 浮 v Jd06 水面 n Bc02
+和 c Hh04 严峻 a Ee36 时代 n Ca03 锤炼 v Hg14 的 u Bo29 坚强 a Ee12 而 c Aa03 又 d Kc02
+眼睛 n Bk03 里 f Dn10 立刻 d Ka08 迸发 v Id10 晶莹 a Eb19 的 u Bo29 光芒 n Bg03
+墓碑 n Bn22 眼前 t Cb04 又 d Kc02 浮现 v Jd06 那位 r -1 满头 n Bk02 白发 n Bk11 双 m Dn08
+文化 n Dk02 积淀 v -1 它 r Ba10 养育 v Hg07 蒲 nr Dd15 松龄 nr -1 这样 r Ka34 的 u Bo29
+将 p Ae10 人间 n Di01 丑类 n Ak03 榨 v Fa05 森森 z Eb04 鬼气 n -1 由此 d Kb06 表达 v Hi14
+领域 n Cb13 我们 r Aa02 已经 d Ka12 显示 v Ja04 非凡 z Ed04 的 u Bo29 才智 n De04
+世界 n Di14 核裁军 n -1 方面 n Cb01 表现 v Jd06 松动 vn Ef14 和 c Hh04 退缩 vn Hj67
+的 u Bo29 走路 vn Fb01 姿态 n Dc04 透露 v Hi14 疲倦 an Ic06 没有 v Jd08 表情 n Dc04 的 u Bo29
+修理连 n -1 官兵 n Ae10 捐 v Hi26 元 q Ah08 津贴费 n -1 打算 v Gb05 给 p Je05
+专家 n Al02 评奖 v Hc20 就要 d Ka13 评 v Hc20 全国性 n Dd05 的 u Bo29 专家 n Al02 的 u Bo29
+干部 n Ae01 职工 n Ae01 被 p Je13 清 v Gb08 邮电 n Di18 被 p Je13 拆 v Ib08 成 v Ih01
+严格 ad Ee36 考核 v Hc20 年 t Ca18 评选 v Hc23 第一 m Ka09 批 q Hi21 四有 j -1 职工 n Ae01
+在 p Jd02 标签 n Dk15 上 f Hj63 标 v Hg13 产地 n Cb08 及 c Je12 年份 n Ca18
+一个 m Dn08 更 d Ca30 好 a Je10 的 u Bo29 人 n Ab02 出 v Jd07 戏 n Dk29 的 u Bo29
+好 a Je10 的 u Bo29 出 v Jd07 人 n Ab02 戏 n Dk29 的 u Bo29 环境 n Da21 和 c Hh04
+容易 a Jc07 我们 r Aa02 要 v Ag04 多 d Ih05 质量 n Dd12 过硬 a Ed03 的 u Bo29 产品 n Dj06
+老话 n Dk11 说 v Hi34 穷山恶水 i Ef14 刁民 n Aa01 没想到 l Gb03 如今 t Ca10 山清水秀 i Ee31
+山清水秀 i Ee31 的 u Bo29 浙江 ns Di02 也 d Kd03 刁民 n Aa01
+世界 n Di14 医药业 n -1 将 d Ae10 新 a Ka12 老大 n Ae03
+煤粉 n -1 有的 r Eb02 忙 v Ef06 着 u Dn08 焦炭 n Bm08 呛 v Id17 人 n Ab02 的 u Bo29
+效率 n Eb23 提高 v Ih10 去年 t Ca18 多 d Ih05 油 n Hd03 万 m Dn04 多 m Ih05 吨 q Dn10
+四川 ns Di02 了 u Ig01 个 q Dn08 邓 nr Dd15 小平 nr -1
+人员 n Aa01 在 p Jd02 检查 v Hc22 新 d Ka12 的 u Bo29 产品 n Dj06
+民族 n Di04 这 r Ca31 正是 v Ka26 它 r Ba10 人才 n Al03 的 u Bo29 原因 n Db01
+枸酱酒 n -1 问 v Hi18 南越王 n -1 酒 n Br12 何方 r Cb30 南越王 n -1 告诉 v Hi15 他 r Aa04
+南越王 n -1 告诉 v Hi15 他 r Aa04 酒 n Br12 夜郎 ns -1
+行行出状元 i -1 各行各业 l Di18 都 d Cb25 能 v Gc02 名人 n Af11
+你们 r Aa03 不光 c Kc05 要 v Ag04 多 v Ih05 木材 n Bm03 出 v Jd07 好 a Je10 木材 n Bm03
+要 v Ag04 多 v Ih05 出 v Jd07 木材 n Bm03 好 a Je10 木材 n Bm03 支援 v Hi36 国家 n Di02
+人 n Ab02 喜 v Da01 称为 v Ja02 当天 t Ca23 小样 n Dc01 隔天 t -1 上 v Hj63 市场 n Cb28
+降低 v Ih06 伐 v Hi19 根 n Bh11 多 v Ih05 木材 n Bm03 马 nr Bi19 永顺 nr -1 就 d Kb04
+长期以来 l Ca06 大学 n Dm05 是 v Jd01 人才 n Al03 和 c Hh04 出 v Jd07 思想 n Gb01
+是 v Jd01 出 v Jd07 人才 n Al03 和 c Hh04 思想 n Gb01 的 u Bo29 地方 n Cb15
+过去 v Ca11 的 u Bo29 千年 t -1 中 f Di02 了 u Ig01 不少 m Eb01 经济学 n Dk03 大师 n Am01
+井 n Bn15 无 v Jd08 压力 n Dd14 不 d Ie01 油 n Hd03 人 n Ab02 无 v Jd08 压力 n Dd14
+本 n Ed61 北京 ns Di03 出版社 na Dm07 年 t Ca18 齐 a Je12 当年 t Ca31 又 d Kc02 出 v Jd07
+出 v Jd07 齐 a Je12 当年 t Ca31 又 d Kc02 修订 vn Hg18 第二 m Dn04 版 n Bo17 也 d Kd03
+实施 v Ie13 精品 n Ba04 战略 n Df09 优化 v Ed03 书 n Hg11 结构 n Dd06 积极 ad Ee23 推进 v Je06
+二三十 m -1 岁 q Ca18 的 u Bo29 播音员 n Ae01 了 u Ig01 本 q Ed61 书 n Hg11 自称 v Ja02
+历史 n Dd01 以 p Di02 演义 n Dk25 形式 n Dc01 之 r Kd01 既 c Kc04 可以 v Gc02 提高 v Ih10
+国家 n Di02 体育 n Di09 总局 n Dm04 拟 v Hg16 的 u Bo29 年 t Ca18 体育 n Di09 改革 vn Ha04
+新华 nz -1 字典 n Dk20 了 u Ig01 大字 n Dk05 本 n Ed61
+了解 v Hi24 新华 nz -1 字典 n Dk20 已 d Ig02 过 u Je09 九 m Ca20 版 n Bo17 发行 v He03
+多 v Ih05 内容 n Dk10 健康 a Ed43 向上 v Ie12 艺术 n Db09
+高 a Eb04 的 u Bo29 作品 n Dk19 多 v Ih05 思想性 n Dd01 强 a Eb04 有 v Jd07 重要 a Ed28
+价值 n Dj02 的 u Bo29 作品 n Dk19 多 v Ih05 宣传 v Hc12 科学 n Dk03 知识 n Dk02 科学 n Dk03
+他 r Aa04 特别 d Ka20 强调 v Gb21 书 n Hg11 要 v Ag04 考虑 v Gb01 人民 n Aa01
+音像 n Dk28 出版 vn Hd13 单位 n Di09 多 v Ih05 优秀 a Ed03 音像 n Dk28 制品 n Ba04 经 p Je14
+十万 m Dn03 个 q Dn08 为什么 r Ka35 听说 v Fc05 了 u Ig01 新版 b -1 的 u Bo29 特意 d Ka20
+出版 vn Hd13 部门 n Di09 要 v Ag04 多 d Ih05 有利于 v Je10 学生 n Ae13 全面 ad Ed11 发展 v Ie12
+岁月 n Ca03 已 d Ig02 于 p Kb05 年 t Ca18 齐 a Je12 成为 v Ih01 世界 n Di14 各国 r Ed61
+名人 n Af11 书 n Hg11 与 c Je05 谁 r Aa06 靠 v Hf08
+近来 t Ca11 名人 n Af11 书 n Hg11 一 m Ka16 事 n Hi37 好像 v Jb03
+有 v Jd07 之 u Kd01 为 p Ih01 名人 n Af11 书 n Hg11 提供 v Jc05 理论 n Dk02 根据 n Kb07
+出马 v Hi17 为 p Ih01 自己 r Aa05 的 u Bo29 书 n Hg11 权利 n Di21 而 c Aa03 辩护 v Hi41
+名人 n Af11 书 n Hg11 怎么 r Kc12 啦 y Kd03
+非 Vg Hi21 名人 n Af11 想 v Gb06 书 n Hg11 还 d Hi27 出 v Jd07 不 d Ie01
+想 v Gb06 出 v Jd07 书 n Hg11 还 d Hi27 不 d Ie01 来 v Ca03 呢 y Bq02
+至于 v Kb04 名人 n Af11 书 n Hg11 更 d Ca30 是 v Jd01 势所必至 l -1
+是 v Jd01 名人 n Af11 了 y Ig01 不 d Ie01 上 v Hj63 几 m Bp26 本 q Ed61 书 n Hg11
+所以 c Kc09 对 p Fc04 名人 n Af11 书 n Hg11 包括 v Jd05 所谓 v Ja02 的 u Bo29
+所谓 v Ja02 的 u Bo29 文化 n Dk02 名人 n Af11 书 n Hg11 我 r Aa05 是 v Jd01 赞成 v Gb15
+不过 c Kc03 名人 n Af11 书 n Hg11 特别 d Ka20 是 v Jd01 文化 n Dk02
+特别 d Ka20 是 v Jd01 文化 n Dk02 名人 n Af11 书 n Hg11 近 a Ca02 两 m Dd05 年 q Ca18
+议论 v Hc14 一下 m Dn08 名人 n Af11 和 c Hh04 书 n Hg11 的 u Bo29 关系 n Db01 问题 n Dd09
+如前所述 l -1 名人 n Af11 书 n Hg11 不 d Ie01 应该 v Gc03 成为 v Ih01
+成为 v Ih01 问题 n Dd09 文化 n Dk02 名人 n Af11 书 n Hg11 更 d Ca30 是 v Jd01 名正言顺 i Ed13
+文化 n Dk02 名人 n Af11 也 y Kd03 一生 n Ca13 书 n Hg11 多 a Ih05 矣 Ug Kd05 虽然 c Kc04
+涉及 v Je01 了 u Ig01 名人 n Af11 和 c Hh04 书 n Hg11 到底 d Ka31 谁 r Aa06 靠 v Hf08
+多半 m Dn05 是 v Jd01 写 v Hi13 书 n Hg11 书 n Hg11 之后 f Ca12 才 d If03 成名 v If05
+所以 c Kc09 我 r Aa05 对 p Fc04 名人 n Af11 书 n Hg11 现象 n Dc02 潜心 d Ga13 研究 v Hg14
+虽然 c Kc04 同 d Jb01 是 v Jd01 名人 n Af11 书 n Hg11 情况 n Da21 却 d Hb13 颇 d Ka01
+或 c Kc01 以为 v Gb02 名人 n Af11 书 n Hg11 是 v Jd01 为 p Ih01 图 v Gb05
+辞海 n Dk20 发行 v He03 时 Ng Ca30 先 d Ca11 的 u Bo29 是 v Jd01 分册 n Bp18 占 v Jd04
+再 d Ig04 后 f Ai03 辞海 n Dk20 了 u Ig01 合编本 n -1 和 c Hh04 缩印本 n Dk20
+北京 ns Di03 千呼万唤 i -1 水面 n Bc02
+此举 r -1 一 d Ka16 活力 n Dd14 大增 v -1 银行 n Dm04 信用 n Dj08
+消息 n Da19 一 d Ka16 股市 n Cb28 应声 v Fc09 下跌 v Ih06
+江山 n Di02 代 v Dn08 有 v Jd07 才人 n Af07 各 r Ed61 领 v Je14 风骚 n Ee43 一两 m -1
+可 v Ka01 走 v Hi01 窘态 n Dc01 百 m Dn04 时 Ng Ca30 纳粹 n Di10 的 u Bo29 宣传 vn Hc12
+仙丹 n Br13 宝珠 n Ba08 喷射 v Id10 而 c Aa03
+也 d Kd03 最好 d Ka02 选择 v Hj25 早 a L01 早 a L01 回 v Hi18 或 c Kc01 晚 a Ai03
+早 a L01 回 v Hi18 或 c Kc01 晚 a Ai03 晚 a Ai03 归 v Ja06 更 d Ca30 是 v Jd01
+和心 nz -1 俱乐部 n Dm07 这 r Ca31 朵 q Dn08 墙 n Bn07 红 a If03 杏 Ng Bh07 必将 d Ka15
+市民 n Ad01 携 v Fa07 家 n Al02 而 c Aa03 前往 v Hj63 江南 s Cb08 著名 a Ed25 的 u Bo29
+主任 n Af10 梅 Ng Bh13 春雪 nr -1 为 p Ih01 川 j Be05 民工 n Ae02 量 v Gb03 血压 n Dn03
+抢 v Ie11 抓 v Fa06 机遇 n Ca04 东 f Aj05 西进 v -1
+被 p Je13 关 v Je01 在 p Jd02 中间 f Cb04 不 d Ie01 去 v Ca11 了 y Ig01
+一个 m Dn08 新 a Ka12 品种 n Dd06 快要 d Ka13 圃 Ng Bn12 了 y Ig01 天 n Cb07 突然 ad Ka16
+吾 r Aa02 所 u Di09 食者 n -1 乃是 v Ja01 锅 n Bp05 新 a Ka12 食品 n Br03 她 r Aa04
+门前 s Cb04 作 v Jd07 片刻 m Eb25 的 u Bo29 尘 Ng Bg08 之 u Kd01 想 v Gb06
+便 d Bl04 呼 v Fc10 之 r Kd01 即 d Ja01 了 y Ig01
+甲级 b Ed06 队 n Di10 的 u Bo29 老大哥 n Ah09 了 u Ig01 身 q Aa02 冷汗 n Bl01
+着实 d Ka30 让 v Je04 上海 ns Cb25 女排 na Dd15 了 u Ig01 身 q Aa02 冷汗 n Bl01
+尽管 c Kc10 使得 v Je04 大家 r Al02 脸红 v Ic02 汗 n Bl01 但 c Kc03 心里 s Bk05 都 d Cb25
+着实 d Ka30 让 v Je04 马 nr Bi19 晓春 nr -1 了 u Ig01 身 q Aa02 冷汗 n Bl01
+现状 n Da20 要么 c Kc01 每 r Ed61 国 n Di02 名 q Ja02 委员 n Aj07 但 c Kc03 要 v Ag04
+都 d Cb25 先 d Ca11 让 v Je04 我 r Aa05 主意 n Df14
+义务工 n -1 一个 m Dn08 没 d Jd08 少 v He15 近 v Ca02 万 m Dn04 斤 q Dn10 公粮 n Br01
+我 r Aa05 给 p Je05 博士生 n Ae13 过 u Je09 一 m Ka16 道 q Hi14 思考题 n Dk03
+个 q Dn08 重 a Aj01 只好 d Ka22 答应 v Hi32 两 m Dd05 倍 q Ih05 的 u Bo29 价钱 n Dj02
+的 u Bo29 快 d Ga01 进 v He03 快 d Ga01 与 c Je05 大肆 d Ed15 炒作 v -1 导致 v Je04
+条件 n Dd11 好 a Je10 的 u Bo29 固然 c Ka29 得 u Ib10 起 v Kd02 但 c Kc03 对 p Fc04
+不仅 c Kc05 工资 n Dj07 由 p Hf06 北京 ns Di03 教师 n Ae13 的 u Bo29 补贴 n Dj07 也 d Kd03
+补贴 n Dj07 也 d Kd03 由 p Hf06 北京 ns Di03
+和 c Hh04 地方 n Cb15 财政 n Da01 各 r Ed61 但 c Kc03 不少 m Eb01 地方 n Cb15 筹措 v Gb05
+或 c Kc01 提供 v Jc05 经济 n Di02 援助 vn Hi36 人 n Ab02 出钱 v Hj31 出 v Jd07 物 Ng Ba01
+援助 vn Hi36 出 v Jd07 人 n Ab02 出钱 v Hj31 物 Ng Ba01 救助 v Hi36 莫桑比克 ns Di02
+德国 ns Di02 政坛 n Dd05 丑闻 n Da01 公众 n Aa01 思 v Gb06 对策 n Df09
+掌上明珠 i Ah14 的 u Bo29 小 a Ah08 妹妹 n Ah10 了 u Ig01 许多 m Eb01 洋相 n Ed41
+她 r Aa04 为 p Ih01 自己 r Aa05 判断力 n De04 了 u Ig01 错 n Id19 感到 v Gb02 十分 d Ka01
+一下 m Dn08 看 v Hi37 问题 n Dd09 到底 d Ka31 在 p Jd02 什么 r Ba10 地方 n Cb15 但 c Kc03
+老祖宗 n -1 在 p Jd02 认识 n Df14 上 f Hj63 了 u Ig01 偏差 n Da15 怎么 r Kc12 能 v Gc02
+人生观 n Df14 和 c Hh04 价值观 n Df01 上 f Hj63 了 u Ig01 毛病 n Di20
+站 n Cb26 的 u Bo29 柴油 n Bm10 发电机 n Bo01 故障 n Da15 了 y Ig01
+此事 r Da01 一 d Ka16 造成 v Je04 该 r He08 项目 n Dd06 施工 v Hd01
+万 m Dn04 元 q Ah08 借款 n Dj08 事 n Hi37 何 r Ba10 因 Ng Kc09
+确立 v Hc05 的 u Bo29 政治 n Di08 体制 n Di09 了 u Ig01 什么 r Ba10 毛病 n Di20
+就 d Kb04 能 v Gc02 快速 d Eb23 搜索 v Hj40 所 u Di09 要 v Ag04 寻找 v Hj40 的 u Bo29
+自由泳 n Hh06 决赛 v Hh07 中 f Di02 游 v Hh06 秒 q Ca30 的 u Bo29 成绩 n Da14 赢得 v Je12
+第一 m Ka09 轮 q Dn08 投票 v Hc23 评选 v Hc23 优秀 a Ed03 作品 n Dk19 件 q Dn08 第二 m Dn04
+相 d Dk32 融合 v Ie08 可以 v Gc02 造就 v Hg07 全新 b Eb28 的 u Bo29 市场 n Cb28 竞争 vn Hi41
+年 t Ca18 进一步 d Ka04 提 v Hi27 必须 d Gc03 以 p Di02 技术 n De04 创新 vn Ih12
+科技 n Dk03 成果 n Da14 产业化 v -1 走 v Hi01 一 m Ka16 条 q Bh10 依靠 v Kb06 科技 n Dk03
+戏剧节 n -1 还 d Hi27 评 v Hc20 编剧 n Ae17 导演 n Ae17 演员 n Ae17 等 u Dn08
+澳门 ns Di02 澳门 ns Di02 居民 n Ad01 焕发 v Ic05 前所未有 i Ed04 的 u Bo29 主人翁 n Aj05 精神 n Dk01
+目的 n Db05 是 v Jd01 为了 p Kb05 多 v Ih05 优秀 a Ed03 成果 n Da14 优秀 a Ed03 人才 n Al03
+职工 n Ae01 多 m Ih05 能 v Gc02 生产 v Dn07 高 a Eb04 技术 n De04 含量 n Dn03 的 u Bo29
+合成 v Hj30 有机物 n Ba01 并且 c Kc02 释放 v Jd07 氧气 n Bg05
+因 c Kc09 重点 n Cb23 突出 a Id02 减 v Ih10 了 u Ig01 实效 n Da25
+摧 Vg -1 陈 a Hi13 新 a Ka12 要不得 l Ed03
+不如说 c -1 是 v Jd01 摧 Vg -1 陈 a Hi13 新 a Ka12 更 d Ca30 贴切 a Ed49
+责任 n Di22 公司 n Dm04 严格 v Ee36 管理 v Hc02 成绩 n Da14 连续 a Ig03 年 q Ca18 没有 d Jd08
+争议 v Hi41 商品 n Ba04 送检 v -1 新 a Ka12 规 Ng Hi34
+大 d Ah05 解放 v Ha01 才 c If03 能 v Gc02 大 a Ah05 的 u Bo29 思路 n Df01 下 v Ia03
+鼓励 v Hi34 科技 n Dk03 人员 n Aa01 多 d Ih05 成果 n Da14 出 v Jd07 好 a Je10 成果 n Da14
+人员 n Aa01 多 d Ih05 出 v Jd07 成果 n Da14 好 a Je10 成果 n Da14 并 c Kc06 加速 v Ih08
+围绕 v Id23 深化 v Ih10 改革 v Ha04 多 d Ih05 精品 n Ba04 迎接 v Hi05 新 a Ka12 中国 ns Di02
+的 u Bo29 核心 n Dd09 任务 n Di22 创作 v Hg16 一 m Ka16 大 a Ah05 批 q Hi21 思想性 n Dd01
+中国 ns Di02 话剧界 n -1 能 v Gc02 多 d Ih05 些 q Dn05 老舍 nr -1 曹禺 nr -1 也 d Kd03
+老舍 nr -1 曹禺 nr -1 也 d Kd03 多 d Ih05 些 q Dn05 焦 nr Bm08 菊隐 nr -1 和 c Hh04
+的 u Bo29 舆论 n Dk12 导向 n Cb01 多 d Ih05 思想性 n Dd01 和 p Hh04 艺术性 n Dd01 相 d Dk32
+重视 v Gb21 精神文明 n Dk01 建设 vn Ie12 既 c Kc04 优质 b Ed06 产品 n Dj06 也 d Kd03 出 v Jd07
+出 v Jd07 优质 b Ed06 产品 n Dj06 也 d Kd03 优秀 a Ed03 人才 n Al03
+很 d Ka01 多 a Ih05 但 c Kc03 不再 d Ka14 人 n Ab02
+经济 n Di02 社会 n Di01 发展 vn Ie12 多 d Ih05 人才 n Al03 出 v Jd07 好 a Je10 人才 n Al03
+发展 vn Ie12 多 d Ih05 出 v Jd07 人才 n Al03 好 a Je10 人才 n Al03
+满城县 ns -1 上紫口村 ns -1 曾经 d Ka12 为 p Ih01 了 u Ig01 女 b Ah14 博士生 n Ae13 段 nr Dn08
+工序 n Dd07 从 p Hi39 投料 n -1 到 p Hf08 成品 n Ba04 全 a Ka07 流程 n Dd07 实现 v Ie14
+宋代 t Ca02 以来 f Ca11 镇上 n -1 的 u Bo29 状元 n Al03 进士 n Af09 文武 n Ee31
+一样 u Jb01 激动不已 l -1 德国 ns Di02 不仅 c Kc05 过 u Je09 莫扎特 nr -1 巴赫 nr -1 亨德尔 nr -1
+年 q Ca18 前 f Cb04 就 d Kb04 生产 v Dn07 世界 n Di14 上 f Hj63 第一 m Ka09 台 q Bp26
+彩图 n -1 本 n Ed61 辞海 n Dk20 即 d Ja01
+藏族 nz Di04 音乐 n Dk28 几乎 d Ka27 是 v Jd01 一 m Ka16 盘 q Dn08 被盗 v -1 一 m Ka16
+民间 n Cb06 文化 n Dk02 遗产 n Dj03 还 d Hi27 了 u Ig01 小册子 n Bp18 我 r Aa05 身 Ng Aa02
+图书箱 n -1 走村串寨 l -1 巡回 v Hb05 借阅 v -1 黑板报 n Dk21 搞 v Hj12 画展 n Hj47 放 v Ga13
+世纪 n Ca18 文丛 n -1 七 m Dn04 年 q Ca18 满 v Ga06 六十 m -1 种 q Hd20 随着 p Ka13
+这 r Ca31 套 q Hg08 丛书 n Dk20 已 d Ig02 至 p Hf08 第六十 m -1 本 q Ed61
+夫人 n Ah08 的 u Bo29 英文 nz Dk06 译著 n Dk19 了 u Ig01 中文 nz Dk06 版 n Bo17
+权 n Bo18 精工 n -1 制作 v Hd04 迅速 ad Eb23 书 n Hg11
+为 p Ih01 企业 n Dm03 做 v Hh01 广告 n Dk14 画册 n Bp18 出 v Jd07 书 n Hg11 拍 v Dn08
+做 v Hh01 广告 n Dk14 出 v Jd07 画册 n Bp18 书 n Hg11 拍 v Dn08 电视 n Ba05 专题片 n -1
+书 n Hg11 拍 v Dn08 电视 n Ba05 专题片 n -1 企业 n Dm03 名人录 n -1 等 u Dn08 为 p Ih01
+山东 ns Di02 大学 n Dm05 出版社 n Dm07 所 u Di09 而是 c Kc06 另外 r Kc11 一 m Ka16 家 q Al02
+山东 ns Di02 大学 n Dm05 出版社 n Dm07 所 u Di09 的 u Bo29 萧伯纳 nr -1 情书 n Dk16 一 m Ka16
+名人 n Af11 书 n Hg11 成为 v Ih01 时尚 n Di14 男女 n Ab01

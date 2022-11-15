@@ -1,0 +1,17 @@
+在,p,Jd02,一定,b,Ka15,程度,n,Dd12,上,f,Hj63,了,u,Ig01,人们,n,Aa01,对,p,Fc04,俄罗斯,ns,Di02
+大国,n,Di02,的,u,Bo29,地位,n,Cb01,被,p,Je13,了,y,Ig01,美国,ns,Di02,再次,d,Ka14,把,p,Hc10
+技术,n,De04,的,u,Bo29,发展,vn,Ie12,将,d,Ae10,传统,a,Df01,电信,n,Di18,的,u,Bo29,基础,n,Ed28
+和,c,Hh04,媒体,n,Aj15,誉为,v,Ja02,开始,v,Ig01,高考,vn,Hg07,独木桥,n,Bn11,地位,n,Cb01,为,p,Ih01
+和,c,Hh04,舞台,n,Bn21,就,d,Kb04,会,v,Hi05,我们,r,Aa02,的,u,Bo29,信念,n,Df01,瓦解,v,Ie08
+安全,an,Ef08,安全,an,Ef08,与,c,Je05,稳定,vn,Ef01,的,u,Bo29,地位,n,Cb01
+感情,n,Df04,从,p,Hi39,根本,n,Ka10,上,f,Hj63,长年,d,Ae03,积累,v,He13,起来,v,Ih13,的,u,Bo29
+下去,v,Hj62,从,p,Hi39,根本,n,Ka10,上,f,Hj63,萨达姆,nr,-1,的,u,Bo29,统治,vn,Ha03,基础,n,Ed28
+导致,v,Je04,从,p,Hi39,根本,n,Ka10,上,f,Hj63,国际,n,Di02,和平,n,Ef01,不可,v,Gc02,缺少,v,He15
+上,f,Hj63,横生枝节,i,If04,努力,ad,Ka19,杜绝,v,Je07,中,j,Di02,美,j,Ga04,关系,n,Db01,基石,n,Db08
+肆意妄为,i,-1,都,d,Cb25,决不,d,Ka18,可能,v,Gc02,伟大,a,Ed20,中华民族,n,Di04,的,u,Bo29,这,r,Ca31
+的,u,Bo29,它,r,Ba10,不,d,Ie01,能,v,Gc02,黎,j,Dd15,人民,n,Aa01,抗击,v,Hb03,以色列,ns,Di02
+青年,n,Ab03,农民,n,Ae07,入党,v,Hj19,会,v,Hi05,自己,r,Aa05,的,u,Bo29,地位,n,Cb01,故意,d,Ka20
+的,u,Bo29,干涉,vn,Hi23,丝毫,m,Eb01,没有,d,Jd08,法国,ns,Di02,打击,v,Fa01,邪教,n,-1,的,u,Bo29
+绝不,d,Ka18,能,v,Gc02,忽视,v,Ga13,和,c,Hh04,农业,n,Di02,的,u,Bo29,基础,n,Ed28,地位,n,Cb01
+脱离,v,Hj19,了,u,Ig01,人民,n,Aa01,群众,n,Aa01,了,u,Ig01,基层,n,Di16,政权,n,Di21,影响,v,Je02
+如果,c,Kc08,了,u,Ig01,马克思主义,n,Dk02,的,u,Bo29,指导,vn,Hg02

@@ -1,0 +1,17 @@
+戴,nr,Fa18,敦邦,nr,-1,几乎,d,Ka27,全部,m,Eb02,自己,r,Aa05,纯熟,ad,Ee22,勾画,v,Hi13,几十,m,-1
+案,Ng,Bp26,案,Ng,Bp26,岂,d,Ga01,容,v,Jd05
+不管,c,Kc10,你,r,Aa03,是,v,Jd01,想,v,Gb06,牛顿,nr,Al02,爱因斯坦,nr,Al02,爱因斯坦,nr,Al02,爱因斯坦,nr,Al02
+谁,r,Aa06,也,d,Kd03,无法,v,Ga12
+出,v,Jd07,的,u,Bo29,两国论,l,-1,不仅,c,Kc05,不,d,Ie01,了,v,Ig01,一个,m,Dn08,中国,ns,Di02
+一个,m,Dn08,国家,n,Di02,来,v,Ca03,看待,v,Hi08,了,u,Ig01,一个,m,Dn08,中国,ns,Di02,的,u,Bo29
+主权,n,Di21,实行,v,Ie13,新,a,Ka12,干涉主义,n,-1,长期,d,Eb24,为,p,Ih01,世界,n,Di14,所,u,Di09
+总是,d,Ka11,在,d,Jd02,扮演,v,Hh01,预言,n,Hi12,者,k,Aa01,的,u,Bo29,角色,n,Aa01
+联邦,n,Di02,政府,n,Di11,出面,v,Hi17,干预,v,Hi23,北领地,ns,-1,的,u,Bo29,强制,v,Hi56,判刑,v,Hm06
+联邦,n,Di02,有权,v,Jd01,干预,v,Hi23,和,c,Hh04,领地,n,Cb13,的,u,Bo29,法律,n,Di25,就,d,Kb04
+前,f,Cb04,联邦,n,Di02,通过,p,Gb15,法案,n,Di25,了,u,Ig01,霍华德,nr,-1,总理,n,Af10,不,d,Ie01
+警方,n,Dm02,经过,p,Hf06,调查,v,Hc18,取证,v,Hj25,了,u,Ig01,先前,t,Ca11,确认,v,Hi22,的,u,Bo29
+尊重,v,Gb21,实际上,d,Ka30,是,v,Jd01,企图,v,Gb05,和,c,Hh04,否定,v,Hi22,一个,m,Dn08,中国,ns,Di02
+几,m,Bp26,天,q,Cb07,后,f,Ai03,法院,n,Dm02,了,u,Ig01,移民局,n,-1,的,u,Bo29,决定,n,Je09
+世纪,n,Ca18,曙猿,n,-1,的,u,Bo29,发现,vn,Gb08,了,u,Ig01,人类,n,Aa01,起源,v,Ja05,于,p,Kb05
+外汇,n,Dj05,万,m,Dn04,美元,q,Dj05,事实,n,Da01,了,u,Ig01,日方,n,-1,专家,n,Al02,的,u,Bo29
+列举,v,Hi13,了,u,Ig01,大量,m,Ee35,要求,v,Gb04,杰克逊,nr,-1,判决,vn,Hm06,的,u,Bo29,理由,n,Db04

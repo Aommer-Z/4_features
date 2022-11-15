@@ -1,0 +1,10 @@
+的,u,Bo29,发展,vn,Ie12,等,u,Dn08,问题,n,Dd09,了,u,Ig01,言,Ng,Hi12,1
+省长,n,Af10,李,nr,Bh07,春亭,nr,-1,先后,d,Dd07,了,u,Ig01,言,Ng,Hi12,1
+的,u,Bo29,发展,vn,Ie12,等,u,Dn08,问题,n,Dd09,了,u,Ig01,言,Ng,Hi12,1
+开发,v,Hj28,中,f,Di02,的,u,Bo29,作用,n,Df08,了,u,Ig01,言,Ng,Hi12,1
+素质,n,De04,教育,vn,Hg01,等,u,Dn08,问题,n,Dd09,了,u,Ig01,言,Ng,Hi12,1
+的,u,Bo29,会议,n,Di23,上,f,Hj63,都,d,Cb25,了,u,Ig01,言,Ng,Hi12,1
+臧,nr,-1,世凯,nr,-1,代表,n,Dd11,也,d,Kd03,了,u,Ig01,言,Ng,Hi12,1
+海外,s,Cb11,市场,n,Cb28,等,u,Dn08,问题,n,Dd09,了,u,Ig01,言,Ng,Hi12,1
+居委会,n,Di09,代表,n,Dd11,学生,n,Ae13,代表,n,Dd11,了,u,Ig01,言,Ng,Hi12,1
+也,d,Kd03,先后,d,Dd07,在,p,Jd02,会上,t,Ca04,了,u,Ig01,言,Ng,Hi12,1

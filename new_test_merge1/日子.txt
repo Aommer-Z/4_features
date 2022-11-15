@@ -1,0 +1,33 @@
+难忘 a Gb07 的 u Bo29 文明 a Dk01 学校 n Dm05 ATT FEAT
+开学 v Ig01 的 u Bo29 ATT LINK VOB rTIME
+工资 n Dj07 的 u Bo29 才 d If03 能 v Gc02 ATT TIME rTIME POB
+神圣 a Ee42 的 u Bo29 就 d Kb04 是 v Jd01 ATT FEAT VOB
+残疾人 n Ag02 的 u Bo29 ATT VOB dFEAT
+忘却 v Gb07 的 u Bo29 以 p Di02 美国 ns Di02 ATT MEAS FEAT LINK rCONT VOB
+是 v Jd01 什么 r Ba10 还 d Hi27 上 v Hj63 ATT LINK SCO VOB mDEPD
+退伍 v Hj19 的 u Bo29 也 d Kd03 是 v Jd01 ATT LINK VOB rTIME
+退伍 v Hj19 的 u Bo29 也 d Kd03 是 v Jd01 ATT LINK VOB rTIME 公审 v Hm06 的 u Bo29 ATT LINK VOB rTIME
+一 m Ka16 历史性 n Dd01 时 Ng Ca30 我们 r Aa02 ATT MEAS FEAT CONT VOB
+意义 n Db06 的 u Bo29 ATT dFEAT CONT VOB LOC
+年 q Ca18 的 u Bo29 里 f Dn10 我 r Aa05 mDEPD ATT TIME rTIME
+风雨 n Bf01 的 u Bo29 街边 n -1 巷口 s -1 ATT FEAT TIME POB mRELA
+明媚 a Ed40 的 u Bo29 里 f Dn10 举行 v Ie13 ATT FEAT dFEAT TIME mDEPD
+这样 r Ka34 的 u Bo29 真是 d Ja01 不 d Ie01 ATT FEAT SBV EXP dFEAT
+冷落 vn Ef04 的 u Bo29 里 f Dn10 他 r Aa04 ATT rTIME TIME mRELA mDEPD
+说起 v -1 那段 r -1 这 r Ca31 位 q Dn08 ATT VOB
+建设 vn Ie12 的 u Bo29 ATT LINK VOB dFEAT
+将来 t Ca12 的 u Bo29 里 f Dn10 车主 n Aj11 ATT TIME mDEPD
+过去 t Ca11 的 u Bo29 让 v Je04 我 r Aa05 ATT rTIME EXP SBV
+一 d Ka16 长 a Ih05 ATT FEAT TIME
+前些 t -1 某 r Aa05 电视台 n Di09 ATT ADV TIME FEAT
+是 v Jd01 火红 z Ec01 的 u Bo29 礼炮 n Bo27 mDEPD ATT FEAT RAD
+生活 vn Ib03 的 u Bo29 让 v Je04 往事 n Da07 ATT rTIME SBV LINK TIME
+亏损 v He14 了 y Ig01 不好过 a -1 铁路 n Bn11 ATT VOB
+企业 n Dm03 的 u Bo29 就 d Kb04 好过 a Ga06 ATT rTIME FOB
+让 v Je04 更 d Ca30 红火 a Ef14 DBL EXP
+和睦 a Ed33 的 u Bo29 ATT VOB dFEAT
+副业 n Di18 让 v Je04 更 d Ca30 红火 a Ef14 DBL DATV EXP
+亩 q Dn10 橙 Ng Bh07 火 n Ae04 样 u Dn08 ATT MEAS FEAT SBV EXP PAT
+鬼 n Aa01 的 u Bo29 说不定 l Ka17 哪 r Ba10 ATT FEAT VOB TIME
+家里 s Ah08 的 u Bo29 尽管 c Kc10 变化 v Ih01 ATT LOC EXP SBV
+一 m Ka16 年 q Ca18 EXP SBV

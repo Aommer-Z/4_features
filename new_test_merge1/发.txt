@@ -1,0 +1,36 @@
+微微 d Ka05 白 a Bp07 的 u Bo29 ATT ADV FEAT MANN VOB RAD mDEPD
+了 u Ig01 枪口 n Bo27 烫 a Eb26 的 u Bo29 COO ATT SBV EXP dFEAT RAD eSUCC mDEPD
+豌豆 n Bh06 地里 s Bn12 黑 a Ed45 落叶 n Bh11 CMP ATT ADV dFEAT CONT VOB RAD LOC mDEPD
+河水 n Be05 颜色 n Bm11 黑 a Ed45 腥臭味 n -1 CMP COO eCOO SBV EXP eSUCC
+等 u Dn08 问题 n Dd09 了 u Ig01 言 Ng Hi12 ADV SBV CONT Root AGT VOB RAD DATV HED mDEPD
+春亭 nr -1 先后 d Dd07 了 u Ig01 言 Ng Hi12 ADV MEAS SBV CONT Root AGT VOB RAD HED mDEPD
+等 u Dn08 问题 n Dd09 了 u Ig01 言 Ng Hi12 ADV SBV CONT Root AGT VOB RAD DATV HED mDEPD
+的 u Bo29 作用 n Df08 了 u Ig01 言 Ng Hi12 ADV SBV CONT Root AGT VOB RAD dDATV HED mDEPD
+等 u Dn08 问题 n Dd09 了 u Ig01 言 Ng Hi12 ADV SBV CONT Root AGT VOB RAD DATV HED mDEPD
+上 f Hj63 都 d Cb25 了 u Ig01 言 Ng Hi12 ADV LOC SBV CONT Root AGT VOB RAD HED mDEPD
+代表 n Dd11 也 d Kd03 了 u Ig01 言 Ng Hi12 ADV SBV CONT Root AGT VOB RAD HED mDEPD
+等 u Dn08 问题 n Dd09 了 u Ig01 言 Ng Hi12 ADV SBV CONT Root AGT SCO VOB RAD DATV HED mDEPD
+学生 n Ae13 代表 n Dd11 了 u Ig01 言 Ng Hi12 SBV CONT Root VOB RAD DATV HED mDEPD
+在 p Jd02 会上 t Ca04 了 u Ig01 言 Ng Hi12 ADV MEAS LOC SBV CONT Root AGT VOB RAD HED mDEPD
+的 u Bo29 导致 v Je04 病 n Ib10 dCONT VOB EXP SBV
+或 c Kc01 易 a Jc07 行业 n Di18 犯罪 v Hn01 LAD ATT ADV FEAT MANN mRELA
+病 n Ib10 时 Ng Ca30 疼痛 a Ib11 ATT mDEPD EXP SBV
+心脏病 n Dl01 男性 n Eb35 易 a Jc07 ADV LOC SBV CONT Root VOB HED mDEPD
+照片 n Dk32 均 d Ka07 为 v Ih01 Root VOB mDEPD CONT
+上 f Hj63 只 d Dn08 了 u Ig01 两 m Dd05 COO ADV LOC SBV EXP Root VOB RAD PAT HED eSUCC mDEPD
+贵版 n -1 先 d Ca11 了 u Ig01 一 m Ka16 ATT ADV TIME rCONT RAD LOC dTIME mDEPD
+方面 n Cb01 侧重 v Gb21 短篇 b Dk19 作家 n Al01 COO ADV MANN CONT DBL AGT LOC eSUCC
+等 u Dn08 所 u Di09 文章 n Dk19 具有 v Jd04 ATT rCONT LAD mDEPD
+瑛 nr -1 制作 v Hd04 附 v Id21 图片 n Bp18 COO eSUCC VOB CONT
+比如 v Jb03 一 m Ka16 条 q Bh10 ATT CONT VOB RAD mDEPD
+编 v Hg17 印 v Hh03 等 u Dn08 出版 vn Hd13 COO
+本地 r Cb15 外地 s Cb15 的 u Bo29 老干部 n Ae01 ATT SBV AGT dDATV RAD mDEPD
+因 c Kc09 欠 v He15 军饷 n Dj07 而 c Aa03 PAT COO eSUCC
+发布会 n Di23 晚宴 n Di23 纪念品 n Ba02 等 u Dn08 COO ADV EXP CONT VOB eSUCC
+文件 n Dk17 下面 f Aj08 ATT
+选票 n Bp19 到 v Hf08 选民 n Dd16 CMP COO LOC SBV EXP Root HED eSUCC mDEPD
+议事会 n -1 决定 v Je09 限期 vd Ca06 催收 v -1 ATT dCONT CONT dFEAT
+元 q Ah08 救灾款 n -1 到 v Hf08 各地 r Cb09 CMP COO ADV SBV EXP LOC mDEPD
+撤销 v Hc06 原判 n -1 回 v Hi18 重申 v Ig04 CMP COO MANN VOB eSUCC
+每个 r Dn08 学生 n Ae13 几 m Bp26 粒 q Bh13 COO ADV CONT dCONT VOB DATV mDEPD
+的 u Bo29 游人 n Ag10 清洁 a Ef12 袋 Ng Bp11 ATT ADV SBV CONT VOB RAD DATV dCONT mDEPD

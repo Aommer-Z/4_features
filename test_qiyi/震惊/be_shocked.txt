@@ -1,0 +1,10 @@
+一,m,Ka16,文,Ng,Dk19,让,v,Je04,人,n,Ab02,发人深思,l,Gb01
+惨案,n,Da01,世界,n,Di14,为,p,Ih01,之,r,Kd01
+舆论哗然,i,-1,全,a,Ka07,澳,j,Cb08,澳,j,Cb08
+同事,n,Aj04,们,k,Aa01,了,y,Ig01
+的,u,Bo29,发生,vn,Jd07,令,v,Je04,人,n,Ab02,令,v,Je04,人,n,Ab02,痛心,a,Ga01,令,v,Je04
+不仅,c,Kc05,令,v,Je04,世界,n,Di14,音乐界,n,Dd05,和,c,Hh04,痛惜,v,Gb17,也,d,Kd03,给,p,Je05
+同样,d,Jb01,使,v,Kb05,人,n,Ab02,感到,v,Gb02,的,u,Bo29,是,v,Jd01,吸毒,vn,-1,人数,n,Dn03
+见面,v,Hi05,则,d,Dn08,使,v,Kb05,我们,r,Aa02
+小学,n,Dm05,所见所闻,i,Dk02,令,v,Je04,人,n,Ab02
+的,u,Bo29,判决,vn,Hm06,令,v,Je04,世人,n,Ai01

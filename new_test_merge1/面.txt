@@ -1,0 +1,24 @@
+暖风 n Bf02 拂 v Hi39 彩旗 n Bp20 飞扬 v Id13 PAT VOB
+城镇 n Cb25 祖祖辈辈 i Eb24 朝 v Ca27 黄土 n Bm04 EXP SBV
+见 v Jd06 过 u Je09 的 u Bo29 百万富翁 n -1 VOB CONT
+黑人 n Aa01 老板 n Af04 带 v Jd04 笑容 n Dc04 AGT LOC SBV
+父母 n Ah04 的 u Bo29 对 p Fc04 哥哥 n Ah09 COO ATT EXP dFEAT eSUCC
+半 m Cb04 遮 v Hi53 的话 u Kd05 如今 t Ca10 PAT VOB
+春天 t Ca19 猴儿 n Al04 一 m Ka16 日 q Di02 ATT FEAT EXP SBV
+热泪 n Bl03 满 v Ga06 SCO VOB
+哩 y Kd04 爹 n Ah04 的 u Bo29 ATT FEAT VOB CONT
+茬 q Bh10 素 Ag Ba01 朝 v Ca27 天 n Cb07 ATT FEAT EXP SBV
+一 m Ka16 团 q Bb04 在 p Jd02 手上 s -1 PAT ATT MEAS VOB
+一 m Ka16 团 q Bb04 在 p Jd02 手上 s -1 PAT ATT MEAS VOB 手 n Dn08 带 v Jd04 提 v Hi27 离 v Ie09 PAT ATT MEAS VOB
+这样 r Ka34 的 u Bo29 做成 v Hj12 的 u Bo29 ATT FEAT EXP SBV
+捐赠 v Hi26 米 n Bh13 一千 m -1 多 m Ih05 PAT ATT FEAT
+保险 n Ka15 扩 Vg Ih03 征缴 vn -1 工作 vn Ae01 PAT LOC VOB
+的 u Bo29 干部 n Ae01 广 a Ed38 人 n Ab02 ATT FEAT
+生活 v Ib03 困难 a Da10 较大 a -1 灾情 n Da21 ATT FEAT EXP SBV
+以期 v -1 普及 v Ie13 广 a Ed38 宣传 v Hc12 ATT EXP SBV
+量 n Gb03 大 a Ah05 广 a Ed38 的 u Bo29 EXP SBV
+管理 vn Hc02 工作 vn Ae01 广 a Ed38 量 n Gb03 ATT FEAT EXP SBV
+二 m Jb02 是 v Jd01 太 d Bo29 广 a Ed38 EXP SBV
+公司制 n -1 改造 v Hd01 已 d Ig02 达到 v Je12 ATT FEAT SBV
+新 ad Ka12 扩 Vg Ih03 参保 vn -1 企业 n Dm03 PAT VOB CONT
+点 n Cb08 与 p Je05 的 u Bo29 关系 n Db01 LAD COO eCOO LOC mRELA mDEPD

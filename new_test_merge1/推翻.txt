@@ -1,0 +1,10 @@
+在 p Jd02 这里 r Cb30 帝制 n Di08 开始 v Ig01 COO ADV CONT Root TIME AGT VOB RAD LOC eSUCC
+领导 vn Hc09 下 f Ia03 了 u Ig01 三座大山 l Di22 COO ADV MANN VOB RAD PAT eSUCC mDEPD
+便 d Bl04 知 v Gb08 不 d Ie01 听 v Hi39 mDEPD COO ATT RAD
+长期 d Eb24 斗争 v Ha02 了 u Ig01 三座大山 l Di22 COO ADV MANN VOB RAD PAT eSUCC mDEPD
+被 p Je13 事实 n Da01 的 u Bo29 理论 n Dk02 ATT ADV TIME AGT dCONT RAD mDEPD
+上院 n -1 不会 v Gc02 下院 n -1 的 u Bo29 ADV SBV CONT STAT Root AGT VOB HED mRELA
+佛州 j -1 高法 j Dm02 利昂县 ns -1 巡回 vn Hb05 ATT AGT dFEAT SBV
+表决 vn Hc14 结果 n Kc09 了 u Ig01 利昂县 ns -1 COO ADV SBV MANN AGT VOB RAD PAT eSUCC mDEPD
+并 c Kc06 决定 v Je09 这 r Ca31 一 m Ka16 dCONT VOB CONT
+的 u Bo29 裁决 vn Hc14 古斯曼 nr -1 法官 n Ae12 COO VOB CONT

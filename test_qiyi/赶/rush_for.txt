@@ -1,0 +1,9 @@
+名,q,Ja02,官兵,n,Ae10,向,p,Cb01,现场,s,Cb28,去,v,Ca11,指导员,n,Ae10,汤,nr,Bg01,健,nr,Gc02
+娜,nr,-1,的,u,Bo29,父母,n,Ah04,专门,d,Ka20,到,v,Hf08,会场,n,Cb28
+回家,v,Hf07,也,d,Kd03,急急忙忙,z,Ef06,地,u,Di09,了,u,Ig01,过来,v,Jd08
+粮食,n,Br01,品种,n,Dd06,的,u,Bo29,更新,v,Ih12,不,d,Ie01,上,v,Hj63,农民,n,Ae07,手中,s,Cb05
+王,nr,Af05,夫人,n,Ah08,又,d,Kc02,怕,v,Ga16,出,v,Jd07,病,n,Ib10,来,v,Ca03,于是乎,c,Kc11
+往,p,Ca11,十七,m,-1,里,q,Dn10,外,f,Ae17
+缝,n,Cb22,才,d,If03,摸,v,Fa01,黑,a,Ed45,了,u,Ig01,五十,m,-1,多,m,Ih05,公里,q,Dn10
+下,f,Ia03,待,p,Jc05,村民,n,Ae07,们,k,Aa01,到,v,Hf08,时,Ng,Ca30,为时已晚,l,-1
+大别山区,ns,-1,的,u,Bo29,湖北省,ns,Di02,大悟县,ns,-1,去,v,Ca11,广州,ns,Cb25,打工,v,Hj11,的,u,Bo29

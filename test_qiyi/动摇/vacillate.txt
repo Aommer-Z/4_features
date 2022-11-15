@@ -1,0 +1,6 @@
+也许,d,Ka17,就,d,Kb04,不,d,Ie01,会,v,Hi05,理想,n,Df10,信念,n,Df01,不会,v,Gc02,有,v,Jd07
+这个,r,Ed61,原则,n,Dd11,也,d,Kd03,就,d,Kb04
+在,d,Jd02,作祟,v,Hj57,但,c,Kc03,丝毫,m,Eb01,不,d,Ie01,了,v,Ig01,他们,r,Aa04,维护,v,Hi37
+事实,n,Da01,也,d,Kd03,不,d,Ie01,能,v,Gc02,一个,m,Dn08,中国,ns,Di02,原则,n,Dd11
+这些,r,Ed61,现象,n,Dc02,剧烈,a,Ed15,地,u,Di09,并,c,Kc06,改变,v,Ih02,世界,n,Di14,的,u,Bo29
+的,u,Bo29,企业,n,Dm03,公之于众,l,-1,从而,c,Kc09,了,u,Ig01,对,p,Fc04,执政党,n,Di07,的,u,Bo29

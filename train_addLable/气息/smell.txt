@@ -1,0 +1,11 @@
+着,u,Dn08,灼,Ag,Ia09,烫,a,Eb26,的,u,Bo29,0
+那,r,Kc08,格外,d,Ka01,清新,a,Ef12,的,u,Bo29,0
+出,v,Jd07,特殊,a,Ed04,的,u,Bo29,芬芳,n,Ec07,0
+鸣,Vg,Hi14,有,v,Jd07,清爽,a,Ga06,的,u,Bo29,扑面,v,Ia03,富有,v,Jd04,意境,n,Da21,与,c,Je05,0
+弥漫,v,Ea04,着,u,Dn08,雪山,n,Be04,的,u,Bo29,森林,n,Bh01,的,u,Bo29,气息,n,Bg06,草地,n,Be01,0
+的,u,Bo29,气息,n,Bg06,森林,n,Bh01,的,u,Bo29,草地,n,Be01,的,u,Bo29,气息,n,Bg06,我,r,Aa05,0
+的,u,Bo29,气息,n,Bg06,草地,n,Be01,的,u,Bo29,我,r,Aa05,仿佛,d,Jb03,置身,v,Jd02,仙境,n,Cb16,0
+濡湿,v,Eb27,的,u,Bo29,树叶,n,Bh11,的,u,Bo29,清凉,a,Eb26,而,c,Aa03,芬芳,n,Ec07,0
+多,v,Ih05,一些,m,Eb02,泥土,n,Bm04,的,u,Bo29,多,v,Ih05,一些,m,Eb02,山花,n,-1,的,u,Bo29,0
+弥漫,v,Ea04,着,u,Dn08,春,Tg,Ca19,的,u,Bo29,0
+寒意,n,Df04,但,c,Kc03,春天,t,Ca19,的,u,Bo29,已经,d,Ka12,弥漫,v,Ea04,山冈,n,Be04,0

@@ -1,0 +1,15 @@
+审议 vn Hc14 把 p Hc10 和 c Hh04 笔头 n Bp17 COO eCOO POB PAT mRELA
+土地 n Bn12 将 p Ae10 对准 v Kb07 西部 f Cb02 PAT mRELA POB
+视角 n Df14 在 p Jd02 面前 f Cb04 重现 v Jd07 ATT SCO mRELA LOC
+夺冠 v If21 单 b Bp19 反光 vn Bg03 照相机 n Bp15 ATT FEAT
+的 u Bo29 电视 n Ba05 前 f Cb04 放开 v Ih03 mDEPD ATT FEAT LOC
+伊朗 ns Di02 的 u Bo29 PAT ATT VOB dFEAT
+和 c Hh04 摄像机 n Bp15 前 f Cb04 的 u Bo29 ATT FEAT mRELA mDEPD
+拍摄 v Hh03 了 u Ig01 提取 v Hi27 了 u Ig01 VOB CONT
+们 k Aa01 的 u Bo29 或 c Kc01 笔触 n Df01 COO ATT FEAT eCOO SBV
+质感 n Dd12 在 p Jd02 中 f Di02 呈现 v Jd06 mDEPD ATT mRELA LOC
+里 f Dn10 的 u Bo29 ATT LOC
+了 u Ig01 那些 r Ed61 ATT SCO VOB CONT
+得知 v Gb08 这些 r Ed61 摄 Vg Hh03 于 p Kb05 ATT SCO EXP SBV
+这 r Ca31 一 m Ka16 拍摄 v Hh03 下来 v Hj62 ATT MEAS SCO POB PAT mRELA
+的 u Bo29 部分 m Eb02 现在 t Ca10 不得不 d Ka22 ATT MEAS SBV EXP dFEAT

@@ -1,0 +1,11 @@
+实际,n,Da01,出发,v,Ig01,只是,c,Kc13,把,p,Hc10,盯,v,Fc04,在,p,Jd02,当地,s,Cb15,实际上,d,Ka30
+我们,r,Aa02,的,u,Bo29,观念,n,Df01,将,p,Ae10,放,v,Ga13,到,v,Hf08,国内外,s,Cb05,市场,n,Cb28
+在,p,Jd02,向,v,Cb01,外,f,Ae17,的,u,Bo29,同时,n,Ca03
+万德莱,nz,-1,人,n,Ab02,又,d,Kc02,把,p,Hc10,投向,v,Fa15,市场,n,Cb28,的,u,Bo29,抢滩,v,-1
+用地,n,Cb07,的,u,Bo29,同时,n,Ca03,将,p,Ae10,放,v,Ga13,在,p,Jd02,盘活,v,Hj12,存量,n,-1
+投,v,Hi11,去,v,Ca11,钦佩,v,Gb12,的,u,Bo29,但,c,Kc03,恭敬,a,Ee33,守静,a,-1,没有,d,Jd08
+健康,a,Ed43,的,u,Bo29,生活,vn,Ib03,方式,n,Db09,要,v,Ag04,看到,v,Fc04,农村,n,Cb25,积极,ad,Ee23
+那种,r,Dd06,期盼,v,Gb04,焦虑,a,Ga02,的,u,Bo29,听到,v,Fc05,那,r,Kc08,发自,v,Jd06,肺腑,n,Df02
+职工,n,Ae01,们,k,Aa01,冷漠,a,Ee33,的,u,Bo29,破陋,a,-1,的,u,Bo29,工作,vn,Ae01,环境,n,Da21
+站,v,Cb26,得,u,Ib10,足够,v,He14,高,a,Eb04,又,d,Kc02,放,v,Ga13,得,u,Ib10,足够,v,He14
+化工,n,Di18,产品,n,Dj06,现在,t,Ca10,他们,r,Aa04,已,d,Ig02,瞄准,v,Hb06,精细,a,Eb33,化工,n,Di18

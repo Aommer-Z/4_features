@@ -1,0 +1,12 @@
+有,v,Jd07,篇,q,Dn08,连,p,Jd05,题目,n,Dd15,标点符号,n,Dk04,不足,v,Dd02,字,n,Bg07,的,u,Bo29,0
+的,u,Bo29,陈某,nr,-1,连,p,Jd05,车,n,Hd05,人,n,Ab02,撞,v,Id18,倒,v,He03,后,f,Ai03,0
+引力,n,Dd14,最终,d,Da06,连,u,Jd05,拉,v,Je01,扯,v,Hi12,地,u,Di09,将,p,Ae10,小,a,Ah08,0
+了,y,Ig01,可是,d,Kc03,连,p,Jd05,人,n,Ab02,车,n,Hd05,都,d,Cb25,要,v,Ag04,栽倒,v,Fd05,0
+的,u,Bo29,北风,n,Bf02,连,p,Jd05,蹦,v,Fb02,跳,v,Je09,地,u,Di09,在,p,Jd02,摄氏度,q,Dn01,0
+连,p,Jd05,跑,v,Ia10,颠,Vg,Bk02,地,u,Di09,忙,v,Ef06,过,v,Je09,0
+实施,v,Ie13,国家级,b,Di16,专家,n,Al02,会诊,vn,Hg20,教,v,Je04,计划,n,Di09,与,p,Je05,京,j,Di03,0
+在,p,Jd02,手中,s,Cb05,连,p,Jd05,走,v,Hi01,吃,v,Je13,0
+年,q,Ca18,时,Ng,Ca30,连,p,Jd05,本,n,Ed61,利,n,Je10,整,m,Hd04,笔,q,Dn08,转入,v,Ih01,0
+到期,v,Ie16,开始,v,Ig01,连,p,Jd05,本,n,Ed61,息,Ng,Ig02,取出,v,Hj25,再,d,Ig04,转,v,Ih02,0
+一路,m,Ka23,摸爬,v,-1,连,p,Jd05,跳,v,Je09,跌,v,Ih06,终于,d,Ka13,在,p,Jd02,太阳,n,Bg03,0
+去,v,Ca11,农家乐,n,-1,连,p,Jd05,吃,v,Je13,玩,v,Hj48,度,v,Gb03,周末,t,Ca22,节省,v,He13,0

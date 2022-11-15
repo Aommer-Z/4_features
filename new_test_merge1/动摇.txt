@@ -1,0 +1,16 @@
+更迭 vn Ih02 而 c Aa03 它 r Ba10 已 d Ig02 COO ADV mNEG REAS dCONT eSUCC mRELA mDEPD
+路线 n Cb27 不 d Ie01 紧紧 d Eb09 扭 v Id16 COO ADV SBV mNEG PAT
+决心 n Ga11 绝不 d Ka18 绝不 d Ka18 允许 v Hi32 COO ADV SBV mNEG EXP VOB dCONT eSUCC
+位置 n Cb01 决不 d Ka18 mNEG COO ADV eSUCC
+有 v Jd07 可能 n Gc02 COO ADV mDEPD
+目标 n Da28 不 d Ie01 ADV SBV mNEG EXP VOB dCONT
+丝毫 m Eb01 没有 d Jd08 坚持 v Gb02 把 p Hc10 COO ADV SBV mNEG Root AGT SCO HED eSUCC
+制度 n Di09 不 d Ie01 ADV SBV mNEG EXP Root HED
+不 d Ie01 容 v Jd05 的 u Bo29 日本 ns Cb25 VOB mDEPD CONT
+模糊 a Eb20 甚至 d Ka27 一些 m Eb02 领导 n Hc09 COO ADV eCOO eSUCC mDEPD
+不 d Ie01 会 v Hi05 理想 n Df10 信念 n Df01 COO ADV SBV CONT VOB eSUCC mRELA mDEPD
+这个 r Ed61 原则 n Dd11 COO HED VOB Root
+但 c Kc03 丝毫 m Eb01 不 d Ie01 了 v Ig01 CMP COO ADV CONT Root VOB eSUCC mRELA mDEPD
+不 d Ie01 能 v Gc02 一个 m Dn08 中国 ns Di02 COO ADV VOB PAT eSUCC mDEPD
+剧烈 a Ed15 地 u Di09 并 c Kc06 改变 v Ih02 COO ADV eCOO SBV MANN EXP Root VOB HED eSUCC
+公之于众 l -1 从而 c Kc09 了 u Ig01 对 p Fc04 COO ADV AGT VOB RAD PAT eSUCC mDEPD

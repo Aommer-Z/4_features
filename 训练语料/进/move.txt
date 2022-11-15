@@ -1,0 +1,30 @@
+献/v 车/n 交换/v 无奈/a ，/w 因为/c 不/d 能/v 走/v 车/n 4/m 进/v 7/m 吃/v 红/a 车/n ，/w 否则/c 红/a 车/n 五/m 平/v 六/m ，/w 立刻/d 成/v 杀/v 。/w 
+此时/r 黑方/n 还是/d 不/d 能/v 走/v 车/n 4/m 进/v 7/m 吃/v 红/a 六/m 路/n 车/n ，/w 那样的话/l 红方/n 只要/c 简单/a 地/u 走/v 车/n 五/m 平/v 七/m 吃/v 马/n ，/w 以/p 下/v 象/Ng 7/m 进/v 5/m （/w 将/n 5/m 平/v 4/m ，/w 后/f 炮/n 平/v 六/m ，/w 黑/a 无/v 应手/n ）/w ，/w 车/n 七/m 进/v 二/m ，/w 车/n 4/m 退/v 7/m ，/w 车/n 七/m 平/v 六/m ，/w 将/n 5/m 平/v 4/m ，/w 马/n 五/m 进/v 三/m ，/w 红/a 多/v 子/Ng 胜/v 定/v 。/w 
+如/v 走/v 车/n 4/m 进/v 2/m 保/v 中/f 象/Ng ，/w 红/a 马/n 五/m 进/v 三/m ，/w 将/n 伏/v 有/v 卧槽马/n 等/u 多种/m 攻击/vn 手段/n ，/w 黑/a 也/d 不/d 好/a 应付/vn 。/w 
+炮/n 五/m 进/v 六/m 士/Ng 5/m 进/v 6/m 
+炮/n 六/m 进/v 二/m 马/n 3/m 进/v 5/m 
+车/n 六/m 进/v 三/m 马/n 6/m 进/v 8/m 
+炮/n 六/m 进/v 二/m 马/n 5/m 退/v 3/m 
+马/n 五/m 进/v 三/m 车/n 4/m 进/v 4/m 
+相/n 三/m 进/v 五/m 车/n 5/m 退/v 3/m 
+车/n 七/m 进/v 一/m 车/n 5/m 进/v 2/m 
+马/n 一/m 进/v 三/m 车/n 5/m 平/v 1/m 
+马/n 三/m 进/v 二/m 士/Ng 6/m 进/v 5/m 
+马/n 二/m 进/v 三/m 马/n 4/m 进/v 2/m 
+退/v 马/n 一隅/n ，/w 十分/d 无奈/a ，/w 否则/c 红方/n 车/n 八/m 进/v 四/m 抓/v 死/v 黑马/n 。/w 
+后/f 马/n 退/v 132/m ．/w 马/n 七/m 进/v 五/m 车/n 8/m 平/v 4/m 
+车/n 三/m 平/v 四/m 车/n 4/m 进/v 2/m 
+车/n 八/m 进/v 四/m 车/n 4/m 退/v 6/m 35/m ．/w 车/n 四/m 进/v 一/m 
+黑/a 因/c 士/Ng 5/m 进/v 6/m ，/w 红/a 马/n 五/m 进/v 六/m ，/w 黑/a 丢/v 车/n ，/w 故/c 至此/d 爽快/ad 认负/v 。/w 
+炮/n 五/m 平/v 六/m 炮/n 4/m 平/v 5/m 23/m ．/w 马/n 九/m 进/v 七/m 
+车/n 4/m 平/v 3/m 24/m ．/w 炮/n 三/m 退/v 一/m 象/Ng 7/m 进/v 9/m 
+车/n 四/m 进/v 二/m 车/n 8/m 进/v 3/m 26/m ．/w 马/n 七/m 进/v 五/m 
+至此/d ，/w 红方/n 全军/n 出动/v ，/w 黑方/n 无法/v 阻挡/v 红方/n 下/f 步/q 马/n 五/m 进/v 六/m 的/u 攻击/vn ，/w 认/v 负/v 。/w 
+如/v 图/n ，/w 是/v 1999年/t 个人赛/n 第八/m 轮/q ，/w 孙/nr 勇征/nr 执黑/v 与/c 特级/b 大师/n 李/nr 来群/nr 的/u 中局/n 局面/n ，/w 红方/n 有/v 窝/v 心/n 马/n 的/u 弱点/n ，/w 孙/nr 勇征/nr 有/v 中/f 炮/v 之/u 利/n ，/w 面对/v 特级/b 大师/n 李/nr 来群/nr 进/v 车/n 捉/v 炮/v ，/w 小孙/nr 毅然/d 走/v 出/v 了/u 强手/n ，/w 得以/v 迅速/ad 走向/v 了/u 胜利/v 。/w 
+进/v 车/n 弃/Vg 炮/n ，/w 全力/d 进攻/v ，/w 算/v 准/a 红方/n 不/d 能/v 走/v 车/n 四/m 平/v 三/m 吃/v 炮/n ，/w 否则/c 黑马/n 5/m 进/v 4/m ，/w 伏/v 马/n 4/m 进/v 3/m 和/v 马/n 4/m 进/v 6/m 的/u 两/m 路/q 杀/v 势/Ng ，/w 红/a 顿时/d 没有/v 了/u 应手/n 。/w 
+车/n 九/m 进/v 一/m 马/n 5/m 进/v 726/m ．/w 马/n 七/m 进/v 五/m 马/n 7/m 进/v 6/m 
+强行/d 进/v 马/n 挂角/v 将军/v ，/w 迫使/vn 红方/n 以/p 车/n 换/v 马/n ，/w 正是/v 当初/t 孙/nr 勇征/nr 走/v 车/n 8/m 进/v 7/m 时/Ng 的/u 计划/n ，/w 可见/c 小将/n 的/u 算/v 度/Ng 之/u 准确/a 。/w 
+28/m ．/w 后/f 马/n 进/v 七/m 车/n 1/m 平/v 229/m ．/w 炮/v 八/m 平/v 一/m 车/n 6/m 退/v 1/m 
+30/m ．/w 士/Ng 六/m 进/v 五/m 炮/n 7/m 进/v 631/m ．/w 车/n 九/m 平/v 六/m 象/Ng 3/m 进/v 5/m 
+进/v 马/n 堵住/v 黑方/n 的/u 马路/n ，/w 暂时/d 缓解/v 一下/m 黑方/n 的/u 攻势/n 。/w 
+这/r 纯属/v 无奈/a 之/u 举/Ng ，/w 因为/c 走/v 士/Ng 四/m 进/v 五/m 或/c 帅/Ng 五/m 平/v 六/m 都/d 是/v 不/d 行/a 的/u 。/w 
